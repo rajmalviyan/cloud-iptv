@@ -52,7 +52,11 @@ https://cdn-3.pishow.tv/live/230/master.m3u8
 #EXTINF:-1 tvg-id="Nazara.in@SD" tvg-logo="https://www.epicon.in/img/nazara-logo.png" group-title="Entertainment",Nazara
 https://epiconvh.akamaized.net/live/nazara/master.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png" group-title="Movies", & Flix HD
-http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=15328301&extension=ts
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1532831&extension=ts
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png" group-title="Movies", & Prive HD
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155746&extension=ts
+#EXTINF:-1 tvg-logo="https://multireach.in/wp-content/uploads/2025/06/xplor-HD-scaled.jpg" group-title="Movies", & Explore HD
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=209743&extension=ts
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies", & Pictures HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155997&extension=ts
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Movies",Sony Max
@@ -61,12 +65,11 @@ http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1458625&exten
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156106&extension=ts
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies",Sony Max HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=280759&extension=ts
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/31/2/star-gold-logo-png_seeklogo-310758.png" group-title="Movies",Star Gold HD
-http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155959&extension=ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Star_Gold_2_HD_2020.svg/revision/latest?cb=20211215235613" group-title="Movies",Star Gold 2 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Star_Gold_2020.svg" group-title="Movies",Star Gold HD
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155969&extension=ts
+#EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2020/01/Star-Gold-2.jpg" group-title="Movies",Star Gold 2 HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1532835&extension=ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg/revision/latest?cb=20211216003639" group-title="Movies",Star Gold Select HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/b5/Star_Gold_Select.jpg?20221112103826" group-title="Movies",Star Gold Select HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155970&extension=ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Star_Gold_Romance.svg/revision/latest/scale-to-width-down/220?cb=20211216002621" group-title="Movies",Star Gold Romance
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156033&extension=ts
@@ -225,6 +228,7 @@ https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/ind
 https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
 #EXTINF:-1 tvg-id="SatsangWebTV.in" tvg-logo="https://i.imgur.com/40kNu1w.png" group-title="Religious",Satsang Web TV
 https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
+
 
 
 
