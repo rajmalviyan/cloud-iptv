@@ -11,14 +11,22 @@ https://cdn-6.pishow.tv/live/10002/master.m3u8
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=282025&extension=ts
 #EXTINF:-1 tvg-id="ColorsMarathi.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Marathi_SD.png" group-title="Marathi", Colors Marathi
 http://tvmate.icu:8080/nCqH8t/631017/125822?checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-id="ColorsMarathi.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="Marathi", Colors Marathi
+#EXTINF:-1 tvg-id="ColorsMarathi.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="Marathi", Colors Marathi HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155758&extension=ts
-#EXTINF:-1 tvg-id="StarPravah.in@SD" tvg-logo="https://en.wikipedia.org/wiki/File:Star_Pravah_2023.png" group-title="Marathi", Star Pravah
+#EXTINF:-1 tvg-id="ColorsMarathi.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="Marathi", Colors Marathi HD
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=945559&extension=ts
+#EXTINF:-1 tvg-id="StarPravah.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Star_Pravah_2023.png/995px-Star_Pravah_2023.png" group-title="Marathi", Star Pravah
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=282021&extension=ts
 #EXTINF:-1 tvg-id="StarPravah.in@HD" tvg-logo="https://img.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/4941/1424941-a-b57c5a18e60c" group-title="Marathi", Star Pravah HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155755&extension=ts
+#EXTINF:-1 tvg-id="StarPravah.in@HD" tvg-logo="https://img.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/4941/1424941-a-b57c5a18e60c" group-title="Marathi", Star Pravah HD
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=945553&extension=ts
+#EXTINF:-1 tvg-id="SonyMarathi.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Marathi", Sony Marathi
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1531123&extension=ts
 #EXTINF:-1 tvg-id="ColorsMarathi.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" group-title="Marathi", Zee Marathi HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=282022&extension=ts
+#EXTINF:-1 tvg-id="ZeeYuva.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="Marathi", Zee Yuva
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156151&extension=ts
 #EXTINF:-1 tvg-id="ZeeTalkies.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Marathi", Zee Talkies
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1531127&extension=ts
 #EXTINF:-1 tvg-id="ZeeTalkies.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" group-title="Marathi", Zee Talkies HD
@@ -47,8 +55,12 @@ https://epiconvh.akamaized.net/live/nazara/master.m3u8
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=15328301&extension=ts
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies", & Pictures HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155997&extension=ts
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Movies",Sony Max
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1458625&extension=ts
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies",Sony Max HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156106&extension=ts
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies",Sony Max HD
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=280759&extension=ts
 #EXTINF:-1 tvg-id="B4UKadak.in@SD" tvg-logo="https://i.imgur.com/CKLn0ft.png" group-title="Movies",B4U Kadak
 https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movies",B4U Movies
@@ -181,6 +193,7 @@ https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/ind
 https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
 #EXTINF:-1 tvg-id="SatsangWebTV.in" tvg-logo="https://i.imgur.com/40kNu1w.png" group-title="Religious",Satsang Web TV
 https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
+
 
 
 
