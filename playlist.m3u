@@ -277,7 +277,7 @@ https://cdn-6.pishow.tv/live/9/master.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
-#EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://smedia2.intoday.in/aajtak/aajtakhd/images/aajtakHd_logo.png" group-title="News",Aaj Tak HD
+#EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://smedia2.intoday.in/aajtak/aajtakhd/images/aajtakHd_logo.png" group-title="News", Aaj Tak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-name="ABP News" tvg-logo="https://i.imgur.com/DKHUFVQ.png" tvg-id="ABPNews.in" group-title="News",ABP News
 https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_abpnews/master.m3u8
@@ -367,12 +367,3 @@ https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/ind
 https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
 #EXTINF:-1 tvg-id="SatsangWebTV.in" tvg-logo="https://i.imgur.com/40kNu1w.png" group-title="Religious",Satsang Web TV
 https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
-
-
-
-
-
-
-
-
-
