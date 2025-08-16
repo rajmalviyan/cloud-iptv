@@ -315,8 +315,38 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/61
 https://livetv-channels.b-cdn.net/8076/playlist.m3u8
 #EXTINF:-1 tvg-id="DDSports.in@SD" tvg-logo="https://i.imgur.com/J2Ky5OO.png" group-title="Live Sports",DD Sports
 https://cdn-6.pishow.tv/live/13/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png?20221025095646" group-title="Live Sports",Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png" group-title="Live Sports",Star Sports 1 HD English
 https://tiger-hub.vercel.app/Star_Sports-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png" group-title="Live Sports",Star Sports 1 HD English
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155968&extension=ts
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180611/ivp/aa8mrt24g.webp" group-title="Live Sports",Star Sports 2 HD English
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1114581&extension=ts
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180611/ivp/aa8mrt24g.webp" group-title="Live Sports",Star Sports 2 HD English
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155966&extension=ts
+#EXTINF:-1 tvg-logo="https://img.airtel.tv/unsafe/fit-in/1600x0/filters:format(webp)/https://image.airtel.tv/content/XSTREAMADS/undefined/XSTREAMADS_VIDEO_65854223b7f4303b98b1626d/Star_Sports_1_HD_Hindi.png" group-title="Live Sports",Star Sports 1 HD Hindi
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1114582&extension=ts
+#EXTINF:-1 tvg-logo="https://img.airtel.tv/unsafe/fit-in/1600x0/filters:format(webp)/https://image.airtel.tv/content/XSTREAMADS/undefined/XSTREAMADS_VIDEO_65854223b7f4303b98b1626d/Star_Sports_1_HD_Hindi.png" group-title="Live Sports",Star Sports 1 HD Hindi
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=282674&extension=ts
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Live Sports",Star Sports 2 HD Hindi
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1698894&extension=ts
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Live Sports",Star Sports 2 HD Hindi
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1104676&extension=ts
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180806/wb/kisspng-logo-product-design-brand-font-star-sport-3-dream-hawker-5b67f075c40780.0817633215335384218029.jpg" group-title="Live Sports",Star Sports 3
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=282678&extension=ts
+#EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star-sports-select-1-hd-logo.webp" group-title="Live Sports",Star Sports Select 1 HD
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155972&extension=ts
+#EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star-sports-select-2-hd-logo.webp" group-title="Live Sports",Star Sports Select 2 HD
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=282676&extension=ts
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Live Sports", Sony TEN 1 HD
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156017&extension=ts
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Live Sports", Sony TEN 2 HD
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=282671&extension=ts
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Live Sports", Sony TEN 3 HD Hindi
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156024&extension=ts
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Live Sports", Sony TEN 3 HD Hindi
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=282672&extension=ts
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="Live Sports", EuroSports HD
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156027&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="Kids" group-title="",Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png" group-title="Kids",Jungle Book
@@ -339,4 +369,3 @@ https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/ind
 https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
 #EXTINF:-1 tvg-id="SatsangWebTV.in" tvg-logo="https://i.imgur.com/40kNu1w.png" group-title="Religious",Satsang Web TV
 https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
-
