@@ -319,9 +319,9 @@ https://cdn-6.pishow.tv/live/13/master.m3u8
 https://tiger-hub.vercel.app/Star_Sports-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png" group-title="Live Sports",Star Sports 1 HD English
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155968&extension=ts
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/86n1ir1643389161.png" group-title="Live Sports",Star Sports 2 HD English
+#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/1168/661168-h" group-title="Live Sports",Star Sports 2 HD English
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1114581&extension=ts
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/86n1ir1643389161.png" group-title="Live Sports",Star Sports 2 HD English
+#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/sources/r1/cms/prod/1168/661168-h" group-title="Live Sports",Star Sports 2 HD English
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155966&extension=ts
 #EXTINF:-1 tvg-logo="https://img.airtel.tv/unsafe/fit-in/1600x0/filters:format(webp)/https://image.airtel.tv/content/XSTREAMADS/undefined/XSTREAMADS_VIDEO_65854223b7f4303b98b1626d/Star_Sports_1_HD_Hindi.png" group-title="Live Sports",Star Sports 1 HD Hindi
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1114582&extension=ts
@@ -333,7 +333,7 @@ http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1698894&exten
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1104676&extension=ts
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180806/wb/kisspng-logo-product-design-brand-font-star-sport-3-dream-hawker-5b67f075c40780.0817633215335384218029.jpg" group-title="Live Sports",Star Sports 3
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=282678&extension=ts
-#EXTINF:-1 tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star-sports-select-1-hd-logo.webp" group-title="Live Sports",Star Sports Select 1 HD
+#EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7226/597226-h" group-title="Live Sports",Star Sports Select 1 HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155972&extension=ts
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7227/597227-h" group-title="Live Sports",Star Sports Select 2 HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=282676&extension=ts
@@ -367,3 +367,4 @@ https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/ind
 https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
 #EXTINF:-1 tvg-id="SatsangWebTV.in" tvg-logo="https://i.imgur.com/40kNu1w.png" group-title="Religious",Satsang Web TV
 https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
+
