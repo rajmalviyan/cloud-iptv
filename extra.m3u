@@ -54,3 +54,5 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpnews-xiaomi/pla
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeenews-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeBusiness.in@SD" tvg-logo="https://i.imgur.com/vkWBtL4.png" group-title="News",Zee Business
 https://dwby15d04agvq.cloudfront.net/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/53b61525cccd385419ef395273f66077" group-title="Kids",CARTOON NETWORK
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
