@@ -221,8 +221,6 @@ https://jiotvplus.iptv07india.workers.dev/index.mpd?id=1375
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="English Movies",Sony PIX HD
 https://la.drmlive.net/tp/sliv-pix.m3u8
-#EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/214x0-icon.png" group-title="English Movies", Sony PIX HD
-http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156004&extension=ts
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" group-title="English Movies",MNX HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -518,5 +516,6 @@ https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/in
 
 #EXTINF:-1 tvg-id="SatsangWebTV.in" tvg-logo="https://i.imgur.com/40kNu1w.png" group-title="Religious",Satsang Web TV
 https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
+
 
 
