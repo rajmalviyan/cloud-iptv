@@ -56,7 +56,7 @@ http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1531130&exten
 #EXTINF:-1 tvg-id="ts233" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jai_Maharashtra.png" group-title="Marathi News", Jai Maharashtra
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1531137&extension=ts
 #EXTINF:-1 tvg-id="ts40" tvg-logo="https://i.imgur.com/32W50Y6.png" group-title="Entertainment",&TV HD
-http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=809740&extension=ts
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155992&extension=ts
 #EXTINF:-1 tvg-id="ts40" tvg-logo="https://i.imgur.com/32W50Y6.png" group-title="Entertainment",&TV HD
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ts52" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment", Colors HD
@@ -445,6 +445,7 @@ https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/ind
 https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
 #EXTINF:-1 tvg-id="SatsangWebTV.in" tvg-logo="https://i.imgur.com/40kNu1w.png" group-title="Religious",Satsang Web TV
 https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
+
 
 
 
