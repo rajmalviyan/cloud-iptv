@@ -287,7 +287,9 @@ http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156056&extens
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ts733" tvg-logo="https://i.imgur.com/Zm4Fhah.png" group-title="Music",ShowBox
 https://epiconvh.akamaized.net/live/showbox/master.m3u8
-#EXTINF:-1 tvg-id="ts96" tvg-logo="https://i.imgur.com/kcDJ4g0.png" group-title="Music",Zoom
+#EXTINF:-1 tvg-id="Zoom.in@SD" tvg-logo="https://i.imgur.com/kcDJ4g0.png" group-title="Music",Zoom
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
+#EXTINF:-1 tvg-id="ts96" tvg-logo="https://i.imgur.com/kcDJ4g0.png" group-title="Music",Zoom HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=945564&extension=ts
 #EXTINF:-1 tvg-id="ts96" tvg-logo="https://i.imgur.com/kcDJ4g0.png" group-title="Music",Zoom(4K)
 http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281307&extension=ts
@@ -509,3 +511,4 @@ https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/ind
 https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
 #EXTINF:-1 tvg-id="SatsangWebTV.in" tvg-logo="https://i.imgur.com/40kNu1w.png" group-title="Religious",Satsang Web TV
 https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
+
