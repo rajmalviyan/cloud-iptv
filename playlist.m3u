@@ -240,8 +240,7 @@ http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=841993&extension=
 #EXTINF:-1 tvg-id="ts595" tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2017/03/star-gold-select-hd.jpg" group-title="Movies",Star Gold Select HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155970&extension=ts
 #EXTINF:-1 tvg-id="ts595" tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2017/03/star-gold-select-hd.jpg" group-title="Movies",Star Gold Select HD(UHD)
-
-
+http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=844263&extension=ts
 #EXTINF:-1 tvg-id="ts493" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Star_Gold_Romance.svg/revision/latest/scale-to-width-down/220?cb=20211216002621" group-title="Movies",Star Gold Romance
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156033&extension=ts
 #EXTINF:-1 tvg-id="ts494" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg/revision/latest/scale-to-width-down/200?cb=20211216004428" group-title="Movies",Star Gold Thrills
@@ -611,3 +610,4 @@ https://tplay-vivek.vercel.app/play.m3u8?id=288
 https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8
 #EXTINF:-1 tvg-id="ts43" tvg-logo="https://i.imgur.com/5WBWruX.png" group-title="Religious",Sanskar USA(FREE)
 https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
+
