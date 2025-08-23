@@ -102,7 +102,7 @@ https://tplay-vivek.vercel.app/play.m3u8?id=52
 #EXTINF:-1 tvg-id="ts543" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png" group-title="Entertainment", Colors
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=163527&extension=ts
 #EXTINF:-1 tvg-id="ts15" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SET HD
-http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156104
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156104&extension=ts
 #EXTINF:-1 tvg-id="ts15" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SET HD(UHD)
 http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281287&extension=ts
 #EXTINF:-1 tvg-id="ts556" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Entertainment",SET(DRM)
@@ -618,6 +618,7 @@ https://tplay-vivek.vercel.app/play.m3u8?id=288
 https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8
 #EXTINF:-1 tvg-id="ts43" tvg-logo="https://i.imgur.com/5WBWruX.png" group-title="Religious",Sanskar USA(FREE)
 https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
+
 
 
 
