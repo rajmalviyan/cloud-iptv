@@ -435,24 +435,22 @@ http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1540010&exten
 #EXTINF:-1 tvg-id="ts113" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="Infotainment",Discovery Science(TATA-PLAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=113
-#EXTINF:-1 tvg-id="ts113" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="Infotainment",Discovery Science(4K)
-http://ip96.uk:8080/live/Ghosia104/pathan104/246735.ts
 #EXTINF:-1 tvg-id="ts228" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="Infotainment",Discovery Turbo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c011525969e44b99a86059dbb3cdf4e8:6700a5d93203417b8585f7de7dd1a09b
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
 #EXTINF:-1 tvg-id="ts460" tvg-logo="https://www.sonybbcearth.com/images/logo.png" group-title="Infotainment", Sony BBC Earth HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156012&extension=ts
-#EXTINF:-1 tvg-id="ts460" tvg-logo="https://www.sonybbcearth.com/images/logo.png" group-title="Infotainment", Sony BBC Earth(4K)
-http://ip96.uk:8080/live/Ghosia104/pathan104/246729.ts
+#EXTINF:-1 tvg-id="ts460" tvg-logo="https://www.sonybbcearth.com/images/logo.png" group-title="Infotainment", Sony BBC Earth(UHD)
+http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281316&extension=ts
 #EXTINF:-1 tvg-id="ts616" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_HD.png" group-title="Infotainment",History TV 18 HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156018&extension=ts
 #EXTINF:-1 tvg-id="ts616" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_HD.png" group-title="Infotainment",History TV 18 HD(UHD)
 http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281367&extension=ts
 #EXTINF:-1 tvg-id="ts605" tvg-name="National Geographic HD" tvg-language="Unknown" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="Infotainment",National Geographic HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156011&extension=ts
-#EXTINF:-1 tvg-id="ts605" tvg-name="National Geographic HD" tvg-language="Unknown" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="Infotainment",National Geographic HD(4K)
-http://ip96.uk:8080/live/Ghosia104/pathan104/246727.ts
+#EXTINF:-1 tvg-id="ts605" tvg-name="National Geographic HD" tvg-language="Unknown" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="Infotainment",National Geographic HD(UHD)
+http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281339&extension=ts
 #EXTINF:-1 tvg-id="ts413" tvg-name="Nat Geo Wild HD" tvg-language="Unknown" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png" group-title="Infotainment",Nat Geo Wild HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155989&extension=ts
 #EXTINF:-1 tvg-id="ts413" tvg-name="Nat Geo Wild HD" tvg-language="Unknown" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png" group-title="Infotainment",Nat Geo Wild HD(UHD)
@@ -619,6 +617,7 @@ https://tplay-vivek.vercel.app/play.m3u8?id=288
 https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8
 #EXTINF:-1 tvg-id="ts43" tvg-logo="https://i.imgur.com/5WBWruX.png" group-title="Religious",Sanskar USA(FREE)
 https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
+
 
 
 
