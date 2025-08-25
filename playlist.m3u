@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="9XJhakaas.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-title="Marathi",9x Jhakaas(FREE)
+#EXTINF:-1 tvg-id="441" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-title="Marathi",9x Jhakaas(FREE)
 https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="9XJhakaas.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-title="Marathi",9x Jhakaas(UHD)
+#EXTINF:-1 tvg-id="441" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-title="Marathi",9x Jhakaas(UHD)
 http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281764&extension=ts
 #EXTINF:-1 tvg-id="ts217" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Marathi.png" group-title="Marathi",Sangeet Marathi
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155763&extension=ts
@@ -37,11 +37,11 @@ http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=282021&extens
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155755&extension=ts
 #EXTINF:-1 tvg-id="ts469" tvg-logo="https://img.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/4941/1424941-a-b57c5a18e60c" group-title="Marathi",Star Pravah HD(UHD)
 http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281763&extension=ts
-#EXTINF:-1 tvg-id="ts658" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Marathi",Sony Marathi
+#EXTINF:-1 tvg-id="1146" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Marathi",Sony Marathi
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1531123&extension=ts
-#EXTINF:-1 tvg-id="ts658" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Marathi",Sony Marathi(DRM)
+#EXTINF:-1 tvg-id="1146" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Marathi",Sony Marathi(DRM)
 https://la.drmlive.net/tp/sliv-marathi.m3u8
-#EXTINF:-1 tvg-id="ts658" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Marathi",Sony Marathi(UHD)
+#EXTINF:-1 tvg-id="1146" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Marathi",Sony Marathi(UHD)
 http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281769&extension=ts
 #EXTINF:-1 tvg-id="ts251" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" group-title="Marathi", Zee Marathi(TATA-PLAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -50,11 +50,11 @@ https://tplay-vivek.vercel.app/play.m3u8?id=251
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=282022&extension=ts
 #EXTINF:-1 tvg-id="ts501" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" group-title="Marathi", Zee Marathi HD(UHD)
 http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281762&extension=ts
-#EXTINF:-1 tvg-id="ts241" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="Marathi", Zee Yuva
+#EXTINF:-1 tvg-id="ts248" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="Marathi", Zee Yuva
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156151&extension=ts
-#EXTINF:-1 tvg-id="ts241" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="Marathi", Zee Yuva(UHD)
+#EXTINF:-1 tvg-id="ts248" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="Marathi", Zee Yuva(UHD)
 http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281446&extension=ts
-#EXTINF:-1 tvg-id="ts241" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="Marathi", Zee Yuva(TATA-PLAY)
+#EXTINF:-1 tvg-id="ts248" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="Marathi", Zee Yuva(TATA-PLAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=248
 #EXTINF:-1 tvg-id="ts249" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Marathi", Zee Talkies
@@ -62,9 +62,9 @@ http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1540040&exten
 #EXTINF:-1 tvg-id="ts249" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Marathi", Zee Talkies(TATA-PLAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=249
-#EXTINF:-1 tvg-id="ts505" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" group-title="Marathi", Zee Talkies HD
+#EXTINF:-1 tvg-id="ts515" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" group-title="Marathi", Zee Talkies HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155756&extension=ts
-#EXTINF:-1 tvg-id="ts505" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Marathi", Zee Talkies HD(UHD)
+#EXTINF:-1 tvg-id="ts515" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Marathi", Zee Talkies HD(UHD)
 http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281761&extension=ts
 #EXTINF:-1 tvg-id="ts155" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="Marathi News",ABP Majha(FREE)
 https://in1.sunilprasad.com.np/yuppLive/abp-majha/master.m3u8
@@ -100,37 +100,37 @@ http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281280&extension=
 https://tplay-vivek.vercel.app/play.m3u8?id=52
 #EXTINF:-1 tvg-id="ts543" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png" group-title="Entertainment", Colors
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=163527&extension=ts
-#EXTINF:-1 tvg-id="ts15" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SET HD
+#EXTINF:-1 tvg-id="291" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SET HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156104&extension=ts
-#EXTINF:-1 tvg-id="ts15" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SET HD(UHD)
+#EXTINF:-1 tvg-id="291" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SET HD(UHD)
 http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281287&extension=ts
-#EXTINF:-1 tvg-id="ts556" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Entertainment",SET HD(DRM)
+#EXTINF:-1 tvg-id="291" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Entertainment",SET HD(DRM)
 https://la.drmlive.net/tp/sliv-sony.m3u8
-#EXTINF:-1 tvg-id="ts15" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SET HD(TATA-PLAY)
+#EXTINF:-1 tvg-id="291" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SET HD(TATA-PLAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=15
-#EXTINF:-1 tvg-id="ts556" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Entertainment",SET
+#EXTINF:-1 tvg-id="1396" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Entertainment",SET
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1458624&extension=ts
-#EXTINF:-1 tvg-id="ts556" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Entertainment",SET(UHD)
+#EXTINF:-1 tvg-id="1396" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Entertainment",SET(UHD)
 http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281289&extension=ts
-#EXTINF:-1 tvg-id="ts48" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment",Sony SAB HD
+#EXTINF:-1 tvg-id="471" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment",Sony SAB HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=280764&extension=ts
-#EXTINF:-1 tvg-id="ts48" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment",Sony SAB HD(DRM)
+#EXTINF:-1 tvg-id="471" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment",Sony SAB HD(DRM)
 https://la.drmlive.net/tp/sliv-sab.m3u8
-#EXTINF:-1 tvg-id="ts48" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment",Sony SAB HD(TATA-PLAY)
+#EXTINF:-1 tvg-id="471" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment",Sony SAB HD(TATA-PLAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=48
-#EXTINF:-1 tvg-id="ts48" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment",Sony SAB HD(UHD 5.1)
+#EXTINF:-1 tvg-id="471" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment",Sony SAB HD(UHD 5.1)
 http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281293&extension=ts
-#EXTINF:-1 tvg-id="ts559" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",Sony SAB
+#EXTINF:-1 tvg-id="154" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",Sony SAB
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=157162&extension=ts
-#EXTINF:-1 tvg-id="ts554" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment",Sony Pal
+#EXTINF:-1 tvg-id="474" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment",Sony Pal
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156101&extension=ts
-#EXTINF:-1 tvg-id="ts554" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment",Sony Pal(DRM)
+#EXTINF:-1 tvg-id="474" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment",Sony Pal(DRM)
 https://la.drmlive.net/tp/sliv-pal.m3u8
-#EXTINF:-1 tvg-id="ts56" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Entertainment", Sony Wah
+#EXTINF:-1 tvg-id="1393" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Entertainment", Sony Wah
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156039&extension=ts
-#EXTINF:-1 tvg-id="ts56" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Entertainment", Sony Wah(DRM)
+#EXTINF:-1 tvg-id="1393" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Entertainment", Sony Wah(DRM)
 https://la.drmlive.net/tp/sliv-wah.m3u8
 #EXTINF:-1 tvg-id="SonyKal@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sony_Kal_Logo.jpg/revision/latest?cb=20240615084342" group-title="Entertainment",Sony Kal(FREE)
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
@@ -189,17 +189,17 @@ https://tplay-vivek.vercel.app/play.m3u8?id=194
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=280897&extension=ts
 #EXTINF:-1 tvg-id="ts1184" tvg-logo="https://www.epicon.in/img/nazara-logo.png" group-title="Entertainment",Nazara(FREE)
 https://epiconvh.akamaized.net/live/nazara/master.m3u8
-#EXTINF:-1 tvg-id="ts506" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png" group-title="Movies", & Flix HD
+#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png" group-title="Movies", & Flix HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155990&extension=ts
-#EXTINF:-1 tvg-id="ts506" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png" group-title="Movies", & Flix HD(UHD)
+#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png" group-title="Movies", & Flix HD(UHD)
 http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281311&extension=ts
-#EXTINF:-1 tvg-id="ts530" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png" group-title="Movies", & Prive HD
+#EXTINF:-1 tvg-id="0-9-privéhd" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png" group-title="Movies", & Prive HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155746&extension=ts
-#EXTINF:-1 tvg-id="ts530" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png" group-title="Movies", & Prive HD(UHD)
+#EXTINF:-1 tvg-id="0-9-privéhd" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png" group-title="Movies", & Prive HD(UHD)
 http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281642&extension=ts
-#EXTINF:-1 tvg-id=""ts1183 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-209/list/1920x1080list1fb75b73f2e441d49af9bc4a1ad782de.jpg" group-title="Movies", & Explore HD
+#EXTINF:-1 tvg-id=""0-9-209 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-209/list/1920x1080list1fb75b73f2e441d49af9bc4a1ad782de.jpg" group-title="Movies", & Explore HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=209743&extension=ts
-#EXTINF:-1 tvg-id=""ts1183 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-209/list/1920x1080list1fb75b73f2e441d49af9bc4a1ad782de.jpg" group-title="Movies", & Explore HD(UHD)
+#EXTINF:-1 tvg-id=""0-9-209 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-209/list/1920x1080list1fb75b73f2e441d49af9bc4a1ad782de.jpg" group-title="Movies", & Explore HD(UHD)
 http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281295&extension=ts
 #EXTINF:-1 tvg-id="ts148" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures.png" group-title="Movies", & Pictures(TATA-PLAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -209,18 +209,18 @@ http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155997&extens
 #EXTINF:-1 tvg-id="ts267" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies", & Pictures HD(TATA-PLAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=267
-#EXTINF:-1 tvg-id="ts80" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies",Sony Max HD
+#EXTINF:-1 tvg-id="476" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies",Sony Max HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156106&extension=ts
-#EXTINF:-1 tvg-id="ts80" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies",Sony Max HD(UHD)
+#EXTINF:-1 tvg-id="476" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies",Sony Max HD(UHD)
 http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281290&extension=ts
-#EXTINF:-1 tvg-id="ts80" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies",Sony Max HD(DRM)
+#EXTINF:-1 tvg-id="476" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies",Sony Max HD(DRM)
 https://la.drmlive.net/tp/sliv-maxhd.m3u8
-#EXTINF:-1 tvg-id="ts80" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies",Sony Max HD(TATA-PLAY)
+#EXTINF:-1 tvg-id="476" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies",Sony Max HD(TATA-PLAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=80
-#EXTINF:-1 tvg-id="ts132" tvg-id="SONY MAX.in" tvg-name="SONY MAX.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Movies", Sony Max(DRM)
+#EXTINF:-1 tvg-id="289" tvg-id="SONY MAX.in" tvg-name="SONY MAX.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Movies", Sony Max(DRM)
 https://la.drmlive.net/tp/sliv-max.m3u8
-#EXTINF:-1 tvg-id="ts132" tvg-id="SONY MAX.in" tvg-name="SONY MAX.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Movies", Sony Max(TATA-PLAY)
+#EXTINF:-1 tvg-id="289" tvg-id="SONY MAX.in" tvg-name="SONY MAX.in" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Movies", Sony Max(TATA-PLAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=132
 #EXTINF:-1 tvg-id="ts632" tvg-logo="https://i.imgur.com/xC460sj.png" group-title="Movies",Star Gold HD
@@ -274,11 +274,11 @@ https://tplay-vivek.vercel.app/play.m3u8?id=53
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=946375&extension=ts
 #EXTINF:-1 tvg-id="ts1000" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="Movies",Colors Cineplex Superhits
 http://ip96.uk:8080/live/Ghosia104/pathan104/499620.ts
-#EXTINF:-1 tvg-id="ts120" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Movies", Sony Max 2
+#EXTINF:-1 tvg-id="483" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Movies", Sony Max 2
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156118&extension=ts
-#EXTINF:-1 tvg-id="ts120" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Movies", Sony Max 2(DRM)
+#EXTINF:-1 tvg-id="483" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Movies", Sony Max 2(DRM)
 https://la.drmlive.net/tp/sliv-max2.m3u8
-#EXTINF:-1 tvg-id="ts120" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Movies", Sony Max 2(TATA-PLAY)
+#EXTINF:-1 tvg-id="483" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Movies", Sony Max 2(TATA-PLAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=120
 #EXTINF:-1 tvg-id="BollywoodHD" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-hd/logo_20231219_184845_51.png" group-title="Movies",Bollywood HD
@@ -288,11 +288,11 @@ http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156139&extens
 #EXTINF:-1 tvg-id="ts100" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png?20230801125521" group-title="Movies", Zee Action(TATA-PLAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=100
-#EXTINF:-1 tvg-id="ts64" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="Movies", Zee Anmol Cinema
+#EXTINF:-1 tvg-id="0-9-zeeanmolcinema" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="Movies", Zee Anmol Cinema
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156146&extension=ts
-#EXTINF:-1 tvg-id=:ts64" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="Movies", Zee Anmol Cinema(UHD)
+#EXTINF:-1 tvg-id="0-9-zeeanmolcinema" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="Movies", Zee Anmol Cinema(UHD)
 http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281436&extension=ts
-#EXTINF:-1 tvg-id="ts64" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="Movies", Zee Anmol Cinema(TATA-PLAY)
+#EXTINF:-1 tvg-id="0-9-zeeanmolcinema" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="Movies", Zee Anmol Cinema(TATA-PLAY)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=64
 #EXTINF:-1 tvg-id="ts12" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Ganga.png" group-title="Movies", Zee Anmol Cinema 2
@@ -609,6 +609,7 @@ https://tplay-vivek.vercel.app/play.m3u8?id=288
 https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8
 #EXTINF:-1 tvg-id="ts43" tvg-logo="https://i.imgur.com/5WBWruX.png" group-title="Religious",Sanskar USA(FREE)
 https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
+
 
 
 
