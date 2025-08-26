@@ -47,7 +47,7 @@ http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281769&extension=
 #EXTINF:-1 tvg-id="1146" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Marathi",Sony Marathi TP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=658
-#EXTINF:-1 tvg-id="ts251" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" group-title="Marathi", Zee Marathi TP
+#EXTINF:-1 tvg-id="ts251" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi.png" group-title="Marathi", Zee Marathi TP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=251
 #EXTINF:-1 tvg-id="ts501" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" group-title="Marathi", Zee Marathi HD
@@ -64,6 +64,9 @@ http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281446&extension=
 #EXTINF:-1 tvg-id="ts248" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="Marathi", Zee Yuva TP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=248
+#EXTINF:-1 tvg-id="ts666" tvg-logo="https://www.tataplay.com/cms-assets/services/banners/2020-05/tata-sky-theatre-logo.png" group-title="Marathi",Zee Theater HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://tplay-vivek.vercel.app/play.m3u8?id=666
 #EXTINF:-1 tvg-id="ts622" tvg-logo="https://www.tataplay.com/cms-assets/services/banners/2022-01/Marathi-Cinema.png" group-title="Marathi",Tata Play Marathi Cinema TP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=622
@@ -79,9 +82,6 @@ http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281761&extension=
 #EXTINF:-1 tvg-id="ts515" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Marathi", Zee Talkies HD TP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=515
-#EXTINF:-1 tvg-id="ts666" tvg-logo="https://www.tataplay.com/cms-assets/services/banners/2020-05/tata-sky-theatre-logo.png" group-title="Marathi",Zee Theater HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=666
 #EXTINF:-1 tvg-id="ts155" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="Marathi",ABP Majha
 https://in1.sunilprasad.com.np/yuppLive/abp-majha/master.m3u8
 #EXTINF:-1 tvg-id="ts1343" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Marathi.png" group-title="Marathi",NDTV Marathi
@@ -126,7 +126,7 @@ https://tplay-vivek.vercel.app/play.m3u8?id=543
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156104&extension=ts
 #EXTINF:-1 tvg-id="ts15" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SET UHD
 http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281287&extension=ts
-#EXTINF:-1 tvg-id="ts15" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Entertainment",SET HD DRM
+#EXTINF:-1 tvg-id="ts15" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SET HD DRM
 https://la.drmlive.net/tp/sliv-sony.m3u8
 #EXTINF:-1 tvg-id="ts15" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SET HD TP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -674,6 +674,7 @@ https://tplay-vivek.vercel.app/play.m3u8?id=288
 https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8
 #EXTINF:-1 tvg-id="ts43" tvg-logo="https://i.imgur.com/5WBWruX.png" group-title="Religious",Sanskar USA
 https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
+
 
 
 
