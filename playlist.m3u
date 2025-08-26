@@ -220,6 +220,9 @@ https://tplay-vivek.vercel.app/play.m3u8?id=559
 #EXTINF:-1 tvg-id="474" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment",Sony Pal
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156101&extension=ts
 
+#EXTINF:-1 tvg-id="474" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment",Sony Pal UHD
+http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=842009&extension=ts
+
 #EXTINF:-1 tvg-id="474" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment",Sony Pal DRM
 https://la.drmlive.net/tp/sliv-pal.m3u8
 
@@ -696,7 +699,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mp
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156012&extension=ts
 
 #EXTINF:-1 tvg-id="ts460" tvg-logo="https://www.sonybbcearth.com/images/logo.png" group-title="Infotainment", Sony BBC Earth UHD
-http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281316&extension=ts
+http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=844256&extension=ts
 
 #EXTINF:-1 tvg-id="ts616" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_HD.png" group-title="Infotainment",History TV 18 HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156018&extension=ts
@@ -971,5 +974,6 @@ https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/in
 
 #EXTINF:-1 tvg-id="ts43" tvg-logo="https://i.imgur.com/5WBWruX.png" group-title="Religious",Sanskar USA
 https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
+
 
 
