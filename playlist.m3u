@@ -325,7 +325,7 @@ http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=697929&extens
 #EXTINF:-1 tvg-id="SaharaOne" tvg-logo="https://admin.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/11/20/IMG_6488%20%281%29.PNG" group-title="Entertainment",Sahara One
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156065&extension=ts
 
-#EXTINF: -1 tvg-id="ts506" tvg-chno="41" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_flix_SD.png" group-title="YuppTV", & Flix
+#EXTINF: -1 tvg-id="ts506" tvg-chno="41" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_flix_SD.png" group-title="Movies", & Flix
 https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 
 #EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png" group-title="Movies", & Flix HD
@@ -968,3 +968,4 @@ https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/in
 
 #EXTINF:-1 tvg-id="ts43" tvg-logo="https://i.imgur.com/5WBWruX.png" group-title="Religious",Sanskar USA
 https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
+
