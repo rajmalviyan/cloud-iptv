@@ -92,14 +92,6 @@ http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281446&extension=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=248
 
-#EXTINF:-1 tvg-id="ts666" tvg-logo="https://www.tataplay.com/cms-assets/services/banners/2020-05/tata-sky-theatre-logo.png" group-title="Regional Marathi",Zee Theater HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=666
-
-#EXTINF:-1 tvg-id="ts622" tvg-logo="https://www.tataplay.com/cms-assets/services/banners/2022-01/Marathi-Cinema.png" group-title="Regional Marathi",Tata Play Marathi Cinema TP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=622
-
 #EXTINF:-1 tvg-id="ts249" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Regional Marathi", Zee Talkies
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1540040&extension=ts
 #EXTINF:-1 tvg-id="ts249" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Regional Marathi", Zee Talkies TP
@@ -467,9 +459,6 @@ https://la.drmlive.net/tp/sliv-max2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=120
 
-#EXTINF:-1 tvg-id="BollywoodHD" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-hd/logo_20231219_184845_51.png" group-title="Movies",Bollywood HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-
 #EXTINF:-1 tvg-id="ts100" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png?20230801125521" group-title="Movies", Zee Action
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156139&extension=ts
 
@@ -517,12 +506,8 @@ https://tplay-vivek.vercel.app/play.m3u8?id=7
 #EXTINF:-1 tvg-id="ts1637" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Movies",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ts486" tvg-logo="https://i.imgur.com/1b6PRjs.jpeg" group-title="Movies",Tata Play Bolloywood Premier
-http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156028&extension=ts
-
-#EXTINF:-1 tvg-id="ts486" tvg-logo="https://i.imgur.com/1b6PRjs.jpeg" group-title="Movies",Tata Play Bolloywood Premier TP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=486
+#EXTINF:-1 tvg-id="BollywoodHD" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-hd/logo_20231219_184845_51.png" group-title="Movies",Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
 #EXTINF:-1 tvg-id="HindiMovies" group-title="Movies" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_maBL20YKBdGvd0wLHE-4plrMQ24c4GOys8J61jyx4A3Q=s900-c-k-c0x00ffffff-no-rj",Hindi Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
@@ -540,7 +525,22 @@ https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=624
 
-#EXTINF:-1 tvg-id="ts789" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48748-k4jbpl00-v2/imageContent-48748-k4jbpl00-m3.png" group-title="Movies",Tata Play Hollwood Local
+#EXTINF:-1 tvg-id="ts666" tvg-logo="https://www.tataplay.com/cms-assets/services/banners/2020-05/tata-sky-theatre-logo.png" group-title="Tata Play",Tata Play Theatre HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://tplay-vivek.vercel.app/play.m3u8?id=666
+
+#EXTINF:-1 tvg-id="ts622" tvg-logo="https://www.tataplay.com/cms-assets/services/banners/2022-01/Marathi-Cinema.png" group-title="Tata Play",Tata Play Marathi Cinema TP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://tplay-vivek.vercel.app/play.m3u8?id=622
+
+#EXTINF:-1 tvg-id="ts486" tvg-logo="https://i.imgur.com/1b6PRjs.jpeg" group-title="Tata Play",Tata Play Bolloywood Premier
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156028&extension=ts
+
+#EXTINF:-1 tvg-id="ts486" tvg-logo="https://i.imgur.com/1b6PRjs.jpeg" group-title="Tata Play",Tata Play Bolloywood Premier TP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://tplay-vivek.vercel.app/play.m3u8?id=486
+
+#EXTINF:-1 tvg-id="ts789" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48748-k4jbpl00-v2/imageContent-48748-k4jbpl00-m3.png" group-title="Tata Play",Tata Play Hollwood Local
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=789
 
@@ -1062,5 +1062,6 @@ https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/in
 
 #EXTINF:-1 tvg-id="ts43" tvg-logo="https://i.imgur.com/5WBWruX.png" group-title="Religious",Sanskar USA
 https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
+
 
 
