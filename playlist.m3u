@@ -319,76 +319,6 @@ http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156065&extens
 
 #EXTINF:-1 tvg-id="SaharaOne" tvg-logo="https://admin.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/11/20/IMG_6488%20%281%29.PNG" group-title="Entertainment",Sahara One UHD
 http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281421&extension=ts
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SonyLive", SET HD
-https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8|X-Forwarded-For=23.52.73.244
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj0NBCeqsaWxY3O0zNeKvGjUPXWQluRmThtQ&s" group-title="SonyLive", Sony SAB 
-https://bd.drmlive.net/toffee/cdn/live/sonysab_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1000009248" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SonyLive", Sony SAB HD
-https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8|X-Forwarded-For=23.52.73.244
-
-#EXTINF:-1 tvg-id="1000009273" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SonyLive", Sony PAL
-https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8|X-Forwarded-For=23.52.73.244
-
-#EXTINF:-1 tvg-id="1000001971" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SonyLive", Sony YAY
-https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8|X-Forwarded-For=23.52.73.244
-
-#EXTINF:-1 tvg-id="1000009255" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="SonyLive", Sony AATH
-https://dai.google.com/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8|X-Forwarded-For=23.52.73.244
-
-#EXTINF:-1 tvg-id="1000009259" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="SonyLive", Sony Marathi
-https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8|X-Forwarded-For=23.52.73.244
-
-#EXTINF:-1 tvg-id="1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SonyLive", Sony BBC Earth HD
-https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8|X-Forwarded-For=23.52.73.244
-
-#EXTINF:-1 tvg-id="1000009258" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SonyLive", Sony PIX HD
-https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8|X-Forwarded-For=23.52.73.244
-
-#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="SonyLive", Sony WAH
-https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8|X-Forwarded-For=23.52.73.244
-
-#EXTINF:-1 tvg-id="1000009249" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="SonyLive", Sony MAX
-https://dai.google.com/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8|X-Forwarded-For=23.52.73.244
-
-#EXTINF:-1 tvg-id="1000009247" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SonyLive", Sony MAX HD
-https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8|X-Forwarded-For=23.52.73.244
-
-#EXTINF:-1 tvg-id="1000044878" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="SonyLive", Sony MAX2
-https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8|X-Forwarded-For=23.52.73.244
-
-#EXTINF:-1 tvg-id="1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="SonyLive", Sony TEN 1
-https://dai.google.com/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8|X-Forwarded-For=23.52.73.244
-
-#EXTINF:-1 tvg-id="1000009279" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="SonyLive", Sony TEN 2
-https://dai.google.com/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8|X-Forwarded-For=23.52.73.244
-
-#EXTINF:-1 tvg-id="1000009283" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="SonyLive", Sony TEN 3
-https://dai.google.com/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8|X-Forwarded-For=23.52.73.244
-
-#EXTINF:-1 tvg-id="1000119187" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="SonyLive", Sony TEN 4
-https://dai.google.com/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8|X-Forwarded-For=23.52.73.244
-
-#EXTINF:-1 tvg-id="1000009281" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SonyLive", Sony TEN 5
-https://dai.google.com/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8|X-Forwarded-For=23.52.73.244
-
-#EXTINF:-1 tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SonyLive", Sony TEN 1 HD
-https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8|X-Forwarded-For=23.52.73.244
-
-#EXTINF:-1 tvg-id="1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SonyLive", Sony TEN 2 HD
-https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8|X-Forwarded-For=23.52.73.244
-
-#EXTINF:-1 tvg-id="1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SonyLive", Sony TEN 3 HD
-https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8|X-Forwarded-For=23.52.73.244
-
-#EXTINF:-1 tvg-id="1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SonyLive", Sony TEN 4 HD
-https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8|X-Forwarded-For=23.52.73.244
-
-#EXTINF:-1 tvg-id="1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLive", Sony TEN 5 HD
-https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8|X-Forwarded-For=23.52.73.244
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF: -1 tvg-id="ts592" tvg-chno="41" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_flix_SD.png" group-title="Movies", & Flix
 https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
@@ -610,6 +540,10 @@ https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=624
 
+#EXTINF:-1 tvg-id="ts789" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48748-k4jbpl00-v2/imageContent-48748-k4jbpl00-m3.png" group-title="Movies",Tata Play Hollwood Local
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://tplay-vivek.vercel.app/play.m3u8?id=789
+
 #EXTINF:-1 tvg-id="ts558" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png" group-title="English Movies",Sony PIX TP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=558
@@ -617,9 +551,15 @@ https://tplay-vivek.vercel.app/play.m3u8?id=558
 #EXTINF:-1 tvg-id="ts32" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="English Movies",Sony PIX HD DRM
 https://la.drmlive.net/tp/sliv-pix.m3u8
 
-#EXTINF:-1 tvg-id="ts32" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="English Movies",Sony PIX HD TP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=32
+#EXTINF:-1 tvg-id="1104" tvg-name="Star Movies HD" tvg-language="Unknown" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="English Movies" group-logo="", Star Movies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=6ac6943751e558b181da32727f03dff7&key=f36e5cd48252bcd0fcda2bfe21f5b365
+https://freelivtv.xyz/token/jtvu.mpd?token=GfnUPyW&id=1104
+
+#EXTINF:-1 tvg-id="1110" tvg-name="Star Movies Select HD" tvg-language="Unknown" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="English Movies" group-logo="", Star Movies Select HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=b55393cd147a54debaf2b0f2d82b5d9f&key=6b168db49241a78c1b423ab9a29409ef
+https://freelivtv.xyz/token/jtvu.mpd?token=GfnUPyW&id=1110
 
 #EXTINF:-1 tvg-id="ts599" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" group-title="English Movies",MNX HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -776,9 +716,6 @@ http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156012&extens
 
 #EXTINF:-1 tvg-id="ts460" tvg-logo="https://www.sonybbcearth.com/images/logo.png" group-title="Knowledge", Sony BBC Earth UHD
 http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=844256&extension=ts
-
-#EXTINF:-1 tvg-id="ts460" tvg-logo="https://www.sonybbcearth.com/images/logo.png" group-title="Knowledge", Sony BBC Earth HD DRM
-https://la.drmlive.net/tp/sliv-bbc.m3u8
 
 #EXTINF:-1 tvg-id="ts616" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_HD.png" group-title="Knowledge",History TV 18 HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156018&extension=ts
@@ -1125,4 +1062,5 @@ https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/in
 
 #EXTINF:-1 tvg-id="ts43" tvg-logo="https://i.imgur.com/5WBWruX.png" group-title="Religious",Sanskar USA
 https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
+
 
