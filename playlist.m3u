@@ -8,23 +8,25 @@ https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01
 #http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281764&extension=ts
 
 #EXTINF:-1 tvg-id="ts217" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Marathi.png" group-title="Regional Marathi",Sangeet Marathi
-http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155763&extension=ts
+https://live.dinesh29.com.np/stream/jiotvplus/sangeetmarathi/master.m3u8
 
 #EXTINF:-1 tvg-id="ts217" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Marathi.png" group-title="Regional Marathi",Sangeet Marathi
-http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281767&extension=ts
+#http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281767&extension=ts
+#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155763&extension=ts
 
 #EXTINF:-1 tvg-id="ts217" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Marathi.png" group-title="Regional Marathi",Sangeet Marathi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=217
+#https://tplay-vivek.vercel.app/play.m3u8?id=217
 
 #EXTINF:-1 tvg-id="ts1509" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maiboli.png" group-title="Regional Marathi",Maiboli
 https://sablive-ddpb.akamaized.net/maiboli/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts192" tvg-logo="https://i.imgur.com/y0VS4QN.png" group-title="Regional Marathi",Fakt Marathi
-http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1531139&extension=ts
+https://live.dinesh29.com.np/stream/jiotvplus/fakt marathi/master.m3u8
 
 #EXTINF:-1 tvg-id="ts192" tvg-logo="https://i.imgur.com/y0VS4QN.png" group-title="Regional Marathi",Fakt Marathi
-http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281766&extension=ts
+#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1531139&extension=ts
+#http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281766&extension=ts
 
 #EXTINF:-1 tvg-id="ts192" tvg-logo="https://i.imgur.com/y0VS4QN.png" group-title="Regional Marathi",Fakt Marathi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -684,8 +686,14 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #https://tplay-vivek.vercel.app/play.m3u8?id=96
 
 #EXTINF:-1 tvg-id="ts103" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png" group-title="Music",MTV
+https://live.dinesh29.com.np/stream/jiotvplus/mtv/master.m3u8
+
+#EXTINF:-1 tvg-id="ts103" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png" group-title="Music",MTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=103
+#https://tplay-vivek.vercel.app/play.m3u8?id=103
+
+#EXTINF:-1 tvg-id="ts406" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music",MTV HD
+https://live.dinesh29.com.np/stream/jiotvplus/mtvhd/master.m3u8
 
 #EXTINF:-1 tvg-id="ts406" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music",MTV HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=280760&extension=ts
@@ -1121,5 +1129,6 @@ https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/in
 
 #EXTINF:-1 tvg-id="ts43" tvg-logo="https://i.imgur.com/5WBWruX.png" group-title="Religious",Sanskar USA
 https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
+
 
 
