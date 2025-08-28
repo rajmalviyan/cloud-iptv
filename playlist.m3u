@@ -38,10 +38,11 @@ http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=282025&extens
 https://tplay-vivek.vercel.app/play.m3u8?id=134
 
 #EXTINF:-1 tvg-id="ts308" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="Regional Marathi",Colors Marathi HD
-http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155758&extension=ts
+#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155758&extension=ts
+http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281760&extension=ts
 
 #EXTINF:-1 tvg-id="ts308" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="Regional Marathi",Colors Marathi HD
-http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281760&extension=ts
+http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsMarathiHD/JCHLS/index.m3u8
 
 #EXTINF:-1 tvg-id="ts308" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="Regional Marathi",Colors Marathi HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -151,10 +152,11 @@ https://tplay-vivek.vercel.app/play.m3u8?id=40
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts52" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment", Colors HD
-http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=280774&extension=ts
+#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=280774&extension=ts
+http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281280&extension=ts
 
 #EXTINF:-1 tvg-id="ts52" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment", Colors HD
-http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281280&extension=ts
+http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/index.m3u8
 
 #EXTINF:-1 tvg-id="ts52" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment", Colors HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -272,7 +274,8 @@ https://tplay-vivek.vercel.app/play.m3u8?id=551
 https://tplay-vivek.vercel.app/play.m3u8?id=523
 
 #EXTINF:-1 tvg-id="ts438" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Entertainment", Colors Rishtey
-http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=42456&extension=ts
+#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=42456&extension=ts
+http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsRishtey/JCHLS/index.m3u8
 
 #EXTINF:-1 tvg-id="ts438" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Entertainment", Colors Rishtey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -430,10 +433,11 @@ http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1438228&exten
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1438227&extension=ts
 
 #EXTINF:-1 tvg-id="ts61" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Movies",Color Cineplex HD
-http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156003&extension=ts
+#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156003&extension=ts
+http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281318&extension=ts
 
 #EXTINF:-1 tvg-id="ts61" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Movies",Color Cineplex HD
-http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281318&extension=ts
+http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
 
 #EXTINF:-1 tvg-id="ts53" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Movies",Color Cineplex
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=280749&extension=ts
@@ -446,10 +450,11 @@ https://tplay-vivek.vercel.app/play.m3u8?id=53
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=945589&extension=ts
 
 #EXTINF:-1 tvg-id="ts1000" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="Movies",Colors Cineplex Bollywood
-http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=946375&extension=ts
+#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=946375&extension=ts
+http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
 
 #EXTINF:-1 tvg-id="ts1000" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="Movies",Colors Cineplex Superhits
-http://ip96.uk:8080/live/Ghosia104/pathan104/499620.ts
+http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/index.m3u8
 
 #EXTINF:-1 tvg-id="483" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Movies", Sony Max 2
 #http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156118&extension=ts
@@ -457,7 +462,7 @@ http://ip96.uk:8080/live/Ghosia104/pathan104/499620.ts
 #EXTINF:-1 tvg-id="ts120" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Movies", Sony Max 2
 https://la.drmlive.net/tp/sliv-max2.m3u8
 
-#EXTINF:-1 tvg-id="ts120" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Movies", Sony Max 2 TP
+#EXTINF:-1 tvg-id="ts120" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Movies", Sony Max 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=120
 
@@ -583,7 +588,10 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="ts187" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1577-j5xrm7fc-v1/imageContent-1577-j5xrm7fc-m1.png" group-title="English Movies",Colors Infinity HD
+#EXTINF:-1 tvg-id="ts187" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="English Movies",Colors Infinity HD
+http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsInfinityHD/JCHLS/index.m3u8
+
+#EXTINF:-1 tvg-id="ts187" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="English Movies",Colors Infinity HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=187
 
@@ -1063,3 +1071,4 @@ https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/in
 
 #EXTINF:-1 tvg-id="ts43" tvg-logo="https://i.imgur.com/5WBWruX.png" group-title="Religious",Sanskar USA
 https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
+
