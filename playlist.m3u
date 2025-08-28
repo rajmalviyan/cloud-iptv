@@ -78,7 +78,7 @@ https://la.drmlive.net/tp/sliv-marathi.m3u8
 
 #EXTINF:-1 tvg-id="ts658" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Regional Marathi",Sony Marathi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#https://tplay-vivek.vercel.app/play.m3u8?id=658
+https://tplay-vivek.vercel.app/play.m3u8?id=658
 
 #EXTINF:-1 tvg-id="ts251" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi.png" group-title="Regional Marathi", Zee Marathi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -223,7 +223,7 @@ http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=157162&extens
 https://tplay-vivek.vercel.app/play.m3u8?id=559
 
 #EXTINF:-1 tvg-id="ts554" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment",Sony Pal
-#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156101&extension=ts
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156101&extension=ts
 
 #EXTINF:-1 tvg-id="ts554" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment",Sony Pal
 #http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=842009&extension=ts
@@ -232,7 +232,7 @@ https://tplay-vivek.vercel.app/play.m3u8?id=559
 https://la.drmlive.net/tp/sliv-pal.m3u8
 
 #EXTINF:-1 tvg-id="ts56" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Entertainment", Sony Wah
-#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156039&extension=ts
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156039&extension=ts
 
 #EXTINF:-1 tvg-id="ts56" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Entertainment", Sony Wah
 https://la.drmlive.net/tp/sliv-wah.m3u8
@@ -375,21 +375,21 @@ https://tplay-vivek.vercel.app/play.m3u8?id=267
 #http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156106&extension=ts
 
 #EXTINF:-1 tvg-id="ts80" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies",Sony Max HD
-#http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281290&extension=ts
+http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281290&extension=ts
 
 #EXTINF:-1 tvg-id="ts80" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies",Sony Max HD
 https://la.drmlive.net/tp/sliv-maxhd.m3u8
 
 #EXTINF:-1 tvg-id="ts80" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies",Sony Max HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#https://tplay-vivek.vercel.app/play.m3u8?id=80
+https://tplay-vivek.vercel.app/play.m3u8?id=80
 
 #EXTINF:-1 tvg-id="ts132" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Movies", Sony Max
 https://la.drmlive.net/tp/sliv-max.m3u8
 
-#EXTINF:-1 tvg-id="ts132" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Movies", Sony Max TP
+#EXTINF:-1 tvg-id="ts132" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Movies", Sony Max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#https://tplay-vivek.vercel.app/play.m3u8?id=132
+https://tplay-vivek.vercel.app/play.m3u8?id=132
 
 #EXTINF:-1 tvg-id="ts123" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies",Zee Cinema
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1532857&extension=ts
@@ -1133,6 +1133,7 @@ https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/in
 
 #EXTINF:-1 tvg-id="ts43" tvg-logo="https://i.imgur.com/5WBWruX.png" group-title="Religious",Sanskar USA
 https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
+
 
 
 
