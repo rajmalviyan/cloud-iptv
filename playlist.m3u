@@ -289,6 +289,9 @@ http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1532844&exten
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=194
 
+#EXTINF:-1 tvg-id="DabanggTV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dabangg.png" group-title="Entertainment",Dabangg
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-dabanggin-samsungin/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ts818" tvg-logo="https://i.imgur.com/UNNcOef.png" group-title="Entertainment",Shemaroo TV
 #http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=280897&extension=ts
 https://live.dinesh29.com.np/stream/jiotvplus/shemarootv/master.m3u8
@@ -1021,12 +1024,10 @@ https://a181aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/0qvo3uakfd/
 https://a53aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/jts4tzzv1k/out/v1/8a5b29f7068c415aa371ea95743382e6/cenc.mpd
 
 #EXTINF:-1 tvg-id="ts38" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png" group-title="Religious",Aastha TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=38
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="ts283" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha_Bhajan.png" group-title="Religious",Aastha Bhajan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=283
+https://aasthaott.akamaized.net/110923/smil:bhajan.smil/master.m3u8
 
 #EXTINF:-1 tvg-id="ts456" tvg-logo="https://i.imgur.com/40kNu1w.png" group-title="Religious",Satsang TV
 https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
@@ -1058,4 +1059,3 @@ https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/in
 
 #EXTINF:-1 tvg-id="ts43" tvg-logo="https://i.imgur.com/5WBWruX.png" group-title="Religious",Sanskar USA
 https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
-
