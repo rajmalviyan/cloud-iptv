@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz,https://avkb.short.gy/epg.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
+#EXTM3U x-tvg-url="https://live.dinesh29.com.np/epg/jiotvplus/master-epg.xml.gz"
 
 #EXTINF:-1 tvg-id="ts192" tvg-logo="https://i.imgur.com/y0VS4QN.png" group-title="Marathi",Fakt Marathi
 https://live.dinesh29.com.np/stream/jiotvplus/faktmarathi/master.m3u8
@@ -552,8 +553,32 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/61
 #EXTINF:-1 tvg-id="ts637" tvg-logo="https://i.imgur.com/gxKFKRG.png" group-title="News",Zee Uttar Pradesh/Uttarakhand
 https://livetv-channels.b-cdn.net/8076/playlist.m3u8
 
+#EXTINF:-1 tvg-id="cnbctv18prime" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/cnbctv18prime.png" group-title="Business News",CNBC TV18 Prime
+https://live.dinesh29.com.np/stream/jiotvplus/cnbctv18prime/master.m3u8
+
+#EXTINF:-1 tvg-id="cnbcawaaz" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/cnbcawaaz.png" group-title="Business News",CNBC Awaaz
+https://live.dinesh29.com.np/stream/jiotvplus/cnbcawaaz/master.m3u8
+
+#EXTINF:-1 tvg-id="etnow" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/etnow.png" group-title="Business News",ET Now
+https://live.dinesh29.com.np/stream/jiotvplus/etnow/master.m3u8
+
+#EXTINF:-1 tvg-id="ndtvprofit" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/ndtvprofit.png" group-title="Business News",NDTV Profit
+https://live.dinesh29.com.np/stream/jiotvplus/ndtvprofit/master.m3u8
+
+#EXTINF:-1 tvg-id="cnbctv18" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/cnbctv18.png" group-title="Business News",CNBC TV18
+https://live.dinesh29.com.np/stream/jiotvplus/cnbctv18/master.m3u8
+
+#EXTINF:-1 tvg-id="cnbcbajar" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/cnbcbajar.png" group-title="Business News",CNBC Bajar
+https://live.dinesh29.com.np/stream/jiotvplus/cnbcbajar/master.m3u8
+
+#EXTINF:-1 tvg-id="etnowswadesh" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/etnowswadesh.png" group-title="Business News",ET Now Swadesh
+https://live.dinesh29.com.np/stream/jiotvplus/etnowswadesh/master.m3u8
+
 #EXTINF:-1 tvg-id="ts336" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sahayadri.png" group-title="Doordarshan",DD Sahyadri
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8
+
+#EXTINF:-1 tvg-id="ddnational" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/ddnational.png" group-title="Entertainment",DD National
+https://live.dinesh29.com.np/stream/jiotvplus/ddnational/master.m3u8
 
 #EXTINF:-1 tvg-id="ts1218" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_National.png" group-title="Doordarshan",DD National HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
@@ -563,6 +588,9 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/in
 
 #EXTINF:-1 tvg-id="ts326" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Kisan.png" group-title="Doordarshan",DD Kisan
 https://cdn-6.pishow.tv/live/9/master.m3u8
+
+#EXTINF:-1 tvg-id="ddindia" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/ddindia.png" group-title="Entertainment",DD India
+https://live.dinesh29.com.np/stream/jiotvplus/ddindia/master.m3u8
 
 #EXTINF:-1 tvg-id="ts316" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png" group-title="Doordarshan",DD Bharati
 https://cdn-1.pishow.tv/live/10/master.m3u8
@@ -866,3 +894,4 @@ https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/in
 
 #EXTINF:-1 tvg-id="ts43" tvg-logo="https://i.imgur.com/5WBWruX.png" group-title="Religious",Sanskar USA
 https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
+
