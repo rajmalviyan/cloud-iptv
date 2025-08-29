@@ -1,45 +1,25 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz,https://avkb.short.gy/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="441" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-title="Regional Marathi",9x Jhakaas
-https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ts217" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Marathi.png" group-title="Regional Marathi",Sangeet Marathi
-#https://live.dinesh29.com.np/stream/jiotvplus/sangeetmarathi/master.m3u8
-https://cdn-3.pishow.tv/live/1229/master.m3u8
-
-#EXTINF:-1 tvg-id="ts1509" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maiboli.png" group-title="Regional Marathi",Maiboli
-https://sablive-ddpb.akamaized.net/maiboli/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ts192" tvg-logo="https://i.imgur.com/y0VS4QN.png" group-title="Regional Marathi",Fakt Marathi
 https://live.dinesh29.com.np/stream/jiotvplus/faktmarathi/master.m3u8
 
 #EXTINF:-1 tvg-id="ts800" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_MarathiBana.png" group-title="Regional Marathi",Shemaroo MarathiBana
-#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=282025&extension=ts
 https://live.dinesh29.com.np/stream/jiotvplus/shemaroomarathibana/master.m3u8
 
 #EXTINF:-1 tvg-id="ts134" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Marathi_SD.png" group-title="Regional Marathi",Colors Marathi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#https://tplay-vivek.vercel.app/play.m3u8?id=134
 https://live.dinesh29.com.np/stream/jiotvplus/colorsmarathisd/master.m3u8
 
 #EXTINF:-1 tvg-id="ts308" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="Regional Marathi",Colors Marathi HD
-#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155758&extension=ts
-#http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281760&extension=ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#https://tplay-vivek.vercel.app/play.m3u8?id=308
 https://live.dinesh29.com.np/stream/jiotvplus/colorsmarathihd/master.m3u8
 
 #EXTINF:-1 tvg-id="ts308" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="Regional Marathi",Colors Marathi HD
 http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsMarathiHD/JCHLS/index.m3u8
 
 #EXTINF:-1 tvg-id="ts469" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Star_Pravah_2023.png/995px-Star_Pravah_2023.png" group-title="Regional Marathi",Star Pravah
-#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=282021&extension=ts
 https://live.dinesh29.com.np/stream/jiotvplus/starpravah/master.m3u8
 
 #EXTINF:-1 tvg-id="ts469" tvg-logo="https://img.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/4941/1424941-a-b57c5a18e60c" group-title="Regional Marathi",Star Pravah HD
-#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155755&extension=ts
-#http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281763&extension=ts
 https://live.dinesh29.com.np/stream/jiotvplus/starpravahhd/master.m3u8
 
 #EXTINF:-1 tvg-id="ts985" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Pravah_Picture.png" group-title="Regional Marathi",Star Pravah Pictures
@@ -48,97 +28,66 @@ https://live.dinesh29.com.np/stream/jiotvplus/starpravahpicture/master.m3u8
 #EXTINF:-1 tvg-id="ts1175" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Pravah_Picture_HD.png" group-title="Regional Marathi",Star Pravah Pictures HD
 https://live.dinesh29.com.np/stream/jiotvplus/starpravahpicturehd/master.m3u8
 
-#EXTINF:-1 tvg-id="ts658" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Regional Marathi",Sony Marathi
-#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1531123&extension=ts
-#http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281769&extension=ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#https://tplay-vivek.vercel.app/play.m3u8?id=658
+#EXTINF:-1 tvg-id="ts658" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Regional Marathi",Sony Marathi(DRM)
 https://la.drmlive.net/tp/sliv-marathi.m3u8
 
 #EXTINF:-1 tvg-id="ts251" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi.png" group-title="Regional Marathi", Zee Marathi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=251
 
-
 #EXTINF:-1 tvg-id="ts501" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" group-title="Regional Marathi", Zee Marathi HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=282022&extension=ts
 
 #EXTINF:-1 tvg-id="ts501" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" group-title="Regional Marathi", Zee Marathi HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#https://tplay-vivek.vercel.app/play.m3u8?id=501
+http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281762&extension=ts
+
+#EXTINF:-1 tvg-id="ts501" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" group-title="Regional Marathi", Zee Marathi HD
 http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281762&extension=ts
 
 #EXTINF:-1 tvg-id="ts248" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="Regional Marathi", Zee Yuva
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156151&extension=ts
 
 #EXTINF:-1 tvg-id="ts248" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="Regional Marathi", Zee Yuva
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#https://tplay-vivek.vercel.app/play.m3u8?id=248
+http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281446&extension=ts
+
+#EXTINF:-1 tvg-id="ts248" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="Regional Marathi", Zee Yuva
 http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281446&extension=ts
 
 #EXTINF:-1 tvg-id="ts249" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Regional Marathi", Zee Talkies
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1540040&extension=ts
 
 #EXTINF:-1 tvg-id="ts249" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Regional Marathi", Zee Talkies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=249
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1540040&extension=ts
+
+#EXTINF:-1 tvg-id="ts249" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Regional Marathi", Zee Talkies
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1540040&extension=ts
 
 #EXTINF:-1 tvg-id="ts515" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" group-title="Regional Marathi", Zee Talkies HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155756&extension=ts
 
 #EXTINF:-1 tvg-id="ts515" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Regional Marathi", Zee Talkies HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#https://tplay-vivek.vercel.app/play.m3u8?id=515
 http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281761&extension=ts
 
-#EXTINF:-1 tvg-id="ts155" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="Regional News",ABP Majha
-https://in1.sunilprasad.com.np/yuppLive/abp-majha/master.m3u8
+#EXTINF:-1 tvg-id="ts515" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Regional Marathi", Zee Talkies HD
+http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281761&extension=ts
 
-#EXTINF:-1 tvg-id="ts1343" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Marathi.png" group-title="Regional News",NDTV Marathi
-https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
+#EXTINF:-1 tvg-id="ts622" tvg-logo="https://www.tataplay.com/cms-assets/services/banners/2022-01/Marathi-Cinema.png" group-title="Marathi",Tata Play Marathi Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://tplay-vivek.vercel.app/play.m3u8?id=622
 
-#EXTINF:-1 tvg-id="ts97" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Maharashtra.png" group-title="Regional News",TV9 Marathi
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-marathi/main.m3u8
-
-#EXTINF:-1 tvg-id="ts546" tvg-logo="https://i.imgur.com/SNsjJjt.png" group-title="Regional News",Saam TV
-#https://live.dinesh29.com.np/stream/jiotvplus/saamtv/master.m3u8
-https://cdn-3.pishow.tv/live/437/master.m3u8
-
-#EXTINF:-1 tvg-id="ts261" tvg-logo="https://i.imgur.com/KVDGQI1.png" group-title="Regional News",Zee 24 Taas
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeetaas-xiaomi/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ts336" tvg-logo="https://i.imgur.com/svjI6U6.png" group-title="Regional News",DD Sahyadri
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8
-
-#EXTINF:-1 tvg-id="ts826" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Lokshahi_News.png" group-title="Regional News", Lokshahi News
-#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1531130&extension=ts
-https://live.dinesh29.com.np/stream/jiotvplus/lokshahinews/master.m3u8
-
-#EXTINF:-1 tvg-id="ts233" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jai_Maharashtra.png" group-title="Regional News", Jai Maharashtra
-#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1531137&extension=ts
-https://live.dinesh29.com.np/stream/jiotvplus/jaimaharashtra/master.m3u8
+#EXTINF:-1 tvg-id="ts666" tvg-logo="https://www.tataplay.com/cms-assets/services/banners/2020-05/tata-sky-theatre-logo.png" group-title="Marathi",Tata Play Theatre HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://tplay-vivek.vercel.app/play.m3u8?id=666
 
 #EXTINF:-1 tvg-id="ts578" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV.png" group-title="Entertainment",& TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=578
+#https://tplay-vivek.vercel.app/play.m3u8?id=578
 
 #EXTINF:-1 tvg-id="ts40" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",& TV HD
-#https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155992&extension=ts
-http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281313&extension=ts
+https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts40" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",& TV HD
 http://main.light-ott.net:80/play/live.php?mac=00:1a:79:3A:93:FD&stream=944622&extension=ts
-
-#EXTINF:-1 tvg-id="ts40" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",& TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=40
-
-#EXTINF:-1 tvg-id="ts52" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment", Colors HD
-#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=280774&extension=ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#https://tplay-vivek.vercel.app/play.m3u8?id=52
-http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281280&extension=ts
 
 #EXTINF:-1 tvg-id="ts52" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment", Colors HD
 https://live.dinesh29.com.np/stream/jiotvplus/colorshd/master.m3u8
@@ -147,59 +96,22 @@ https://live.dinesh29.com.np/stream/jiotvplus/colorshd/master.m3u8
 http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/index.m3u8
 
 #EXTINF:-1 tvg-id="ts543" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png" group-title="Entertainment", Colors
-#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=163527&extension=ts
 https://live.dinesh29.com.np/stream/jiotvplus/colorssd/master.m3u8
-
-#EXTINF:-1 tvg-id="ts543" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png" group-title="Entertainment", Colors
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=543
-
-#EXTINF:-1 tvg-id="291" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SET HD
-#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156104&extension=ts
-#http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281287&extension=ts
-https://live.dinesh29.com.np/stream/jiotvplus/sethd/master.m3u8
 
 #EXTINF:-1 tvg-id="ts15" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SET HD(DRM)
 https://la.drmlive.net/tp/sliv-sony.m3u8
 
-#EXTINF:-1 tvg-id="ts15" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SET HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=15
-
 #EXTINF:-1 tvg-id="ts556" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Entertainment",SET
-#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1458624&extension=ts
-#http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281289&extension=ts
 https://live.dinesh29.com.np/stream/jiotvplus/setsd/master.m3u8
 
-#EXTINF:-1 tvg-id="ts556" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Entertainment",SET
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=556
-
 #EXTINF:-1 tvg-id="ts48" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment",Sony SAB HD(DRM)
-#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=280764&extension=ts
-#http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281293&extension=ts
 https://la.drmlive.net/tp/sliv-sab.m3u8
-
-#EXTINF:-1 tvg-id="ts48" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment",Sony SAB HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=48
 
 #EXTINF:-1 tvg-id="ts559" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",Sony SAB
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=157162&extension=ts
 
-#EXTINF:-1 tvg-id="ts559" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",Sony SAB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=559
-
-#EXTINF:-1 tvg-id="ts554" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment",Sony Pal
-#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156101&extension=ts
-http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=842009&extension=ts
-
 #EXTINF:-1 tvg-id="ts554" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment",Sony Pal(DRM)
 https://la.drmlive.net/tp/sliv-pal.m3u8
-
-#EXTINF:-1 tvg-id="ts56" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Entertainment", Sony Wah
-http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156039&extension=ts
 
 #EXTINF:-1 tvg-id="ts56" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Entertainment", Sony Wah(DRM)
 https://la.drmlive.net/tp/sliv-wah.m3u8
@@ -209,28 +121,22 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts557" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png" group-title="Entertainment", Zee TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=557
+#https://tplay-vivek.vercel.app/play.m3u8?id=557
 
 #EXTINF:-1 tvg-id="ts63" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment", Zee TV HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=280773&extension=ts
 
 #EXTINF:-1 tvg-id="ts63" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment", Zee TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=63
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=280773&extension=ts
 
-#EXTINF:-1 tvg-id="ts63" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment", Zee TV HD 4K 
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment", Zee TV HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1761502&extension=ts
 
 #EXTINF:-1 tvg-id="ts550" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Entertainment", Star Plus
 https://live.dinesh29.com.np/stream/jiotvplus/starplus/master.m3u8
 
 #EXTINF:-1 tvg-id="ts8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Entertainment", Star Plus HD
-#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155971&extension=ts
 https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
-
-#EXTINF:-1 tvg-id="ts8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Entertainment", Star Plus HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=8
 
 #EXTINF:-1 tvg-id="UtsavPlus@HD" tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2021/01/Utsav-Plus-250.png" group-title="Entertainment", Utsav Plus HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1458626&extension=ts
@@ -239,21 +145,10 @@ http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1458626&exten
 https://live.dinesh29.com.np/stream/jiotvplus/starbharat/master.m3u8
 
 #EXTINF:-1 tvg-id="ts244" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="Entertainment", Star Bharat HD
-#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=945579&extension=ts
-#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156173&extension=ts
 https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8
 
-#EXTINF:-1 tvg-id="ts244" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Star_Bharat_Logo.png" group-title="Entertainment", Star Bharat HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=244
-
-#EXTINF:-1 tvg-id="ts551" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Star_Utsav_Logo.webp/1050px-Star_Utsav_Logo.webp.png" group-title="Entertainment", Star Utsav
-#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156163&extension=ts
+#EXTINF:-1 tvg-id="ts551" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Utsav.png" group-title="Entertainment", Star Utsav
 https://live.dinesh29.com.np/stream/jiotvplus/starutsav/master.m3u8
-
-#EXTINF:-1 tvg-id="ts551" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Star_Utsav_Logo.webp/1050px-Star_Utsav_Logo.webp.png" group-title="Entertainment", Star Utsav
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=551
 
 #EXTINF:-1 tvg-id="ts523" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="Entertainment",Zee Anmol
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -520,78 +415,79 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #https://tplay-vivek.vercel.app/play.m3u8?id=624
 https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ts666" tvg-logo="https://www.tataplay.com/cms-assets/services/banners/2020-05/tata-sky-theatre-logo.png" group-title="Tata Play",Tata Play Theatre HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=666
-
-#EXTINF:-1 tvg-id="ts622" tvg-logo="https://www.tataplay.com/cms-assets/services/banners/2022-01/Marathi-Cinema.png" group-title="Tata Play",Tata Play Marathi Cinema
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=622
-
-#EXTINF:-1 tvg-id="ts486" tvg-logo="https://i.imgur.com/1b6PRjs.jpeg" group-title="Tata Play",Tata Play Bolloywood Premier HD
+#EXTINF:-1 tvg-id="ts486" tvg-logo="https://i.imgur.com/1b6PRjs.jpeg" group-title="Movies",Tata Play Bolloywood Premier HD
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156028&extension=ts
 
-#EXTINF:-1 tvg-id="ts486" tvg-logo="https://i.imgur.com/1b6PRjs.jpeg" group-title="Tata Play",Tata Play Bolloywood Premier
+#EXTINF:-1 tvg-id="ts486" tvg-logo="https://i.imgur.com/1b6PRjs.jpeg" group-title="Movies",Tata Play Bolloywood Premier
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=486
 
-#EXTINF:-1 tvg-id="ts789" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48748-k4jbpl00-v2/imageContent-48748-k4jbpl00-m3.png" group-title="Tata Play",Tata Play Hollwood Local
+#EXTINF:-1 tvg-id="ts789" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48748-k4jbpl00-v2/imageContent-48748-k4jbpl00-m3.png" group-title="Movies",Tata Play Hollwood Local
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=789
 
-#EXTINF:-1 tvg-id="ts558" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png" group-title="English Movies",Sony PIX
+#EXTINF:-1 tvg-id="ts558" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png" group-title="Movies",Sony PIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=558
 
-#EXTINF:-1 tvg-id="ts32" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="English Movies",Sony PIX HD(DRM)
+#EXTINF:-1 tvg-id="ts32" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Movies",Sony PIX HD(DRM)
 https://la.drmlive.net/tp/sliv-pix.m3u8
 
-#EXTINF:-1 tvg-id="ts273" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies.png" group-title="English Movies", Star Movies
+#EXTINF:-1 tvg-id="ts273" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies.png" group-title="Movies", Star Movies
 https://live.dinesh29.com.np/stream/jiotvplus/starmovies/master.m3u8
 
-#EXTINF:-1 tvg-id="ts560" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="English Movies", Star Movies HD
+#EXTINF:-1 tvg-id="ts560" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="Movies", Star Movies HD
 https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
 
-#EXTINF:-1 tvg-id="ts1069" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select.png" group-title="English Movies", Star Movies Select
+#EXTINF:-1 tvg-id="ts1069" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select.png" group-title="Movies", Star Movies Select
 https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselect/master.m3u8
 
-#EXTINF:-1 tvg-id="ts593" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="English Movies", Star Movies Select HD
+#EXTINF:-1 tvg-id="ts593" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="Movies", Star Movies Select HD
 https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select.png
 
-#EXTINF:-1 tvg-id="ts599" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" group-title="English Movies",MNX HD
+#EXTINF:-1 tvg-id="ts599" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now2_HD.png" group-title="Movies",MNX HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="ts210" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MNPLUS.png" group-title="English Movies",MN+ HD
+#EXTINF:-1 tvg-id="ts210" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MNPLUS.png" group-title="Movies",MN+ HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
-#EXTINF: -1 tvg-id="ts174" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Romedy_Now_HD.png" group-title="English Movies", Romedy Now
+#EXTINF: -1 tvg-id="ts174" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Romedy_Now_HD.png" group-title="Movies", Romedy Now
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="ts562" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now_HD.png" group-title="English Movies",Movies Now HD
+#EXTINF:-1 tvg-id="ts562" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Movies_Now_HD.png" group-title="Movies",Movies Now HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="ts544" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title="English Movies",Colors Infinity
+#EXTINF:-1 tvg-id="ts544" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title="Movies",Colors Infinity
 https://live.dinesh29.com.np/stream/jiotvplus/colorsinfinitysd/master.m3u8
 
-#EXTINF:-1 tvg-id="ts187" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="English Movies",Colors Infinity HD
+#EXTINF:-1 tvg-id="ts187" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="Movies",Colors Infinity HD
 #https://live.dinesh29.com.np/stream/jiotvplus/colorsinfinityhd/master.m3u8
 http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsInfinityHD/JCHLS/index.m3u8
 
-#EXTINF:-1 tvg-id="ts187" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="English Movies",Colors Infinity HD
+#EXTINF:-1 tvg-id="ts187" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="Movies",Colors Infinity HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=187
 
-#EXTINF:-1 tvg-id="ts502" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="English Movies", Zee Café HD
+#EXTINF:-1 tvg-id="ts502" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="Movies", Zee Café HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5.8088yyy.workers.dev/?c=0-9-zeecafehd|Referer=https://m3u.8088y.site/
+
+#EXTINF:-1 tvg-id="441" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-title="Music",9x Jhakaas
+https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ts217" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Marathi.png" group-title="Music",Sangeet Marathi
+https://live.dinesh29.com.np/stream/jiotvplus/sangeetmarathi/master.m3u8
+
+#EXTINF:-1 tvg-id="ts1509" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maiboli.png" group-title="Music",Maiboli
+https://sablive-ddpb.akamaized.net/maiboli/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts139" tvg-logo="https://a.jsrdn.com/hls/23111/9xm/logo_20240607_163326_70.png" group-title="Music",9XM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -777,6 +673,30 @@ https://live.dinesh29.com.np/stream/jiotvplus/tlchindi/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #https://tplay-vivek.vercel.app/play.m3u8?id=117
 https://live.dinesh29.com.np/stream/jiotvplus/foodfood/master.m3u8
+
+#EXTINF:-1 tvg-id="ts155" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="News",ABP Majha
+https://in1.sunilprasad.com.np/yuppLive/abp-majha/master.m3u8
+
+#EXTINF:-1 tvg-id="ts1343" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Marathi.png" group-title="News",NDTV Marathi
+https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
+
+#EXTINF:-1 tvg-id="ts97" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Maharashtra.png" group-title="News",TV9 Marathi
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-marathi/main.m3u8
+
+#EXTINF:-1 tvg-id="ts546" tvg-logo="https://i.imgur.com/SNsjJjt.png" group-title="News",Saam TV
+https://live.dinesh29.com.np/stream/jiotvplus/saamtv/master.m3u8
+
+#EXTINF:-1 tvg-id="ts261" tvg-logo="https://i.imgur.com/KVDGQI1.png" group-title="News",Zee 24 Taas
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeetaas-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ts336" tvg-logo="https://i.imgur.com/svjI6U6.png" group-title="News",DD Sahyadri
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8
+
+#EXTINF:-1 tvg-id="ts826" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Lokshahi_News.png" group-title="News", Lokshahi News
+https://live.dinesh29.com.np/stream/jiotvplus/lokshahinews/master.m3u8
+
+#EXTINF:-1 tvg-id="ts233" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jai_Maharashtra.png" group-title="News", Jai Maharashtra
+https://live.dinesh29.com.np/stream/jiotvplus/jaimaharashtra/master.m3u8
 
 #EXTINF:-1 tvg-id="ts153" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
@@ -1116,6 +1036,7 @@ https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/in
 
 #EXTINF:-1 tvg-id="ts43" tvg-logo="https://i.imgur.com/5WBWruX.png" group-title="Religious",Sanskar USA
 https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
+
 
 
 
