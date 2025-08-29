@@ -14,9 +14,6 @@ https://sablive-ddpb.akamaized.net/maiboli/playlist.m3u8
 #EXTINF:-1 tvg-id="ts192" tvg-logo="https://i.imgur.com/y0VS4QN.png" group-title="Regional Marathi",Fakt Marathi
 https://live.dinesh29.com.np/stream/jiotvplus/faktmarathi/master.m3u8
 
-#EXTINF:-1 tvg-id="ts192" tvg-logo="https://i.imgur.com/y0VS4QN.png" group-title="Regional Marathi",Fakt Marathi [Not 24/7]
-https://cdn-6.pishow.tv/live/10002/master.m3u8
-
 #EXTINF:-1 tvg-id="ts800" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_MarathiBana.png" group-title="Regional Marathi",Shemaroo MarathiBana
 #http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=282025&extension=ts
 https://live.dinesh29.com.np/stream/jiotvplus/shemaroomarathibana/master.m3u8
@@ -64,20 +61,20 @@ https://tplay-vivek.vercel.app/play.m3u8?id=251
 
 
 #EXTINF:-1 tvg-id="ts501" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" group-title="Regional Marathi", Zee Marathi HD
-#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=282022&extension=ts
-http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281762&extension=ts
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=282022&extension=ts
 
 #EXTINF:-1 tvg-id="ts501" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" group-title="Regional Marathi", Zee Marathi HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=501
+#https://tplay-vivek.vercel.app/play.m3u8?id=501
+http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281762&extension=ts
 
 #EXTINF:-1 tvg-id="ts248" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="Regional Marathi", Zee Yuva
-#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156151&extension=ts
-http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281446&extension=ts
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156151&extension=ts
 
 #EXTINF:-1 tvg-id="ts248" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="Regional Marathi", Zee Yuva
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=248
+#https://tplay-vivek.vercel.app/play.m3u8?id=248
+http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281446&extension=ts
 
 #EXTINF:-1 tvg-id="ts249" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Regional Marathi", Zee Talkies
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1540040&extension=ts
@@ -87,12 +84,12 @@ http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1540040&exten
 https://tplay-vivek.vercel.app/play.m3u8?id=249
 
 #EXTINF:-1 tvg-id="ts515" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" group-title="Regional Marathi", Zee Talkies HD
-#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155756&extension=ts
-http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281761&extension=ts
+http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155756&extension=ts
 
 #EXTINF:-1 tvg-id="ts515" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Regional Marathi", Zee Talkies HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=515
+#https://tplay-vivek.vercel.app/play.m3u8?id=515
+http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281761&extension=ts
 
 #EXTINF:-1 tvg-id="ts155" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="Regional News",ABP Majha
 https://in1.sunilprasad.com.np/yuppLive/abp-majha/master.m3u8
@@ -1119,6 +1116,7 @@ https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/in
 
 #EXTINF:-1 tvg-id="ts43" tvg-logo="https://i.imgur.com/5WBWruX.png" group-title="Religious",Sanskar USA
 https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
+
 
 
 
