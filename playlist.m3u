@@ -5,11 +5,8 @@
 https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts217" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Marathi.png" group-title="Regional Marathi",Sangeet Marathi
-#http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281767&extension=ts
-#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155763&extension=ts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#https://tplay-vivek.vercel.app/play.m3u8?id=217
-https://live.dinesh29.com.np/stream/jiotvplus/sangeetmarathi/master.m3u8
+#https://live.dinesh29.com.np/stream/jiotvplus/sangeetmarathi/master.m3u8
+https://cdn-3.pishow.tv/live/1229/master.m3u8
 
 #EXTINF:-1 tvg-id="ts1509" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maiboli.png" group-title="Regional Marathi",Maiboli
 https://sablive-ddpb.akamaized.net/maiboli/playlist.m3u8
@@ -108,8 +105,8 @@ https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-marathi/main.m3u8
 
 #EXTINF:-1 tvg-id="ts546" tvg-logo="https://i.imgur.com/SNsjJjt.png" group-title="Regional News",Saam TV
-#http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=282031&extension=ts
-https://live.dinesh29.com.np/stream/jiotvplus/saamtv/master.m3u8
+#https://live.dinesh29.com.np/stream/jiotvplus/saamtv/master.m3u8
+https://cdn-3.pishow.tv/live/437/master.m3u8
 
 #EXTINF:-1 tvg-id="ts261" tvg-logo="https://i.imgur.com/KVDGQI1.png" group-title="Regional News",Zee 24 Taas
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeetaas-xiaomi/playlist.m3u8
@@ -788,12 +785,6 @@ https://live.dinesh29.com.np/stream/jiotvplus/foodxp/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=227
 
-#EXTINF:-1 tvg-id="ts1218" tvg-logo="https://i.imgur.com/MohlE5B.png" group-title="News",DD National HD
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
-
-#EXTINF:-1 tvg-id="ts322" tvg-logo="https://i.imgur.com/H4f9R7n.png" group-title="News",DD News
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
-
 #EXTINF:-1 tvg-id="ts153" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
 
@@ -859,11 +850,26 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/61
 #EXTINF:-1 tvg-id="ts637" tvg-logo="https://i.imgur.com/gxKFKRG.png" group-title="News",Zee Uttar Pradesh/Uttarakhand
 https://livetv-channels.b-cdn.net/8076/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ts758" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Arunprabha.png" group-title="DD Channles",DD Arunprabha
-https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
+#EXTINF:-1 tvg-id="ts336" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sahayadri.png" group-title="DD Channles",DD Sahyadri
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8
+
+#EXTINF:-1 tvg-id="ts1218" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_National.png" group-title="DD Channles",DD National HD
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+
+#EXTINF:-1 tvg-id="ts322" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_News.png" group-title="DD Channles",DD News
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+
+#EXTINF:-1 tvg-id="ts326" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Kisan.png" group-title="DD Channles",DD Kisan
+https://cdn-6.pishow.tv/live/9/master.m3u8
 
 #EXTINF:-1 tvg-id="ts316" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png" group-title="DD Channles",DD Bharati
 https://cdn-1.pishow.tv/live/10/master.m3u8
+
+#EXTINF:-1 tvg-id="ts223" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="DD Channles",DD Sports
+https://cdn-6.pishow.tv/live/13/master.m3u8
+
+#EXTINF:-1 tvg-id="ts758" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Arunprabha.png" group-title="DD Channles",DD Arunprabha
+https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
 
 #EXTINF:-1 tvg-id="ts317" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Bihar.png" group-title="DD Channles",DD Bihar
 https://cdn-4.pishow.tv/live/35/master.m3u8
@@ -877,7 +883,7 @@ https://cdn-1.pishow.tv/live/15/master.m3u8
 #EXTINF:-1 tvg-id="ts323" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Girnar.png" group-title="DD Channles",DD Girnar
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/4a7a0c8a-c58d-43d6-baff-13492d67bf3e/2.m3u8
 
-#EXTINF:-1 tvg-id="ts1212" tvg-logo="https://pbs.twimg.com/profile_images/1821824847258767360/sL70Pilz.jpgg" group-title="DD Channles",DD Haryana
+#EXTINF:-1 tvg-id="ts1212" tvg-logo="https://pbs.twimg.com/profile_images/1821824847258767360/sL70Pilz.jpg" group-title="DD Channles",DD Haryana
 https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8
 
 #EXTINF:-1 tvg-id="ts1188" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Doordarshan_Jharkhand.jpg" group-title="DD Channles",DD Jharkhand
@@ -886,32 +892,11 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #EXTINF:-1 tvg-id="ts325" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Kashir.png" group-title="DD Channles",DD Kashir
 https://cdn-6.pishow.tv/live/16/master.m3u8
 
-#EXTINF:-1 tvg-id="ts326" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Kisan.png" group-title="DD Channles",DD Kisan
-https://cdn-6.pishow.tv/live/9/master.m3u8
-
 #EXTINF:-1 tvg-id="ts330" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Madhya_Pradesh.png" group-title="DD Channles",DD Madhya Pradesh
 https://cdn-1.pishow.tv/live/31/master.m3u8
 
 #EXTINF:-1 tvg-id="ts328" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Malayalam.png" group-title="DD Channles",DD Malayalam
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8
-
-#EXTINF:-1 tvg-id="ts329" tvg-logo="https://pbs.twimg.com/profile_images/1942872858461376512/beankqCZ.jpg" group-title="DD Channles",DD Manipur
-https://ddmanipur.org/hls/stream1.m3u8
-
-#EXTINF:-1 tvg-id="ts991" tvg-logo="https://pbs.twimg.com/profile_images/1841800087422291968/owg1Og7f.png" group-title="DD Channles",DD Meghalaya
-https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/dafc23f6-c3d9-44d7-8d31-27aa80efe0b7/2.m3u8
-
-#EXTINF:-1 tvg-id="ts1211" tvg-logo="https://pbs.twimg.com/profile_images/1830882082769510402/cG0zzP8x.jpg" group-title="DD Channles",DD Mizoram
-https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/5f0e3651-3393-41d2-a137-a4513be8f3d5/2.m3u8
-
-#EXTINF:-1 tvg-id="ts1214" tvg-logo="https://pbs.twimg.com/profile_images/1637078057637883907/C7k8otw3.jpg" group-title="DD Channles",DD Nagaland
-https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/4437588d-6c41-4a61-91ca-33a6900617a6/2.m3u8
-
-#EXTINF:-1 tvg-id="ts1218" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_National.png" group-title="DD Channles",DD National HD
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
-
-#EXTINF:-1 tvg-id="ts322" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_News.png" group-title="DD Channles",DD News
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
 
 #EXTINF:-1 tvg-id="ts333" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Oriya.png" group-title="DD Channles",DD Odia
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/245d9a9e-4820-43b1-af33-4a3017d09f52/2.m3u8
@@ -925,14 +910,8 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #EXTINF:-1 tvg-id="ts322" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Rajasthan_Jaipur.png" group-title="DD Channles",DD Rajasthan
 https://cdn-1.pishow.tv/live/34/master.m3u8
 
-#EXTINF:-1 tvg-id="ts336" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sahayadri.png" group-title="DD Channles",DD Sahyadri
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8
-
 #EXTINF:-1 tvg-id="ts337" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Saptagiri.png" group-title="DD Channles",DD Saptagiri
 https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8
-
-#EXTINF:-1 tvg-id="ts223" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="DD Channles",DD Sports
-https://cdn-6.pishow.tv/live/13/master.m3u8
 
 #EXTINF:-1 tvg-id="ts1210" tvg-logo="https://pbs.twimg.com/profile_images/1500876010174095362/WPvpNEPD.jpg" group-title="DD Channles",DD Tripura
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/index_3.m3u8
@@ -1068,8 +1047,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/discoverykids2/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/sonichindi/master.m3u8
 
 #EXTINF:-1 tvg-id="ts867" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57985-khvdchrs-v2/imageContent-57985-khvdchrs-m2.png" group-title="Kids",Gubbare
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=867
+https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png" group-title="Kids",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
@@ -1117,19 +1095,20 @@ https://aasthaott.akamaized.net/110923/smil:bhajan.smil/master.m3u8
 #EXTINF:-1 tvg-id="ts456" tvg-logo="https://i.imgur.com/40kNu1w.png" group-title="Religious",Satsang TV
 https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
 
+#EXTINF:-1 tvg-id="ts456" tvg-logo="https://i.imgur.com/40kNu1w.png" group-title="Religious",Satsang Web TV
+https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
+
 #EXTINF:-1 tvg-id="ts43" tvg-logo="https://i.imgur.com/SDkiMvR.png" group-title="Religious",Sanskar TV
 https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
 
 #EXTINF:-1 tvg-id="ts447" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sadhna.png" group-title="Religious",Sadhana
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=447
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts43" tvg-logo="https://i.imgur.com/mu2B6hw.png" group-title="Religious",Sanskar
 https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index.m3u8
 
 #EXTINF:-1 tvg-id="ts458" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shubh_TV.png" group-title="Religious",Shubh TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=458
+https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8
 
 #EXTINF:-1 tvg-id="ts500" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vedic_TV.png" group-title="Religious",Vedic TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -1144,4 +1123,5 @@ https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/in
 
 #EXTINF:-1 tvg-id="ts43" tvg-logo="https://i.imgur.com/5WBWruX.png" group-title="Religious",Sanskar USA
 https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
+
 
