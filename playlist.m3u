@@ -292,6 +292,9 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-dabanggin-samsung
 #http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=280897&extension=ts
 https://live.dinesh29.com.np/stream/jiotvplus/shemarootv/master.m3u8
 
+#EXTINF:-1 tvg-id="ts1045" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_Umang.png" group-title="Entertainment",Shemaroo Umang
+https://live.dinesh29.com.np/stream/jiotvplus/shemarooumang/master.m3u8
+
 #EXTINF:-1 tvg-id="ts1184" tvg-logo="https://www.epicon.in/img/nazara-logo.png" group-title="Entertainment",Nazara
 https://epiconvh.akamaized.net/live/nazara/master.m3u8
 
@@ -754,7 +757,8 @@ https://epiconvh.akamaized.net/live/epic/master.m3u8
 
 #EXTINF:-1 tvg-id="ts136" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42020-jxb7qjw8-v1/imageContent-42020-jxb7qjw8-m1.png" group-title="Lifestyle",GOOD TiMES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=136
+#https://tplay-vivek.vercel.app/play.m3u8?id=136
+https://live.dinesh29.com.np/stream/jiotvplus/goodtimes/master.m3u8
 
 #EXTINF:-1 tvg-id="ts484" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Lifestyle",Travelxp 4K HDR
 https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
@@ -776,13 +780,6 @@ https://live.dinesh29.com.np/stream/jiotvplus/tlchindi/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #https://tplay-vivek.vercel.app/play.m3u8?id=117
 https://live.dinesh29.com.np/stream/jiotvplus/foodfood/master.m3u8
-
-#EXTINF:-1 tvg-id="ts1030" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Food_XP.png" group-title="Lifestyle",Foodxp
-https://live.dinesh29.com.np/stream/jiotvplus/foodxp/master.m3u8
-
-#EXTINF:-1 tvg-id="ts227" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-959-j5mipsnk-v1/imageContent-959-j5mipsnk-m1.png" group-title="Lifestyle",Fashion TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=227
 
 #EXTINF:-1 tvg-id="ts153" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
@@ -1122,6 +1119,7 @@ https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/in
 
 #EXTINF:-1 tvg-id="ts43" tvg-logo="https://i.imgur.com/5WBWruX.png" group-title="Religious",Sanskar USA
 https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
+
 
 
 
