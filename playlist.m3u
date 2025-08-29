@@ -727,7 +727,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/historytv18hd/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographic/master.m3u8
 
 #EXTINF:-1 tvg-id="ts605" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="Knowledge",National Geographic HD
-http://main.light-ott.net:80/play/live.php?mac=00:1a:79:3A:93:FD&stream=373017&extension=ts
+#http://main.light-ott.net:80/play/live.php?mac=00:1a:79:3A:93:FD&stream=373017&extension=ts
 https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographichd/master.m3u8
 
 #EXTINF:-1 tvg-id="ts184" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nat_Geo_Wild.png" group-title="Knowledge",Nat Geo Wild
@@ -1058,3 +1058,4 @@ https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/in
 
 #EXTINF:-1 tvg-id="ts43" tvg-logo="https://i.imgur.com/5WBWruX.png" group-title="Religious",Sanskar USA
 https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
+
