@@ -492,7 +492,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatv-speed-mi-xiao
 https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
 
 #EXTINF:-1 tvg-id="652" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_SANGAM.png" group-title="News",Zee Bharat
-https://live.dinesh29.com.np/stream/jiotvplus/zeebharat/master.m3u8
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
 
 #EXTINF:-1 tvg-id="ts20" tvg-logo="https://i.imgur.com/e26mQ7x.png" group-title="News",Zee Bihar Jharkhand
 https://live.dinesh29.com.np/stream/jiotvplus/zeebiharjharkhand/master.m3u8
@@ -503,9 +503,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeebusiness-xiaomi
 #EXTINF:-1 tvg-id="ts262" tvg-logo="https://i.imgur.com/jeBUXYz.png" group-title="News",Zee Delhi NCR Haryana
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8
 
-#EXTINF:-1 tvg-id="ZeeHindustan.in" tvg-logo="https://i.imgur.com/3eAZMxA.png" group-title="News",Zee Hindustan
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
-
 #EXTINF:-1 tvg-id="ts512" tvg-logo="https://i.imgur.com/YccuVVI.png" group-title="News",Zee Madhya Pradesh Chhattisgarh
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8
 
@@ -514,9 +511,6 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master
 
 #EXTINF:-1 tvg-id="ts583" tvg-logo="https://i.imgur.com/iYrrGlL.png" group-title="News",Zee Rajasthan
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8
-
-#EXTINF:-1 tvg-id="ts637" tvg-logo="https://i.imgur.com/gxKFKRG.png" group-title="News",Zee Uttar Pradesh/Uttarakhand
-https://livetv-channels.b-cdn.net/8076/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts304" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="Business News",CNBC TV18 Prime
 https://live.dinesh29.com.np/stream/jiotvplus/cnbctv18prime/master.m3u8
@@ -592,9 +586,6 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 
 #EXTINF:-1 tvg-id="ts333" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Oriya.png" group-title="Doordarshan",DD Odia
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/245d9a9e-4820-43b1-af33-4a3017d09f52/2.m3u8
-
-#EXTINF:-1 tvg-id="ts833" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD5_Podhigai.png" group-title="Doordarshan",DD Podhigai
-https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/1324a5ee-c108-423f-ae78-c83b2fd31065/2.m3u8
 
 #EXTINF:-1 tvg-id="ts335" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Punjabi.png" group-title="Doordarshan",DD Punjabi
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/20c8ad14-a158-4a42-8889-e032d070856e/2.m3u8
