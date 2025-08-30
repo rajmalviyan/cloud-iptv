@@ -551,7 +551,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/in
 #EXTINF:-1 tvg-id="ts326" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Kisan.png" group-title="Doordarshan",DD Kisan
 https://cdn-6.pishow.tv/live/9/master.m3u8
 
-#EXTINF:-1 tvg-id="ddindia" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/ddindia.png" group-title="Entertainment",DD India
+#EXTINF:-1 tvg-id="ddindia" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/ddindia.png" group-title="Doordarshan",DD India
 https://live.dinesh29.com.np/stream/jiotvplus/ddindia/master.m3u8
 
 #EXTINF:-1 tvg-id="ts316" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png" group-title="Doordarshan",DD Bharati
@@ -853,6 +853,7 @@ https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/in
 
 #EXTINF:-1 tvg-id="ts43" tvg-logo="https://i.imgur.com/5WBWruX.png" group-title="Religious",Sanskar USA
 https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
+
 
 
 
