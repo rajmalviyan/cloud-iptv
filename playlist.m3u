@@ -816,7 +816,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1hindi/master.m3u8
 #EXTINF:-1 tvg-id="ts1033" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports",Star Sports 2 ᴴᴰ Hindi
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=1104676&extension=ts
 
-#EXTINF:-1 tvg-id="1998" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-title="Sports",Star Sports 2 ᴴᴰ Hindi
+#EXTINF:-1 tvg-id="1998" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-title="Sports",Star Sports Khel
 https://live.dinesh29.com.np/stream/jiotvplus/starsportskhel/master.m3u8
 
 #EXTINF:-1 tvg-id="ts664" tvg-logo="https://staticr1.blastingcdn.com/media/photogallery/2019/1/10/os/b_1200x675x82/india-vs-uae-afc-asian-cup-2019-live-streaming-on-star-sports-hotstarcom-image-via-star-sports_2179045.jpg" group-title="Sports",Star Sports 3
@@ -840,7 +840,7 @@ https://la.drmlive.net/tp/sliv-ten2.m3u8
 #EXTINF:-1 tvg-id="ts462" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports", Sony TEN 2 ᴴᴰ
 https://la.drmlive.net/tp/sliv-ten2hd.m3u8
 
-#EXTINF:-1 tvg-id="524" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_3.png" group-title="Sports", Sony TEN 3 Hindi
+#EXTINF:-1 tvg-id="524" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_3.png" group-title="Sports", Sony TEN 3
 https://la.drmlive.net/tp/sliv-ten3.m3u8
 
 #EXTINF:-1 tvg-id="ts464" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Sports", Sony TEN 3 ᴴᴰ Hindi
@@ -849,7 +849,7 @@ https://la.drmlive.net/tp/sliv-ten3hd.m3u8
 #EXTINF:-1 tvg-id="1774" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" group-title="Sports", SONY TEN 4
 https://la.drmlive.net/tp/sliv-ten4.m3u8
 
-#EXTINF:-1 tvg-id="1772" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="Sports", SONY TEN 4 ᴴᴰ
+#EXTINF:-1 tvg-id="1772" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="Sports", SONY TEN 4 ᴴᴰ Hindi
 https://la.drmlive.net/tp/sliv-ten4hd.m3u8
 
 #EXTINF:-1 tvg-id="525" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="Sports",Sony TEN 5
@@ -1081,7 +1081,7 @@ https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 
 #EXTINF:-1 tvg-id="ts81" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SonyLive", Sony TEN 1 ᴴᴰ
-https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8
 
 #EXTINF:-1 tvg-id="ts462" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SonyLive", Sony TEN 2 ᴴᴰ
 https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
@@ -1092,7 +1092,7 @@ https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 #EXTINF:-1 tvg-id="1772" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="SonyLive", SONY TEN 4 ᴴᴰ
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 
-#EXTINF:-1 tvg-id="ts35" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SonyLiveTen5_HD_Logo_CLR.png" group-title="SonyLive",Sony TEN 5 ᴴᴰ
+#EXTINF:-1 tvg-id="ts35" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SonyLive",Sony TEN 5 ᴴᴰ
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
 =========================================================================SLIV=====================================================================================
@@ -1119,7 +1119,7 @@ https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8 
 
 #EXTINF:-1 tvg-id="ts56" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="SLIV", Sony Wah
-https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRSonyLIVpHcdDE5RcDA/master.m3u8 
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRSonyLIVpHcdDE5RcDA/master.m3u8
 	
 #EXTINF:-1 tvg-id="ts32" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="SLIV",Sony PIX ᴴᴰ
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
@@ -1142,5 +1142,6 @@ https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
 #EXTINF:-1 tvg-id="1772" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="SLIV", SONY TEN 4 ᴴᴰ
 https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8 
 
-#EXTINF:-1 tvg-id="ts35" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SLIVTen5_HD_Logo_CLR.png" group-title="SLIV",Sony TEN 5 ᴴᴰ
+#EXTINF:-1 tvg-id="ts35" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SLIV",Sony TEN 5 ᴴᴰ
 https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+
