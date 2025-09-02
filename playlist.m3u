@@ -214,7 +214,8 @@ https://la.drmlive.net/tp/sliv-max.m3u8
 
 #EXTINF:-1 tvg-id="ts123" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="Movies",Zee Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5.8088yyy.workers.dev/?c=0-9-zeecinema|Referer=https://m3u.8088y.site/
+#https://z5.8088yyy.workers.dev/?c=0-9-zeecinema|Referer=https://m3u.8088y.site/
+https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts503" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies",Zee Cinema HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
@@ -226,6 +227,9 @@ https://z5.8088yyy.workers.dev/?c=0-9-zeecinemahd|Referer=https://m3u.8088y.site
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/a7ecdb94-cabc-4b42-8a31-0dc3ca02ecc5.jpg" group-title="Movies",Zee Bollymovies
+https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts164" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold.png" group-title="Movies",Star Gold
 https://live.dinesh29.com.np/stream/jiotvplus/stargold/master.m3u8
@@ -469,10 +473,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="ts546" tvg-logo="https://i.imgur.com/SNsjJjt.png" group-title="News",Saam TV
 https://live.dinesh29.com.np/stream/jiotvplus/saamtv/master.m3u8
-
-#EXTINF:-1 tvg-id="ts261" tvg-logo="https://i.imgur.com/KVDGQI1.png" group-title="News",Zee 24 Taas(ZEE5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5.8088yyy.workers.dev/?c=0-9-zee24taas|Referer=https://m3u.8088y.site/
 
 #EXTINF:-1 tvg-id="ts261" tvg-logo="https://i.imgur.com/KVDGQI1.png" group-title="News",Zee 24 Taas
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeetaas-xiaomi/playlist.m3u8
@@ -906,6 +906,7 @@ https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/in
 #EXTINF:-1 tvg-logo="https://www.zee5.com/global/blog/wp-content/uploads/2025/08/Mumbai_Raja_1920x770_26_8_2025.jpg" group-title="Religious",Mumbaicha Raja
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #https://z5.8088yyy.workers.dev/?c=0-9-9z5210099|Referer=https://m3u.8088y.site/
+
 
 
 
