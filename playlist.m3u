@@ -485,10 +485,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/saregamamusic/master.m3u8
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 #EXTINF:-1 tvg-id="962" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" group-title="Music", Boogle Bollywood
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppparoriglin.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?hdnts=st%3D1756790453~exp%3D1756812053~acl%3D%21%2A%2F181224%2Fsmil%3Abogglebollywood.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.70_yuppfast_2_channel_199_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.70_yuppfast_2_channel_199_-1~hmac%3D4bb622fef3ee9023a0293f7019124a11ee758848a7becffb070817c365cd0ed5
+https://live.dinesh29.com.np/stream/jiotv/booglebollywood/master.m3u8
 
 #EXTINF:-1 tvg-id="732" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Tashan.png" group-title="Music",9x Tashan
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
@@ -1016,6 +1013,7 @@ https://yuppftalive.akamaized.net/080823/svbc4/playlist.m3u8?hdnts=st%3D17567904
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://2-fss-2.themediacdn.com/pl_144/amlst:206512-3287954/playlist.m3u8?hdnts=st%3D1756790463~exp%3D1756812063~acl%3D%21%2A%2Fpl_144%2Famlst%3A206512-3287954%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.70_yuppfast_2_channel_280_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.70_yuppfast_2_channel_280_-1~hmac%3Dbee0d17dbbccc8623a7d69011160c474f7974b1ae2305a9965aff1ab9e8de701
+
 
 
 
