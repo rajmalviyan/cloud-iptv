@@ -214,12 +214,12 @@ https://la.drmlive.net/tp/sliv-max.m3u8
 
 #EXTINF:-1 tvg-id="ts123" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="Movies",Zee Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-#https://z5.8088yyy.workers.dev/?c=0-9-zeecinema|Referer=https://m3u.8088y.site/
-https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
+https://z5.8088yyy.workers.dev/?c=0-9-zeecinema|Referer=https://m3u.8088y.site/
 
 #EXTINF:-1 tvg-id="ts503" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies",Zee Cinema HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5.8088yyy.workers.dev/?c=0-9-zeecinemahd|Referer=https://m3u.8088y.site/
+#https://z5.8088yyy.workers.dev/?c=0-9-zeecinemahd|Referer=https://m3u.8088y.site/
+https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts503" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies",Zee Cinema HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -228,7 +228,7 @@ https://z5.8088yyy.workers.dev/?c=0-9-zeecinemahd|Referer=https://m3u.8088y.site
 #KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/files/console/a7ecdb94-cabc-4b42-8a31-0dc3ca02ecc5.jpg" group-title="Movies",Zee Bollymovies
+#EXTINF:-1 tvg-logo="https://www.zeebollymovies.zeeafrica.tv/images/ZBM/Icons/zbm-logo-200pxh.png" group-title="Movies",Zee Bollymovies
 https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts164" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold.png" group-title="Movies",Star Gold
