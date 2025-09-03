@@ -8,10 +8,39 @@
 #EXTM3U x-tvg-url="https://short.gy/zdk6lx"
 
 ================================================================TEST================================================================================================
-#EXTINF: -1 tvg-id="ts797" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeThirai_Thumbnail_96ccd831-12bb-47e6-b57f-5e0a71ccf81b.png group-title="A_TEST",Zee Thirai
+#EXTINF:-1 tvg-id="616" tvg-chno="79" tvg-logo="https://tatalogo.pages.dev/616.png" group-title="A_TEST", History TV18 HD Tamil
+https://jtvp.8088yyy.workers.dev/bpk-tv/History_18_Hindi_MOB/WDVLive/index.mpd|Referer=https://m3u.8088y.site/
+
+#EXTINF:-1 tvg-id="616" tvg-chno="79" tvg-logo="https://tatalogo.pages.dev/616.png" group-title="A_TEST", History TV18 HD Tamil
+https://jtvp.8088yyy.workers.dev/bpk-tv/History_18_HD_MOB/WDVLive/index.mpd|Referer=https://m3u.8088y.site/
+
+#EXTINF:-1 tvg-id="616" tvg-chno="79" tvg-logo="https://tatalogo.pages.dev/616.png" group-title="A_TEST", History TV18 HD Tamil
+https://jtvp.8088yyy.workers.dev/bpk-tv/History_18_MOB/WDVLive/index.mpd|Referer=https://m3u.8088y.site/
+
+#EXTINF: -1 tvg-id="0-9-bigmagic_1786965389" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeThirai_Thumbnail_96ccd831-12bb-47e6-b57f-5e0a71ccf81b.png group-title="A_TEST",Zee Thirai
+#EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_Magic.png" group-title="Zee5",Big Magic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://z5.8088yyy.workers.dev/0-9-bigmagic_1786965389.m3u8|Referer=https://m3u.8088y.site/
+
+#EXTINF: -1 tvg-id="0-9-bigmagic_1786965389" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeThirai_Thumbnail_96ccd831-12bb-47e6-b57f-5e0a71ccf81b.png group-title="A_TEST",Zee Thirai
+#EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_Magic.png" group-title="Zee5",Big Magic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://z5.8088yyy.workers.dev/bigmagic_1786965389.m3u8|Referer=https://m3u.8088y.site/
+
+#EXTINF: -1 tvg-id="0-9-bigmagic_1786965389" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeThirai_Thumbnail_96ccd831-12bb-47e6-b57f-5e0a71ccf81b.png group-title="A_TEST",Zee Thirai
 #EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_Magic.png" group-title="Zee5",Big Magic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5.8088yyy.workers.dev/1786965389.m3u8|Referer=https://m3u.8088y.site/
+
+#EXTINF: -1 tvg-id="0-9-bigmagic_1786965389" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeThirai_Thumbnail_96ccd831-12bb-47e6-b57f-5e0a71ccf81b.png group-title="A_TEST",Zee Thirai
+#EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_Magic.png" group-title="Zee5",Big Magic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://z5.8088yyy.workers.dev/?c=0-9-bigmagic_1786965389.m3u8|Referer=https://m3u.8088y.site/
+
+#EXTINF: -1 tvg-id="0-9-bigmagic_1786965389" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeThirai_Thumbnail_96ccd831-12bb-47e6-b57f-5e0a71ccf81b.png group-title="A_TEST",Zee Thirai
+#EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_Magic.png" group-title="Zee5",Big Magic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://z5.8088yyy.workers.dev/?c=1786965389.m3u8|Referer=https://m3u.8088y.site/
 ============================================================MARATHI==================================================================================================
 #EXTINF:-1 tvg-id="FaktMarathi.in@SD" tvg-logo="https://i.imgur.com/y0VS4QN.png" group-title="Marathi",Fakt Marathi
 https://cdn-6.pishow.tv/live/10002/master.m3u8
@@ -819,5 +848,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/zoomin.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://appv10static.jaagobd.com/media/channel_logos/1000062343.jpg",Music India
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicindiain.stream/tracks-v1a1/mono.m3u8
+
 
 
