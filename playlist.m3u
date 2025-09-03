@@ -39,33 +39,33 @@ https://la.drmlive.net/tp/sliv-marathi.m3u8
 
 #EXTINF:-1 tvg-id="ts251" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi.png" group-title="Marathi", Zee Marathi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee-9z5383486
+https://la.drmlive.net/tp/zee-9z5383486.m3u8
 
 #EXTINF:-1 tvg-id="ts501" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" group-title="Marathi", Zee Marathi ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee-zeemarathi
+https://la.drmlive.net/tp/zee-zeemarathi.m3u8
 
 #EXTINF:-1 tvg-id="ts501" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" group-title="Marathi", Zee Marathi ᴴᴰ
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=282022&extension=ts
 
 #EXTINF:-1 tvg-id="ts248" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="Marathi", Zee Yuva
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee-zeeyuva
+https://la.drmlive.net/tp/zee-zeeyuva.m3u8
 
 #EXTINF:-1 tvg-id="ts248" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="Marathi", Zee Yuva
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=156151&extension=ts
 
 #EXTINF:-1 tvg-id="0-9-394" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Chitramandir.png" group-title="Marathi", Zee Chitramandir
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee-394
+https://la.drmlive.net/tp/zee-394.m3u8
 
 #EXTINF:-1 tvg-id="ts249" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Marathi", Zee Talkies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee-9z5383489
+https://la.drmlive.net/tp/zee-9z5383489.m3u8
 
 #EXTINF:-1 tvg-id="ts515" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" group-title="Marathi", Zee Talkies ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee-zeetalkies
+https://la.drmlive.net/tp/zee-zeetalkies.m3u8
 
 #EXTINF:-1 tvg-id="ts515" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" group-title="Marathi", Zee Talkies ᴴᴰ
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:66:34:30&stream=155756&extension=ts
@@ -1267,6 +1267,7 @@ https://livestream.sunnxt.com/1893b9ab790747cb80a584873a608dcb/KochuTVB_IN_index
 #KODIPROP:inputstream.adaptive.license_key=19d8a5cc002f411b89b33925acdc33e0:2a9aa7a3f69834c4f348430cc3f658bb
 #EXTINF:-1 tvg-id="194347" tvg-language="Kannada" tvg-logo="https://sund-images.sunnxt.com/194347/960x540_ChintuTV_194347_64af5425-0ed0-4c8a-b071-00ef86eaefde.jpg" group-title="SunNxt"Chintu TV",Chintu TV
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
+
 
 
 
