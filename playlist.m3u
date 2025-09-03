@@ -990,62 +990,7 @@ https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/in
 #EXTINF:-1 tvg-id="ts43" tvg-logo="https://i.imgur.com/5WBWruX.png" group-title="Religious",Sanskar USA
 https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/index.m3u8
 
-#EXTINF:-1 tvg-id="1440" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/krishna-vani.png" group-title="Religious", Krishna Vani
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://livegeoroueu.akamaized.net/120723/smil:krishnavani.smil/playlist.m3u8?hdnts=st%3D1756790459~exp%3D1756812059~acl%3D%21%2A%2F120723%2Fsmil%3Akrishnavani.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.70_yuppfast_2_channel_217_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.70_yuppfast_2_channel_217_-1~hmac%3D33bad8437da16b548f09716ad778d23b885a5eb96492598f584fcc88e4420cc1
-
-#EXTINF:-1 tvg-id="1527" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hare-krishna-tv.png" group-title="Religious", Hare Krishna TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppparoriglin.akamaized.net/181224/smil:harekrishna.smil/playlist.m3u8?hdnts=st%3D1756790458~exp%3D1756812058~acl%3D%21%2A%2F181224%2Fsmil%3Aharekrishna.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.70_yuppfast_2_channel_197_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.70_yuppfast_2_channel_197_-1~hmac%3Dba4650271d781b2806cd2237c04eb442f98f995e766c8b54f65619704ddb6552
-
-#EXTINF:-1 tvg-id="599" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/disha-tv.png" group-title="Religious", Disha TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppftalive.akamaized.net/080823/dishatv/playlist.m3u8?hdnts=st%3D1756790461~exp%3D1756812061~acl%3D%21%2A%2F080823%2Fdishatv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.70_yuppfast_2_channel_125_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.70_yuppfast_2_channel_125_-1~hmac%3D86c1c709798c64a68510ef5df68ab70fac74084bdc7a460029093519972fa762
-
-#EXTINF:-1 tvg-id="156" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jinvani-channel.png" group-title="Religious", Jinvani Channel
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppftalive.akamaized.net/080823/jinvani/playlist.m3u8?hdnts=st%3D1756790461~exp%3D1756812061~acl%3D%21%2A%2F080823%2Fjinvani%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.70_yuppfast_2_channel_156_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.70_yuppfast_2_channel_156_-1~hmac%3D337690af7bb9523d1427c6bcd43dd138b12c20f0d7b0a34f4dd7d3061705f7ec
-
-#EXTINF:-1 tvg-id="203" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/astroscience.png" group-title="Religious", Astroscience
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppnimrestreammum.akamaized.net/181224/smil:astrotech.smil/playlist.m3u8?hdnts=st%3D1756790462~exp%3D1756812062~acl%3D%21%2A%2F181224%2Fsmil%3Aastrotech.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.70_yuppfast_2_channel_203_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.70_yuppfast_2_channel_203_-1~hmac%3D96e9bc8660ae3c24f6e388d13a09bbe3f8846a4d130edc993c59b685e8352f08
-
-#EXTINF:-1 tvg-id="123" tvg-chno="101" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/subharti-tv.png" group-title="Religious", Subharti TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppftalive.akamaized.net/080823/subhartitv/playlist.m3u8?hdnts=st%3D1756790462~exp%3D1756812062~acl%3D%21%2A%2F080823%2Fsubhartitv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.70_yuppfast_2_channel_123_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.70_yuppfast_2_channel_123_-1~hmac%3D27eb1035364a274c9ba09e3e9f68008eb3448c89fd501cf70694198f36c83925
-
-#EXTINF:-1 tvg-id="206" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/peace-of-mind.png" group-title="Religious", Peace of Mind
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppparoriglin.akamaized.net/181224/smil:peaceofmind.smil/playlist.m3u8?hdnts=st%3D1756790462~exp%3D1756812062~acl%3D%21%2A%2F181224%2Fsmil%3Apeaceofmind.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.70_yuppfast_2_channel_206_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.70_yuppfast_2_channel_206_-1~hmac%3D3ef35757c3872e9f162a13b5caa2bb75f3c9594e8b86dca23bea08bed48e2a75
-
-#EXTINF:-1 tvg-id="233" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vchaou.png" group-title="Religious", SVBC 4
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://yuppftalive.akamaized.net/080823/svbc4/playlist.m3u8?hdnts=st%3D1756790463~exp%3D1756812063~acl%3D%21%2A%2F080823%2Fsvbc4%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.70_yuppfast_2_channel_233_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.70_yuppfast_2_channel_233_-1~hmac%3Dca3b8d209941e09fb9beb7eea07bca2a7a3e4e96d9936283b7612865804e0b09
-
-#EXTINF:-1 tvg-id="280" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hosanna-tv-hindi.png" group-title="Religious",Hosanna TV Hindi
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
-https://2-fss-2.themediacdn.com/pl_144/amlst:206512-3287954/playlist.m3u8?hdnts=st%3D1756790463~exp%3D1756812063~acl%3D%21%2A%2Fpl_144%2Famlst%3A206512-3287954%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.70_yuppfast_2_channel_280_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.70_yuppfast_2_channel_280_-1~hmac%3Dbee0d17dbbccc8623a7d69011160c474f7974b1ae2305a9965aff1ab9e8de701
-
 =========================================================================SONYLIVE=====================================================================================
-
 
 #EXTINF:-1 tvg-id="ts15" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SonyLive",SET ᴴᴰ
 https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
@@ -1307,4 +1252,5 @@ https://livestream.sunnxt.com/1893b9ab790747cb80a584873a608dcb/KochuTVB_IN_index
 #KODIPROP:inputstream.adaptive.license_key=19d8a5cc002f411b89b33925acdc33e0:2a9aa7a3f69834c4f348430cc3f658bb
 #EXTINF:-1 tvg-id="194347" tvg-language="Kannada" tvg-logo="https://sund-images.sunnxt.com/194347/960x540_ChintuTV_194347_64af5425-0ed0-4c8a-b071-00ef86eaefde.jpg" group-title="SunNxt"Chintu TV",Chintu TV
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
+
 
