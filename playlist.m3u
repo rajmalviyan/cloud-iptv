@@ -143,7 +143,7 @@ https://la.drmlive.net/tp/sliv-wah.m3u8
 
 #EXTINF:-1 tvg-id="ts557" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png" group-title="Entertainment", Zee TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zeetv.m3u8
+https://la.drmlive.net/tp/zee-zeetv.m3u8
 
 #EXTINF:-1 tvg-id="ts63" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment", Zee TV ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -1267,6 +1267,7 @@ https://livestream.sunnxt.com/1893b9ab790747cb80a584873a608dcb/KochuTVB_IN_index
 #KODIPROP:inputstream.adaptive.license_key=19d8a5cc002f411b89b33925acdc33e0:2a9aa7a3f69834c4f348430cc3f658bb
 #EXTINF:-1 tvg-id="194347" tvg-language="Kannada" tvg-logo="https://sund-images.sunnxt.com/194347/960x540_ChintuTV_194347_64af5425-0ed0-4c8a-b071-00ef86eaefde.jpg" group-title="SunNxt"Chintu TV",Chintu TV
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
+
 
 
 
