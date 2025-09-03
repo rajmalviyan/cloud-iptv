@@ -452,7 +452,6 @@ https://live.dinesh29.com.np/stream/jiotvplus/saregamamusic/master.m3u8
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 #EXTINF:-1 tvg-id="962" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" group-title="Music", Boogle Bollywood
-https://live.dinesh29.com.np/stream/jiotv/booglebollywood/master.m3u8
 
 #EXTINF:-1 tvg-id="732" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Tashan.png" group-title="Music",9x Tashan
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
@@ -472,10 +471,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="1694" tvg-logo="https://a.jsrdn.com/hls/22994/haryana-beat/poster_20241127_212959.jpg" group-title="Music",Haryana Beat
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/haryana-beat/index.m3u8
 
+===========================================================NEWS================================================================================================
+
 #EXTINF:-1 tvg-id="ts155" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="News",ABP Majha
 https://in1.sunilprasad.com.np/yuppLive/abp-majha/master.m3u8
-
-===========================================================MARATHI=================================================================================================
 
 #EXTINF:-1 tvg-id="ts1343" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Marathi.png" group-title="News",NDTV Marathi
 https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
@@ -674,12 +673,20 @@ https://live.dinesh29.com.np/stream/jiotvplus/discoveryhindi/master.m3u8
 #EXTINF:-1 tvg-id="ts130" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="Knowledge", Animal Planet
 https://live.dinesh29.com.np/stream/jiotvplus/animalplanethindi/master.m3u8
 
+
+#EXTINF:-1 tvg-id="ts287" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="Knowledge", Animal Planet ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://tplay-vivek.vercel.app/play.m3u8?id=287
+
+
 #EXTINF:-1 tvg-id="ts341" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Knowledge", Discovery ᴴᴰ World
 https://live.dinesh29.com.np/stream/jiotvplus/discoveryhdworld/master.m3u8
+
 
 #EXTINF:-1 tvg-id="ts113" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="Knowledge",Discovery Science
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=113
+
 
 #EXTINF:-1 tvg-id="ts228" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="Knowledge",Discovery Turbo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -818,10 +825,10 @@ https://live.dinesh29.com.np/stream/jiotvplus/eurosporthd/master.m3u8
 
 ===========================================================KIDS=================================================================================================
 
-#EXTINF:-1 tvg-id="1375" tvg-name="Disney Internationalᴴᴰ" tvg-language="Unknown" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_International_HD.png" group-title="Kids" group-logo="", Disney International ᴴᴰ
+#EXTINF:-1 tvg-id="1375" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_International_HD.png" group-title="Kids", Disney International ᴴᴰ
 https://live.dinesh29.com.np/stream/jiotvplus/disneyinternationalhd/master.m3u8
 
-#EXTINF:-1 tvg-id="1373" tvg-name="Disney Channel" tvg-language="Unknown" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="Kids",Disney Channel
+#EXTINF:-1 tvg-id="1373" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="Kids",Disney Channel
 https://live.dinesh29.com.np/stream/jiotvplus/disneychannel/master.m3u8
 
 #EXTINF:-1 tvg-id="ts144" tvg-logo="https://i.ibb.co.com/pf4SxjC/knbc.png" group-title="Kids",Disney Junior
@@ -879,25 +886,6 @@ https://tplay-vivek.vercel.app/play.m3u8?id=995
 
 #EXTINF:-1 tvg-id="ts45" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids",Sony Yay
 https://la.drmlive.net/tp/sliv-yay.m3u8
-
-#EXTINF:-1 tvg-id="ts1066" tvg-logo="https://i.ibb.co.com/pf4SxjC/knbc.png" group-title="Kids",Disney ᴴᴰ 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
-https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
-
-#EXTINF:-1 tvg-id="ts144" tvg-logo="https://i.ibb.co.com/pf4SxjC/knbc.png" group-title="Kids",Disney Junior
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=221e176f3dfabb84ff506d65dd93b09f:6a97b8d4beed4d4b1697c1488706c6ca
-https://a181aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/0qvo3uakfd/out/v1/d62a555c1e5945f3bae88ae4018321d4/cenc.mpd
-
-#EXTINF:-1 tvg-id="ts114" tvg-logo="https://i.ibb.co.com/pf4SxjC/knbc.png" group-title="Kids",Disney XD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39cebece8b36640f9ba3f248ecfdf86a:fad936249e036830aa5bef41bec05326
-https://a53aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/jts4tzzv1k/out/v1/8a5b29f7068c415aa371ea95743382e6/cenc.mpd
-
 ===========================================================RELIGIOUS=================================================================================================
 
 #EXTINF:-1 tvg-id="ts38" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png" group-title="Religious",Aastha TV
@@ -949,20 +937,14 @@ https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90d8713ba5e85d779d005b1f14a5bc8d:33650314fe1e945017640ba9878c5de9
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
-#EXTINF:-1 tvg-id="ts406" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music",MTV ᴴᴰ
+#EXTINF:-1 tvg-id="ts406" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="JTV",MTV ᴴᴰ
 https://jtvp.8088yyy.workers.dev/bpk-tv/MTV_HD_Plus_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce16454b1fc85beab2f807af176046bb:ff67cca83c770daa6dc9c295cc76564f
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
-#EXTINF:-1 tvg-id="ts219" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png" group-title="JTV",Discovey Channel
+#EXTINF:-1 tvg-id="ts219" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png" group-title="JTV",Discovey HD
 https://jtvp.8088yyy.workers.dev/bpk-tv/Discovery_HD_World_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aafd067e9c3e50c4b25c239373b92103:4a3162f66c9bb5e24d05873bf7aa05f2
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
-#EXTINF:-1 tvg-id="ts287" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="JTV", Animal Planet ᴴᴰ
-https://jtvp.8088yyy.workers.dev/bpk-tv/Animal_Planet_HD_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fc661aa1af51c98950c43329391d18:c2677c874886e78d24b3fb656c5734e0
@@ -1351,6 +1333,7 @@ https://livestream.sunnxt.com/1893b9ab790747cb80a584873a608dcb/KochuTVB_IN_index
 #KODIPROP:inputstream.adaptive.license_key=19d8a5cc002f411b89b33925acdc33e0:2a9aa7a3f69834c4f348430cc3f658bb
 #EXTINF:-1 tvg-id="194347" tvg-language="Kannada" tvg-logo="https://sund-images.sunnxt.com/194347/960x540_ChintuTV_194347_64af5425-0ed0-4c8a-b071-00ef86eaefde.jpg" group-title="SunNxt"Chintu TV",Chintu TV
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
+
 
 
 
