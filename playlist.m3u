@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
-#EXTM3U x-tvg-url="https://live.dinesh29.com.np/epg/jiotvplus/master-epg.xml.gz"
-#EXTM3U x-tvg-url="https://whythishome.github.io/epg/guides/dishtv.in_en.xml.gz" 
-#EXTM3U x-tvg-url="https://whythishome.github.io/epg/guides/dishtv.in_hi.xml.gz"
-#EXTM3U x-tvg-url="https://whythishome.github.io/epg/guides/dishtv.in_en.xml.gz" 
-#EXTM3U x-tvg-url="https://whythishome.github.io/epg/guides/dishtv.in_hi.xml.gz" 
+#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz" 
 ===========================================================MARATHI=================================================================================================
 
 #EXTINF:-1 tvg-id="738" tvg-logo="https://i.imgur.com/y0VS4QN.png" group-title="Marathi",Fakt Marathi
@@ -28,13 +24,13 @@ https://live.dinesh29.com.np/stream/jiotvplus/starpravah/master.m3u8
 #EXTINF:-1 tvg-id="ts469" tvg-logo="https://img.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/4941/1424941-a-b57c5a18e60c" group-title="Marathi",Star Pravah ᴴᴰ
 https://live.dinesh29.com.np/stream/jiotvplus/starpravahhd/master.m3u8
 
-#EXTINF:-1 tvg-id="ts985" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Pravah_Picture.png" group-title="Marathi",Star Pravah Pictures
+#EXTINF:-1 tvg-id="starpravahpicture" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Pravah_Picture.png" group-title="Marathi",Star Pravah Pictures
 https://live.dinesh29.com.np/stream/jiotvplus/starpravahpicture/master.m3u8
 
-#EXTINF:-1 tvg-id="ts1175" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Pravah_Picture_HD.png" group-title="Marathi",Star Pravah Pictures ᴴᴰ
+#EXTINF:-1 tvg-id="starpravahpicturehd" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Pravah_Picture_HD.png" group-title="Marathi",Star Pravah Pictures ᴴᴰ
 https://live.dinesh29.com.np/stream/jiotvplus/starpravahpicturehd/master.m3u8
 
-#EXTINF:-1 tvg-id="ts658" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Marathi",Sony Marathi
+#EXTINF:-1 tvg-id="1146" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Marathi",Sony Marathi
 https://la.drmlive.net/tp/sliv-marathi.m3u8
 
 #EXTINF:-1 tvg-id="ts251" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi.png" group-title="Marathi", Zee Marathi
@@ -83,7 +79,7 @@ https://la.drmlive.net/tp/zee-tvhd_0.m3u8
 #EXTINF:-1 tvg-id="ts40" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",& TV ᴴᴰ
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ts1370" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SUN_Neo.png" group-title="Entertainment",Sun Neo ᴴᴰ
+#EXTINF:-1 tvg-id="3088" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SUN_Neo.png" group-title="Entertainment",Sun Neo ᴴᴰ
 https://live.dinesh29.com.np/stream/jiotv/sunneohd/master.m3u8
 
 #EXTINF:-1 tvg-id="ts52" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment", Colors ᴴᴰ
@@ -99,14 +95,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 #EXTINF:-1 tvg-id="ts543" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png" group-title="Entertainment", Colors
 https://live.dinesh29.com.np/stream/jiotvplus/colorssd/master.m3u8
 
-#EXTINF:-1 tvg-id="ts15" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SET ᴴᴰ
+#EXTINF:-1 tvg-id="291" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Entertainment",SET ᴴᴰ
 https://la.drmlive.net/tp/sliv-sony.m3u8
 
-#EXTINF:-1 tvg-id="ts556" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Entertainment",SET
+#EXTINF:-1 tvg-id="1396" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Entertainment",SET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=556
 
-#EXTINF:-1 tvg-id="ts48" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment",Sony SAB ᴴᴰ
+#EXTINF:-1 tvg-id="471" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Entertainment",Sony SAB ᴴᴰ
 https://la.drmlive.net/tp/sliv-sab.m3u8
 
 #EXTINF:-1 tvg-id="ts559" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Entertainment",Sony SAB
@@ -172,18 +168,18 @@ https://epiconvh.akamaized.net/live/nazara/master.m3u8
 #EXTINF: -1 tvg-id="ts592" tvg-chno="41" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_flix_SD.png" group-title="Movies", & Flix
 https://edge3-moblive.yuppcdn.net:443/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 
-#EXTINF:-1 tvg-id="ts506" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png" group-title="Movies", & Flix ᴴᴰ
+#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png" group-title="Movies", & Flix ᴴᴰ English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://la.drmlive.net/tp/zee-channel_2105335046.m3u8
 
-#EXTINF:-1 tvg-id="ts506" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png" group-title="Movies", & Flix ᴴᴰ Hindi
+#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png" group-title="Movies", & Flix ᴴᴰ Hindi
 http://s.octotv.live:80/play/live.php?mac=00:1A:79:B8:8F:CD&stream=155990&extension=ts
 
-#EXTINF:-1 tvg-id="ts530" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png" group-title="Movies", & Prive ᴴᴰ
+#EXTINF:-1 tvg-id="0-9-9z5543514" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png" group-title="Movies", & Prive ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://la.drmlive.net/tp/zee-9z5543514.m3u8
 
-#EXTINF:-1 tvg-id="ts1183" tvg-logo="https://exchange4media.gumlet.io/news-photo/98204-xplore.jpg" group-title="Movies", & Xplor ᴴᴰ
+#EXTINF:-1 tvg-id="0-9-209" tvg-logo="https://exchange4media.gumlet.io/news-photo/98204-xplore.jpg" group-title="Movies", & Xplor ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://la.drmlive.net/tp/zee-209.m3u8
 
@@ -195,10 +191,10 @@ https://la.drmlive.net/tp/zee-pictures.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://la.drmlive.net/tp/zee-tvpictureshd.m3u8
 
-#EXTINF:-1 tvg-id="ts80" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies",Sony Max ᴴᴰ
+#EXTINF:-1 tvg-id="476" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies",Sony Max ᴴᴰ
 https://la.drmlive.net/tp/sliv-maxhd.m3u8
 
-#EXTINF:-1 tvg-id="ts132" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Movies", Sony Max
+#EXTINF:-1 tvg-id="289" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Movies", Sony Max
 https://la.drmlive.net/tp/sliv-max.m3u8
 
 #EXTINF:-1 tvg-id="ts123" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="Movies",Zee Cinema
@@ -231,13 +227,13 @@ https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
 #EXTINF:-1 tvg-id="ts163" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2.png" group-title="Movies",Star Gold 2
 https://live.dinesh29.com.np/stream/jiotvplus/stargold2/master.m3u8
 
-#EXTINF:-1 tvg-id="ts1072" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="Movies",Star Gold 2 ᴴᴰ
+#EXTINF:-1 tvg-id="stargold2hd" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png" group-title="Movies",Star Gold 2 ᴴᴰ
 https://live.dinesh29.com.np/stream/jiotvplus/stargold2hd/master.m3u8
 
 #EXTINF:-1 tvg-id="ts461" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Select.png" group-title="Movies",Star Gold Select
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldselect/master.m3u8
 
-#EXTINF:-1 tvg-id="ts595" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="Movies",Star Gold Select ᴴᴰ
+#EXTINF:-1 tvg-id="stargoldselecthd" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png" group-title="Movies",Star Gold Select ᴴᴰ
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldselecthd/master.m3u8
 
 #EXTINF:-1 tvg-id="ts493" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_Romance.png" group-title="Movies",Star Gold Romance
@@ -261,7 +257,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/colorscineplexbollywood/master.m3u
 #EXTINF:-1 tvg-id="ts1000" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="Movies",Colors Cineplex Superhits
 https://live.dinesh29.com.np/stream/jiotvplus/colorscineplexsuperhit/master.m3u8
 
-#EXTINF:-1 tvg-id="ts120" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Movies", Sony Max 2
+#EXTINF:-1 tvg-id="483" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Movies", Sony Max 2
 https://la.drmlive.net/tp/sliv-max2.m3u8
 
 #EXTINF:-1 tvg-id="ts100" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png?20230801125521" group-title="Movies", Zee Action
@@ -292,10 +288,10 @@ https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist
 #EXTINF:-1 tvg-id="ts7" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movies",B4U Movies
 https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ts1637" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Movies",Sheemaroo Bollywood
+#EXTINF:-1 tvg-id="3075" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Movies",Sheemaroo Bollywood One
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ts1637" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Movies",Sheemaroo Bollywood
+#EXTINF:-1 tvg-id="3075" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Movies",Sheemaroo Bollywood
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/master.m3u8
 
 #EXTINF:-1 tvg-id="BollywoodHD" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-hd/logo_20231219_184845_51.png" group-title="Movies",Bollywood ᴴᴰ
@@ -316,10 +312,10 @@ https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413
 #EXTINF:-1 tvg-id="486" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png" group-title="Movies", Bhojpuri Cinema
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ts1506" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dabangg.png" group-title="Movies",Dabangg
+#EXTINF:-1 tvg-id="532" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dabangg.png" group-title="Movies",Dabangg
 https://hls.dabangasudan.org/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://epicon.in/img/new_filamchi_logo.png" group-title="Movies",Filmachi Bhojpuri
+#EXTINF:-1 tvg-id="ts830" tvg-logo="https://epicon.in/img/new_filamchi_logo.png" group-title="Movies",Filmachi Bhojpuri
 https://epiconvh.s.llnwi.net/filamchi/master.m3u8
 
 #EXTINF:-1 tvg-id="ts486" tvg-logo="https://i.imgur.com/1b6PRjs.jpeg" group-title="Movies",Tata Play Bolloywood Premier
@@ -1218,7 +1214,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/man
 https://jiotvmblive.cdn.jio.com/bpk-tv/History_HD_BTS/output/index.mpd
 
 #EXTINF:-1 tvg-id="ts460" tvg-logo="https://www.sonybbcearth.com/images/logo.png" group-title="JTV+", Sony BBC Earth ᴴᴰ
-https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+https://la.drmlive.net/tp/sliv-bbc.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=053d3a1f8d5e5d759a7cbaa5b9ca7a0d:020e466407e9be52f1884697ef9d9ec9
@@ -1485,106 +1481,6 @@ https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF:-1 tvg-id="1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 5 HD
 https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
-=========================================================================SONYLIVE=====================================================================================
-
-#EXTINF:-1 tvg-id="ts15" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SonyLive",SET ᴴᴰ
-https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
-
-#EXTINF:-1 tvg-id="ts48" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="SonyLive",Sony SAB ᴴᴰ
-https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
-
-#EXTINF:-1 tvg-id="ts658" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="SonyLive",Sony Marathi
-https://tataplay.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8
-
-#EXTINF:-1 tvg-id="ts554" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="SonyLive",Sony Pal
-https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
-
-#EXTINF:-1 tvg-id="ts80" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="SonyLive",Sony Max ᴴᴰ
-https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
-
-#EXTINF:-1 tvg-id="ts132" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="SonyLive", Sony Max
-https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
-
-#EXTINF:-1 tvg-id="ts120" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="SonyLive", Sony Max 2
-https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
-
-#EXTINF:-1 tvg-id="ts56" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="SonyLive", Sony Wah
-https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
-	
-#EXTINF:-1 tvg-id="ts32" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="SonyLive",Sony PIX ᴴᴰ
-https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
-
-#EXTINF:-1 tvg-id="ts460" tvg-logo="https://www.sonybbcearth.com/images/logo.png" group-title="SonyLive", Sony BBC Earth ᴴᴰ
-https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
-
-#EXTINF:-1 tvg-id="ts45" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="SonyLive",Sony Yay
-https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
-
-#EXTINF:-1 tvg-id="ts81" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SonyLive", Sony TEN 1 ᴴᴰ
-https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8
-
-#EXTINF:-1 tvg-id="ts462" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SonyLive", Sony TEN 2 ᴴᴰ
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
-
-#EXTINF:-1 tvg-id="ts464" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SonyLive", Sony TEN 3 ᴴᴰ Hindi
-https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
-
-#EXTINF:-1 tvg-id="1772" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="SonyLive", SONY TEN 4 ᴴᴰ
-https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
-
-#EXTINF:-1 tvg-id="ts35" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SonyLive",Sony TEN 5 ᴴᴰ
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
-
-=========================================================================SLIV=====================================================================================
-
-#EXTINF:-1 tvg-id="ts15" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SLIV",SET ᴴᴰ
-https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
-
-#EXTINF:-1 tvg-id="ts48" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="SLIV",Sony SAB ᴴᴰ
-https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
-
-#EXTINF:-1 tvg-id="ts658" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="SLIV",Sony Marathi
-https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
-
-#EXTINF:-1 tvg-id="ts554" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="SLIV",Sony Pal
-https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8 
-
-#EXTINF:-1 tvg-id="ts80" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="SLIV",Sony Max ᴴᴰ
-https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8 
-
-#EXTINF:-1 tvg-id="ts132" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="SLIV", Sony Max
-https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
-
-#EXTINF:-1 tvg-id="ts120" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="SLIV", Sony Max 2
-https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8 
-
-#EXTINF:-1 tvg-id="ts56" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="SLIV", Sony Wah
-https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRSonyLIVpHcdDE5RcDA/master.m3u8
-	
-#EXTINF:-1 tvg-id="ts32" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="SLIV",Sony PIX ᴴᴰ
-https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
-
-#EXTINF:-1 tvg-id="ts460" tvg-logo="https://www.sonybbcearth.com/images/logo.png" group-title="SLIV", Sony BBC Earth ᴴᴰ
-https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
-
-#EXTINF:-1 tvg-id="ts45" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="SLIV",Sony Yay
-https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
-
-#EXTINF:-1 tvg-id="ts81" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SLIV", Sony TEN 1 ᴴᴰ
-https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
-
-#EXTINF:-1 tvg-id="ts462" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SLIV", Sony TEN 2 ᴴᴰ
-https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8 
-
-#EXTINF:-1 tvg-id="ts464" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SLIV", Sony TEN 3 ᴴᴰ Hindi
-https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8 
-
-#EXTINF:-1 tvg-id="1772" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="SLIV", SONY TEN 4 ᴴᴰ
-https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8 
-
-#EXTINF:-1 tvg-id="ts35" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SLIV",Sony TEN 5 ᴴᴰ
-https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
-
 =========================================================================SUNNXT=====================================================================================
 
 #EXTINF:-1 tvg-id="194387" tvg-language="Marathi" tvg-logo="https://sund-images.sunnxt.com/194387/640x360_SunMarathi_194387_441db2e2-0fa1-48ca-be59-7f5dd70f66cb.jpg" group-title="SunNxt"Sun Marathi",Sun Marathi
@@ -1792,15 +1688,3 @@ https://livestreampublictv.sunnxt.com/publictv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-language="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png" group-title="SunNxt", 24 News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/24_nim_https/110322/channel24/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
