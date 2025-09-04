@@ -159,7 +159,7 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/shemarootv/master.m3u8
 
 #EXTINF:-1 tvg-id="ts1045" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_Umang.png" group-title="Entertainment",Shemaroo Umang
-https://live.dinesh29.com.np/stream/jiotvplus/shemarooumang/master.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-umang-plus/master.m3u8
 
 #EXTINF:-1 tvg-id="ts1184" tvg-logo="https://www.epicon.in/img/nazara-logo.png" group-title="Entertainment",Nazara
 https://epiconvh.akamaized.net/live/nazara/master.m3u8
@@ -287,6 +287,9 @@ https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist.m3u
 
 #EXTINF:-1 tvg-id="ts1637" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Movies",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ts1637" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Movies",Sheemaroo Bollywood
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/master.m3u8
 
 #EXTINF:-1 tvg-id="BollywoodHD" tvg-logo="https://a.jsrdn.com/hls/23077/bollywood-hd/logo_20231219_184845_51.png" group-title="Movies",Bollywood ᴴᴰ
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
@@ -419,6 +422,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="2065" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saregama_Music.png" group-title="Music",Saregama Music
 https://live.dinesh29.com.np/stream/jiotvplus/saregamamusic/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyZDjm9edaPKYEmGug1w6GqFjtIQLJUSg2gAQdFanhAVrl-ydco4a270w&s=10" group-title="Shemaroome",Shemaroo Filmigaane
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
 
 #EXTINF:-1 tvg-id="HindiHitsHD" tvg-logo="https://yt3.googleusercontent.com/El61G9RkH8EYikPt49ptsPxQMD-Fpdhoy4hJr8ivu5TYcnOuR_dyqvg7EMJlI9SiBPgx5ybWX8I=s160-c-k-c0x00ffffff-no-rj" group-title="Music",Hindi Hits ᴴᴰ
 http://146.59.253.52:8080/hindihitshd/index.m3u8
@@ -1074,6 +1080,9 @@ https://vg-pitaaratvlive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f5719
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://vg-pitaaratvyupp.akamaized.net/ptnr-yupptv/title-DivyaBhajan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/36801376-5c1a-4325-a76c-4a887413f87a/playlist.m3u8?hdnts=st%3D1756790463~exp%3D1756812063~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-DivyaBhajan%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F36801376-5c1a-4325-a76c-4a887413f87a%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.70_yuppfast_2_channel_236_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.55.214.70_yuppfast_2_channel_236_-1~hmac%3Dbdbd66e07067f4e2d382fcdda5381f564ac22f2e33cca8badc08a9a9ea97b0cc
 
+#EXTINF:-1 tvg-id="ts456" tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/5534104satsang.png" group-title="Religious",Satsang
+https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
+
 #EXTINF:-1 tvg-id="ts456" tvg-logo="https://i.imgur.com/40kNu1w.png" group-title="Religious",Satsang TV
 https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
 
@@ -1086,6 +1095,9 @@ https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/playlist.m
 #EXTINF:-1 tvg-id="ts43" tvg-logo="https://i.imgur.com/mu2B6hw.png" group-title="Religious",Sanskar
 https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/index.m3u8
 
+#EXTINF:-1 tvg-id="ts458" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shubh_TV.png" group-title="Religious",Shubh Cinema
+https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
+
 #EXTINF:-1 tvg-id="ts458" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shubh_TV.png" group-title="Religious",Shubh TV
 https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8
 
@@ -1094,6 +1106,9 @@ https://live.dinesh29.com.np/stream/jiotvplus/vedictv/master.m3u8
 
 #EXTINF:-1 tvg-id="ts288" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Arihant_TV.png" group-title="Religious",Dharm Sandesh
 https://live.dinesh29.com.np/stream/jiotvplus/dharmasandesh/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://bhaktiappproduction.s3.ap-south-1.amazonaws.com/videos/video/5802371total_bhakti_hd.png" group-title="Religious",Total Bhakti
+https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8
 
 #EXTINF:-1 tvg-id="ts43" tvg-logo="https://i.imgur.com/AU5vSPF.png" group-title="Religious",Sanskar UK
 https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8
@@ -1332,6 +1347,52 @@ https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8
 https://d2jso9g61rg1h8.cloudfront.net/index_3.m3u8
 #EXTINF:-1 tvg-id="657" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png"group-title="Zee5" , Zee Business
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+===================================================================SonyLIV=========================================================================================
+
+#EXTINF:-1 tvg-id="1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SonyLiv", SET HD
+https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
+#EXTINF:-1 tvg-id="1000009248" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SonyLiv", Sony SAB HD
+https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:-1 tvg-id="1000009273" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SonyLiv", Sony PAL
+https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF:-1 tvg-id="1000001971" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SonyLiv", Sony YAY
+https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#EXTINF:-1 tvg-id="1000009255" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="SonyLiv", Sony AATH
+https://dai.google.com/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
+#EXTINF:-1 tvg-id="1000009259" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="SonyLiv", Sony Marathi
+https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
+#EXTINF:-1 tvg-id="1000009252" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SonyLiv", Sony BBC Earth HD
+https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:-1 tvg-id="1000009258" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SonyLiv", Sony PIX HD
+https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF:-1 tvg-id="1000009253" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="SonyLiv", Sony WAH
+https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF:-1 tvg-id="1000009249" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="SonyLiv", Sony MAX
+https://dai.google.com/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+#EXTINF:-1 tvg-id="1000009247" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SonyLiv", Sony MAX HD
+https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:-1 tvg-id="1000044878" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="SonyLiv", Sony MAX2
+https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+#EXTINF:-1 tvg-id="1000009280" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 1
+https://dai.google.com/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+#EXTINF:-1 tvg-id="1000009279" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 2
+https://dai.google.com/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+#EXTINF:-1 tvg-id="1000009283" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 3
+https://dai.google.com/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#EXTINF:-1 tvg-id="1000119187" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 4
+https://dai.google.com/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+#EXTINF:-1 tvg-id="1000009281" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 5
+https://dai.google.com/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+#EXTINF:-1 tvg-id="1000009276" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 1 HD
+https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:-1 tvg-id="1000009277" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 2 HD
+https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF:-1 tvg-id="1000009278" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 3 HD
+https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:-1 tvg-id="1000119186" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 4 HD
+https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+#EXTINF:-1 tvg-id="1000009275" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLiv", Sony TEN 5 HD
+https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 =========================================================================SONYLIVE=====================================================================================
 
 #EXTINF:-1 tvg-id="ts15" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SonyLive",SET ᴴᴰ
@@ -1637,3 +1698,24 @@ https://livestreampublictv.sunnxt.com/publictv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-language="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png" group-title="SunNxt", 24 News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/24_nim_https/110322/channel24/playlist.m3u8
 
+======================================================================PTCPLAY======================================================================================
+#EXTINF:-1 id="" group-logo="https://play-lh.googleusercontent.com/55B3H4odhw25jDVA93sVCSQM6RzoH9z39QuC8D_TiQhD2h9QLBdJaS3y68oauEvTO8w" group-title="PTC_PLAY" tvg-language="" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTC-Punjabi.png", PTC Punjabi
+https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/playlist.m3u8
+
+#EXTINF:-1 id="" group-logo="https://play-lh.googleusercontent.com/55B3H4odhw25jDVA93sVCSQM6RzoH9z39QuC8D_TiQhD2h9QLBdJaS3y68oauEvTO8w" group-title="PTC_PLAY" tvg-language="" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTC-NEWS.png", PTC News
+https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/playlist.m3u8
+
+#EXTINF:-1 id="" group-logo="https://play-lh.googleusercontent.com/55B3H4odhw25jDVA93sVCSQM6RzoH9z39QuC8D_TiQhD2h9QLBdJaS3y68oauEvTO8w" group-title="PTC_PLAY" tvg-language="" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTC-simran.png", PTC Simran
+https://streaming.ptcplay.com/ptcSimranINOne/smil:Live.smil/playlist.m3u8
+
+#EXTINF:-1 id="" group-logo="https://play-lh.googleusercontent.com/55B3H4odhw25jDVA93sVCSQM6RzoH9z39QuC8D_TiQhD2h9QLBdJaS3y68oauEvTO8w" group-title="PTC_PLAY" tvg-language="" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/DHOL-TV-1.png", PTC Dholtv
+https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
+
+#EXTINF:-1 id="" group-logo="https://play-lh.googleusercontent.com/55B3H4odhw25jDVA93sVCSQM6RzoH9z39QuC8D_TiQhD2h9QLBdJaS3y68oauEvTO8w" group-title="PTC_PLAY" tvg-language="" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTC-GOLD.png", PTC Punjabi Gold
+https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/playlist.m3u8
+
+#EXTINF:-1 id="" group-logo="https://play-lh.googleusercontent.com/55B3H4odhw25jDVA93sVCSQM6RzoH9z39QuC8D_TiQhD2h9QLBdJaS3y68oauEvTO8w" group-title="PTC_PLAY" tvg-language="" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTC-Music.png", PTC Music
+https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
+
+#EXTINF:-1 id="" group-logo="https://play-lh.googleusercontent.com/55B3H4odhw25jDVA93sVCSQM6RzoH9z39QuC8D_TiQhD2h9QLBdJaS3y68oauEvTO8w" group-title="PTC_PLAY" tvg-language="" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTC-Chak-De.png", PTC Chak De
+https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/playlist.m3u8
