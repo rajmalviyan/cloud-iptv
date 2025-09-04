@@ -853,11 +853,6 @@ https://live.dinesh29.com.np/stream/jiotvplus/natgeowild/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/natgeowildhd/master.m3u8
 
 #EXTINF:-1 tvg-id="ts633" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ID.png" group-title="Knowledge",Investigation Discovery
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2828ea6f6a984505b0454da0c03f68b9:5d3b7195086544c2807aa8c1544e7379
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd
-
-#EXTINF:-1 tvg-id="ts633" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ID.png" group-title="Knowledge",Investigation Discovery
 https://live.dinesh29.com.np/stream/jiotvplus/investigationdiscovery/master.m3u8
 
 #EXTINF:-1 tvg-id="ts1276" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ID.png" group-title="Knowledge",Investigation Discovery ᴴᴰ
@@ -1791,6 +1786,7 @@ https://livestreampublictv.sunnxt.com/publictv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-language="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png" group-title="SunNxt", 24 News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/24_nim_https/110322/channel24/playlist.m3u8
+
 
 
 
