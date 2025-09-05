@@ -1701,10 +1701,20 @@ https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/p
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 
 ============================================================================TEST===================================================================================
-#EXTINF:-1 group-title="Test",Test
-#EXTVLCOPT:http-referrer="https://onezoo.net"
-#KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
-https://playyonogames.in/live.php?id=2065&format=.m3u8
+#EXTINF:-1 group-title="India",Test2
+https://playyonogames.in/live.php?id=2065&format=.m3u8|Referer=https://playyonogames.in/live.php?id=2065&format=.m3u8
 
-#EXTINF:-1 group-title="Test",Test2
-https://playyonogames.in/live.php?id=2065&format=.m3u8|Referer=https://onezoo.net
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHY1sJGg0M3Ck0fO9CjQ90jGl0BCfTPoqv2Q&s",Colors
+https://playyonogames.in/live.php?id=144&format=.m3u8|Referer=https://playyonogames.in/live.php?id=144&format=.m3u8|key=Shaharum
+
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHY1sJGg0M3Ck0fO9CjQ90jGl0BCfTPoqv2Q&s",Rishtey
+https://playyonogames.in/live.php?id=279&format=.m3u8|Referer=https://playyonogames.in/live.php?id=279&format=.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHY1sJGg0M3Ck0fO9CjQ90jGl0BCfTPoqv2Q&s",Cineplex_hd
+https://playyonogames.in/live.php?id=1477&format=.m3u8|Referer=https://playyonogames.in/live.php?id=1477&format=.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHY1sJGg0M3Ck0fO9CjQ90jGl0BCfTPoqv2Q&s",Cineplex_Bollywood
+https://playyonogames.in/live.php?id=1763&format=.m3u8|Referer=https://playyonogames.in/live.php?id=1763&format=.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png",MTv Hd
+https://playyonogames.in/live.php?id=248&format=.m3u8|Referer=https://playyonogames.in/live.php?id=248&format=.m3u8
