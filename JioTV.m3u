@@ -1,5 +1,111 @@
 EXTM3U
-============================================================================JIOTV===================================================================================
+=======================================================================ZEE5==========================================================================================
+
+#EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Zee5",& TV ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://playyonogames.in/z5/stream.m3u8?id=0-9-tvhd_0|Referer=https://onezoo.net
+
+#EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_Magic.png" group-title="Zee5",Big Magic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://playyonogames.in/z5/stream.m3u8?id=0-9-bigmagic_1786965389|Referer=https://onezoo.net
+
+#EXTINF:-1 tvg-id="0-9-9z5383486" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi.png" group-title="Zee5", Zee Marathi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://playyonogames.in/z5/stream.m3u8?id=0-9-9z5383486|Referer=https://onezoo.net
+
+#EXTINF:-1 tvg-id="0-9-zeemarathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" group-title="Zee5", Zee Marathi ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://playyonogames.in/z5/stream.m3u8?id=0-9-zeemarathi|Referer=https://onezoo.net
+
+#EXTINF:-1 tvg-id="0-9-zeeyuva" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="Zee5", Zee Yuva
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://playyonogames.in/z5/stream.m3u8?id=0-9-zeeyuva|Referer=https://onezoo.net
+
+#EXTINF:-1 tvg-id="0-9-394" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Chitramandir.png" group-title="Zee5", Zee Chitramandir
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://playyonogames.in/z5/stream.m3u8?id=0-9-394|Referer=https://onezoo.net
+
+#EXTINF:-1 tvg-id="0-9-9z5383489" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Zee5", Zee Talkies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://playyonogames.in/z5/stream.m3u8?id=0-9-9z5383489|Referer=https://onezoo.net
+
+#EXTINF:-1 tvg-id="0-9-zeetalkies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" group-title="Zee5", Zee Talkies ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://playyonogames.in/z5/stream.m3u8?id=0-9-zeetalkies|Referer=https://onezoo.net
+
+#EXTINF:-1 tvg-id="0-9-zeetv" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png" group-title="Zee5", Zee TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://playyonogames.in/z5/stream.m3u8?id=0-9-zeetv|Referer=https://onezoo.net
+
+#EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Zee5", Zee TV ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://playyonogames.in/z5/stream.m3u8?id=0-9-zeetvhd|Referer=https://onezoo.net
+
+#EXTINF:-1 tvg-id="0-9-zeeanmol" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="Zee5",Zee Anmol
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://playyonogames.in/z5/stream.m3u8?id=0-9-zeeanmol|Referer=https://onezoo.net
+
+#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png" group-title="Zee5", & Flix ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://playyonogames.in/z5/stream.m3u8?id=0-9-channel_2105335046|Referer=https://onezoo.net
+
+#EXTINF:-1 tvg-id="0-9-9z5543514" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png" group-title="Zee5", & Prive ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://playyonogames.in/z5/stream.m3u8?id=0-9-9z5543514|Referer=https://onezoo.net
+
+#EXTINF:-1 tvg-id="0-9-209" tvg-logo="https://exchange4media.gumlet.io/news-photo/98204-xplore.jpg" group-title="Zee5", & Xplor ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://playyonogames.in/z5/stream.m3u8?id=0-9-209.m3u8|Referer=https://onezoo.net
+
+#EXTINF:-1 tvg-id="0-9-pictures" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures.png" group-title="Zee5", & Pictures
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://playyonogames.in/z5/stream.m3u8?id=0-9-tvpictures|Referer=https://onezoo.net
+
+#EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Zee5", & Pictures ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://playyonogames.in/z5/stream.m3u8?id=0-9-tvpictureshd|Referer=https://onezoo.net
+
+#EXTINF:-1 tvg-id="0-9-zeecinema" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="Zee5",Zee Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://playyonogames.in/z5/stream.m3u8?id=0-9-zeecinema|Referer=https://onezoo.net
+
+#EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Zee5",Zee Cinema ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://playyonogames.in/z5/stream.m3u8?id=0-9-zeecinemahd|Referer=https://onezoo.net
+
+#EXTINF:-1 tvg-id="0-9-zeeaction" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png?20230801125521" group-title="Zee5", Zee Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://playyonogames.in/z5/stream.m3u8?id=0-9-zeeaction|Referer=https://onezoo.net
+
+#EXTINF:-1 tvg-id="0-9-zeeanmolcinema" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="Zee5", Zee Anmol Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://playyonogames.in/z5/stream.m3u8?id=0-9-zeeanmolcinema|Referer=https://onezoo.net
+
+#EXTINF:-1 tvg-id="0-9-bigganga" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Ganga.png" group-title="Zee5", Zee Anmol Cinema 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://playyonogames.in/z5/stream.m3u8?id=0-9-bigganga|Referer=https://onezoo.net
+
+#EXTINF:-1 tvg-id="0-9-zeeclassic" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="Zee5", Zee Bollywood
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://playyonogames.in/z5/stream.m3u8?id=0-9-zeeclassic|Referer=https://onezoo.net
+
+#EXTINF:-1 tvg-id="0-9-176" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic_SD.png" group-title="Zee5", Zee Classic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://playyonogames.in/z5/stream.m3u8?id=0-9-176|Referer=https://onezoo.net
+
+#EXTINF:-1 tvg-id="0-9-zing" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zing.png" group-title="Zee5",Zing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://playyonogames.in/z5/stream.m3u8?id=0-9-zing|Referer=https://onezoo.net
+
+#EXTINF:-1 tvg-id="0-9-zeecafehd" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="Zee5", Zee Café ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://playyonogames.in/z5/stream.m3u8?id=0-9-zeecafehd|Referer=https://onezoo.net
+
+#EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png" group-title="Zee5",Zee Zest ᴴᴰ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://playyonogames.in/z5/stream.m3u8?id=0-9-348|Referer=https://onezoo.net
+
+========================================================================JIOTV========================================================================================
 #EXTINF:-1 tvg-id="2065" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saregama_Music.png" group-title="ONEZOO",Saregama Music
 https://playyonogames.in/live.php?id=2065&format=.m3u8|Referer=https://playyonogames.in/live.php?id=2065&format=.m3u8
 
@@ -24,13 +130,7 @@ https://playyonogames.in/live.php?id=248&format=.m3u8|Referer=https://playyonoga
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6640|Referer=https://onezoo.net
 
 #EXTINF:-1 tvg-id="ts148" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures.png" group-title="Movies", & Pictures
-https://playyonogames.in/z5/stream.m3u8?id=0-9-pictures|Referer=https://onezoo.net
-
-#EXTINF:-1 tvg-id="ts148" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures.png" group-title="Movies", & Pictures
 https://otttv.co.in/d2h/livestream/-pictures/manifest.mpd|Referer=https://otttv.co.in/d2h/player.php?id=-pictures
-
-#EXTINF:-1 tvg-id="ts267" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies", & Pictures ᴴᴰ
-https://playyonogames.in/z5/stream.m3u8?id=0-9-tvpictureshd|Referer=https://onezoo.net
 
 =============================================================================Samsung=====================================================================================
 
