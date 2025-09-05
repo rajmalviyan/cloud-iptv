@@ -207,16 +207,28 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
 
 ==========================================================================ONEZOOTV====================================================================================
-#EXTINF:-1 tvg-id="ts52" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="ONEZOOTV", Colors ᴴᴰ
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://playyonogames.in/dlive.php?id=144&format=.mpd|Referer=https://playyonogames.in/dlive.php?id=144&format=.mpd
+
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHY1sJGg0M3Ck0fO9CjQ90jGl0BCfTPoqv2Q&s",Colors
+https://playyonogames.in/live.php?id=144&format=.m3u8|Referer=https://playyonogames.in/live.php?id=144&format=.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHY1sJGg0M3Ck0fO9CjQ90jGl0BCfTPoqv2Q&s",Rishtey
+https://playyonogames.in/live.php?id=279&format=.m3u8|Referer=https://playyonogames.in/live.php?id=279&format=.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHY1sJGg0M3Ck0fO9CjQ90jGl0BCfTPoqv2Q&s",Cineplex_hd
+https://playyonogames.in/live.php?id=1477&format=.m3u8|Referer=https://playyonogames.in/live.php?id=1477&format=.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHY1sJGg0M3Ck0fO9CjQ90jGl0BCfTPoqv2Q&s",Cineplex_Bollywood
+https://playyonogames.in/live.php?id=1763&format=.m3u8|Referer=https://playyonogames.in/live.php?id=1763&format=.m3u8
+
+#EXTINF:-1 group-title="India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png",MTv Hd
+https://playyonogames.in/live.php?id=248&format=.m3u8|Referer=https://playyonogames.in/live.php?id=248&format=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Zee_BollyWorld.jpg" group-title="ONEZOOTV",Zee Bolly World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6640|Referer=https://onezoo.net
 
 #EXTINF:-1 tvg-id="ts8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Entertainment", Star Plus ᴴᴰ
-https://playyonogames.in/dlive.php?id=1132&format=.mpdReferer=https://playyonogames.in/watch.php?id=1132
+https://playyonogames.in/live.php?id=1132&format=.m3u8|Referer=https://playyonogames.in/live.php?id=1132&format=.m3u8
 
 #EXTINF:-1 tvg-id="ts244" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Bharat_HD.png" group-title="Entertainment", Star Bharat ᴴᴰ
 https://playyonogames.in/dlive.php?id=1132&format=.mpdhttps://playyonogames.in/watch.php?id=1132
