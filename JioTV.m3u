@@ -7,15 +7,15 @@ https://z5.8088yyy.workers.dev/0-9-tvhd_0.m3u8|Referer=https://m3u.8088y.site/
 
 #EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_Magic.png" group-title="Zee5",Big Magic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5.8088yyy.workers.dev/bigmagic_1786965389.m3u8|Referer=https://m3u.8088y.site/
+https://z5.8088yyy.workers.dev/0-9-bigmagic_1786965389.m3u8|Referer=https://m3u.8088y.site/
 
 #EXTINF:-1 tvg-id="0-9-9z5383486" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi.png" group-title="Zee5", Zee Marathi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5.8088yyy.workers.dev/9-9z5383486.m3u8|Referer=https://m3u.8088y.site/
+https://z5.8088yyy.workers.dev/0-9-9z5383486.m3u8|Referer=https://m3u.8088y.site/
 
 #EXTINF:-1 tvg-id="0-9-zeemarathi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" group-title="Zee5", Zee Marathi ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5.8088yyy.workers.dev/0-zeemarathi.m3u8|Referer=https://m3u.8088y.site/
+https://z5.8088yyy.workers.dev/0-9-zeemarathi.m3u8|Referer=https://m3u.8088y.site/
 
 #EXTINF:-1 tvg-id="0-9-zeeyuva" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="Zee5", Zee Yuva
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
@@ -106,15 +106,12 @@ https://z5.8088yyy.workers.dev/0-9-zeecafehd.m3u8|Referer=https://m3u.8088y.site
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5.8088yyy.workers.dev/0-9-348.m3u8|Referer=https://m3u.8088y.site/
 
-=======================================================================ONEZOOTV====================================================================================
+=======================================================================ONEZOOTV======================================================================================
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2024/03/ChatGPT-Image-Apr-14-2025-04_54_49-PM.png" group-title="ONEZOO",Zee Bolly World
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6640|Referer=https://onezoo.net
 
-#EXTINF:-1 tvg-id="ts148" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures.png" group-title="Movies", & Pictures
-https://otttv.co.in/d2h/livestream/-pictures/manifest.mpd|Referer=https://otttv.co.in/d2h/player.php?id=-pictures
-
-=============================================================================Samsung=====================================================================================
+========================================================================Samsung======================================================================================
 
 #EXTINF:-1 tvg-id="ts503" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="SamsungTV",Zee Cinema ᴴᴰ
 https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
