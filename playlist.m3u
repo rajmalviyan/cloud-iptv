@@ -1396,6 +1396,10 @@ https://playyonogames.in/z5/stream.m3u8?id=0-9-zeecafehd|Referer=https://onezoo.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://playyonogames.in/z5/stream.m3u8?id=0-9-348|Referer=https://onezoo.net
 
+#EXTINF:-1 tvg-id="442" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Taas.png" group-title="Zee5" , Zee 24 Taas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://playyonogames.in/z5/stream.m3u8?id=0-9-zee24taas|Referer=https://onezoo.net
+
 #EXTINF:-1 tvg-id="0-9-9z5383487" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Zee_Tamil_News.webp/352px-Zee_Tamil_News.webp.png" group-title="Zee5", Zee Tamil News
 https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
 #EXTINF:-1 tvg-id="504" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png" group-title="Zee5", Zee News
@@ -1677,3 +1681,4 @@ https://livestreampublictv.sunnxt.com/publictv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-language="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png" group-title="SunNxt", 24 News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/24_nim_https/110322/channel24/playlist.m3u8
+
