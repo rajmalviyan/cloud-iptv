@@ -478,6 +478,12 @@ https://live.dinesh29.com.np/stream/jiotvplus/lokshahinews/master.m3u8
 #EXTINF:-1 tvg-id="ts233" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jai_Maharashtra.png" group-title="News", Jai Maharashtra
 https://live.dinesh29.com.np/stream/jiotvplus/jaimaharashtra/master.m3u8
 
+#EXTINF:-1 tvg-id="1151" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rangamanch.png" group-title="News",Rangamanch
+https://amigofx.com:1936/rangmanch/rangmanch/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3179" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Marathi_24x7.png" group-title="News",News Marathi 24x7
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-marathi-24x7/index.m3u8
+
 #EXTINF:-1 tvg-id="1972" tvg-logo="https://a.jsrdn.com/hls/23215/top-news-marathi/poster_20250813_200203.jpg" group-title="News",Top News Marathi
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/top-news-marathi/index.m3u8
 
@@ -1671,4 +1677,3 @@ https://livestreampublictv.sunnxt.com/publictv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-language="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png" group-title="SunNxt", 24 News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/24_nim_https/110322/channel24/playlist.m3u8
-
