@@ -1,4 +1,43 @@
 #EXTM3U
+
+=======================================================================ONEZOOTV======================================================================================
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2024/03/ChatGPT-Image-Apr-14-2025-04_54_49-PM.png" group-title="ONEZOO",Zee Bolly World
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6640|Referer=https://onezoo.net
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Filmax_logo.svg/768px-Filmax_logo.png" group-title="ONEZOO",Filmax
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eefc4c6db6d961885314bb5c58fd226b:da646d01cc7a852b093854299dbc7b87
+https://live2.shoq.com.pk/live/eds/FILMAX/DASH/FILMAX.mpd
+
+========================================================================Samsung======================================================================================
+
+#EXTINF:-1 tvg-id="ts503" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="SamsungTV",Zee Cinema ᴴᴰ
+https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.zeebollymovies.zeeafrica.tv/images/ZBM/Icons/zbm-logo-200pxh.png" group-title="SamsungTV",Zee Bollymovies
+https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dabangg.in@SD" tvg-logo="https://i.imgur.com/6ChpxLy.png" group-title="SamsungTV",Dabangg (720p)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-dabanggin-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SamsungTV",Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="441" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-title="SamsungTV",9x Jhakaas
+https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="732" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Tashan.png" group-title="SamsungTV",9x Tashan
+https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ts616" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_HD.png" group-title="SamsungTV",History TV 18 ᴴᴰ
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Animax.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="SamsungTV",Animax
+https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
+
 =============================================================================ZEE5======================================================================================
 
 #EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Zee5",& TV ᴴᴰ
@@ -105,34 +144,3 @@ https://z5.8088yyy.workers.dev/0-9-zeecafehd.m3u8|Referer=https://m3u.8088y.site
 #EXTINF:-1 tvg-id="0-9-348" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png" group-title="Zee5",Zee Zest ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5.8088yyy.workers.dev/0-9-348.m3u8|Referer=https://m3u.8088y.site/
-
-=======================================================================ONEZOOTV======================================================================================
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2024/03/ChatGPT-Image-Apr-14-2025-04_54_49-PM.png" group-title="ONEZOO",Zee Bolly World
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6640|Referer=https://onezoo.net
-
-========================================================================Samsung======================================================================================
-
-#EXTINF:-1 tvg-id="ts503" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="SamsungTV",Zee Cinema ᴴᴰ
-https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.zeebollymovies.zeeafrica.tv/images/ZBM/Icons/zbm-logo-200pxh.png" group-title="SamsungTV",Zee Bollymovies
-https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Dabangg.in@SD" tvg-logo="https://i.imgur.com/6ChpxLy.png" group-title="SamsungTV",Dabangg (720p)
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-dabanggin-samsungin/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SamsungTV",Action Hollywood Movies
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="441" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-title="SamsungTV",9x Jhakaas
-https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
-
-#EXTINF:-1 tvg-id="732" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9X_Tashan.png" group-title="SamsungTV",9x Tashan
-https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ts616" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_HD.png" group-title="SamsungTV",History TV 18 ᴴᴰ
-https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Animax.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="SamsungTV",Animax
-https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
