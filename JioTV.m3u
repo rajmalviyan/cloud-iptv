@@ -208,8 +208,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
 
 ==========================================================================ONEZOOTV====================================================================================
 #EXTINF:-1 tvg-id="ts52" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="ONEZOOTV", Colors ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://playyonogames.in/watch.php?id=144|Referer=https://onezoo.net
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://playyonogames.in/dlive.php?id=144&format=.mpd|Referer=https://playyonogames.in/dlive.php?id=144&format=.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Zee_BollyWorld.jpg" group-title="ONEZOOTV",Zee Bolly World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
@@ -292,10 +292,10 @@ https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/a
 https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
 https://amg17931-zee-amg17931c8-samsung-ph-6525.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dabangg.in@SD" tvg-logo="https://i.imgur.com/6ChpxLy.png" group-title="SamsungTV",Dabangg (720p)
+#EXTINF:-1 tvg-id="532" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dabangg.png" group-title="SamsungTV",Dabangg
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-dabanggin-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SamsungTV",Action Hollywood Movies
+#EXTINF:-1 tvg-id="" tvg-logo="https://stmify.com/wp-content/uploads/2024/08/81-s.webp" group-title="SamsungTV",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="441" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-title="SamsungTV",9x Jhakaas
