@@ -1700,21 +1700,22 @@ https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/p
 #EXTINF:-1 tvg-id="Animax.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Animation",Animax
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 
-============================================================================TEST===================================================================================
-#EXTINF:-1 group-title="India",Test2
+============================================================================ONEZOO===================================================================================
+
+#EXTINF:-1 tvg-id="2065" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saregama_Music.png" group-title="ONEZOO",Saregama Music
 https://playyonogames.in/live.php?id=2065&format=.m3u8|Referer=https://playyonogames.in/live.php?id=2065&format=.m3u8
 
-#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHY1sJGg0M3Ck0fO9CjQ90jGl0BCfTPoqv2Q&s",Colors
-https://playyonogames.in/live.php?id=144&format=.m3u8|Referer=https://playyonogames.in/live.php?id=144&format=.m3u8|key=Shaharum
+#EXTINF:-1 tvg-id="ts52" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="ONEZOO", Colors ᴴᴰ
+https://playyonogames.in/live.php?id=144&format=.m3u8|Referer=https://playyonogames.in/live.php?id=144&format=.m3u8
 
-#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHY1sJGg0M3Ck0fO9CjQ90jGl0BCfTPoqv2Q&s",Rishtey
+#EXTINF:-1 tvg-id="ts438" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey.png" group-title="ONEZOO", Colors Rishtey
 https://playyonogames.in/live.php?id=279&format=.m3u8|Referer=https://playyonogames.in/live.php?id=279&format=.m3u8
 
-#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHY1sJGg0M3Ck0fO9CjQ90jGl0BCfTPoqv2Q&s",Cineplex_hd
+#EXTINF:-1 tvg-id="ts61" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="ONEZOO",Color Cineplex ᴴᴰ
 https://playyonogames.in/live.php?id=1477&format=.m3u8|Referer=https://playyonogames.in/live.php?id=1477&format=.m3u8
 
-#EXTINF:-1 group-title="India" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHY1sJGg0M3Ck0fO9CjQ90jGl0BCfTPoqv2Q&s",Cineplex_Bollywood
+#EXTINF:-1 tvg-id="ts1000" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="ONEZOO",Colors Cineplex Bollywood
 https://playyonogames.in/live.php?id=1763&format=.m3u8|Referer=https://playyonogames.in/live.php?id=1763&format=.m3u8
 
-#EXTINF:-1 group-title="India" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png",MTv Hd
+#EXTINF:-1 tvg-id="ts103" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png" group-title="ONEZOO",MTV
 https://playyonogames.in/live.php?id=248&format=.m3u8|Referer=https://playyonogames.in/live.php?id=248&format=.m3u8
