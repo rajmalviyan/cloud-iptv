@@ -214,10 +214,10 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png" group-title="ONEZOO",MTV
-https://playyonogames.in/live.php?id=248&format=.m3u8|Referer=https://playyonogames.in
+https://playyonogames.in/live.php?id=248&format=.m3u8|Referer=https://playyonogames.in/live.php?id=248&format=.m3u8
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2024/05/ChatGPT-Image-Jul-12-2025-10_29_35-AM.png" group-title="ONEZOO",MTV ᴴᴰ
-https://playyonogames.in/live.php?id=1145&format=.m3u8|Referer=https://playyonogames.in
+https://playyonogames.in/live.php?id=1145&format=.m3u8|Referer=https://playyonogames.in/live.php?id=1145&format=.m3u8
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2023/07/ChatGPT-Image-Apr-14-2025-03_11_02-PM.png" group-title="ONEZOO",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
