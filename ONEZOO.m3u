@@ -1,10 +1,7 @@
 #EXTM3U
 ==========================================================================ONEZOO====================================================================================
 #EXTINF:-1 tvg-id="291" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="ONEZOO",SET ᴴᴰ
-https://nxtlive.net/sliv/play.php?id=0897686|referer=https://onezoo.net/
-
-#EXTINF:-1 tvg-id="291" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="ONEZOO",SET ᴴᴰ
-https://nxtlive.net/sliv/stream.php?id=0897686&e=.m3u8Referer=https://nxtlive.net/sliv/play.php?id=0897686
+https://nxtlive.net/sliv/stream.php?id=0897686&e=.m3u8|Referer=https://nxtlive.net/
 
 #EXTINF:-1 tvg-id="3088" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SUN_Neo.png" group-title="ONEZOO",Sun Neo ᴴᴰ
 https://playyonogames.in/live.php?id=3088&format=.m3u8|Referer=https://playyonogames.in/watch.php?id=3088
