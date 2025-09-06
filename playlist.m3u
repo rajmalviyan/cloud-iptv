@@ -9,6 +9,11 @@ https://live.dinesh29.com.np/stream/jiotvplus/faktmarathi/master.m3u8
 #EXTINF:-1 tvg-id="2424" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Marathi.png" group-title="Marathi",Sun Marathi
 https://live.dinesh29.com.np/stream/jiotvplus/sunmarathi/master.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ea90a1f3b1e4a0a9b72c8e0f4a9bf31:30899fda5ca4dfb5a4535ce10c4d7341
+#EXTINF:-1 tvg-id="" tvg-logo="https://sund-images.sunnxt.com/194387/640x360_SunMarathi_194387_441db2e2-0fa1-48ca-be59-7f5dd70f66cb.jpg" group-title="Marathi",ASTRO Sun Marathi
+https://livestream9.sunnxt.com/2699d3c42a1944d9bb8e919433a349c2/SunMarathiB_AU_index.mpd
+
 #EXTINF:-1 tvg-id="1452" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_MarathiBana.png" group-title="Marathi",Shemaroo MarathiBana
 https://live.dinesh29.com.np/stream/jiotvplus/shemaroomarathibana/master.m3u8
 
@@ -79,8 +84,20 @@ https://la.drmlive.net/tp/zee-tvhd_0.m3u8
 #EXTINF:-1 tvg-id="3088" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SUN_Neo.png" group-title="Entertainment",Sun Neo ᴴᴰ
 https://live.dinesh29.com.np/stream/jiotv/sunneohd/master.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09ffaaff477d490abb4516b7e0711d35:759cc157a993e8a76ff4d675e34b5400
+#EXTINF:-1 tvg-id="194389" tvg-logo="https://sund-images.sunnxt.com/194389/640x360_SunNeoHD_194389_5edd34c1-4574-452e-a613-2f4140cd636f.jpg" group-title="Entertainment",ASTROTV Sun Neo HD
+https://livestream8.sunnxt.com/41b03d5d969e40fe9c8a221c67af6ab8/SunNeoHDB_AU_index.mpd
+
 #EXTINF:-1 tvg-id="ts52" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment", Colors ᴴᴰ
 https://live.dinesh29.com.np/stream/jiotvplus/colorshd/master.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5
+#EXTINF:-1 tvg-id="ts52" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",ASTRO Colors ᴴᴰ
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
 #EXTINF:-1 tvg-id="ts543" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_SD.png" group-title="Entertainment", Colors
 https://live.dinesh29.com.np/stream/jiotvplus/colorssd/master.m3u8
@@ -207,6 +224,13 @@ https://la.drmlive.net/tp/zee-zeecinema.m3u8
 #EXTINF:-1 tvg-id="ts503" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies",Zee Cinema ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://la.drmlive.net/tp/zee-zeecinemahd.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
+#EXTINF:-1 tvg-id="ts503" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Movies",ASTRO Zee Cinema ᴴᴰ
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
 
 #EXTINF:-1 tvg-id="ts164" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold.png" group-title="Movies",Star Gold
 https://live.dinesh29.com.np/stream/jiotvplus/stargold/master.m3u8
@@ -536,7 +560,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/abpsanjha/master.m3u8
 #EXTINF:-1 tvg-id="abpananda" tvg-logo="https://live.dinesh29.com.np/logos/jiotv/abpananda.png" group-title="News",ABP Ananda
 https://live.dinesh29.com.np/stream/jiotv/abpananda/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/NDTV_Profit.png"  group-title="News", NDTV Profit Prime
+#EXTINF:-1 tvg-id="ts93" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/NDTV_Profit.png"  group-title="News", NDTV Profit Prime
 https://dai.google.com/linear/hls/event/QuU6z3GSTDaXuLL9Hs5A5Q/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/NDTV_India.png"  group-title="News", NDTV INDIA
@@ -653,6 +677,9 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/CNBC_Tv_18.png" group-title="News", CNBC TV18
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
 
+#EXTINF:-1 tvg-id="ts304" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="News",CNBC TV18 Prime
+https://live.dinesh29.com.np/stream/jiotvplus/cnbctv18prime/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/CNBC_Awaaz.png" group-title="News", CNBC Awaaz
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8
 
@@ -718,27 +745,6 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/61
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/Wion.png" group-title="News",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-
-===========================================================BUSINESS NEWS=================================================================================================
-
-#EXTINF:-1 tvg-id="ts304" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="Business News",CNBC TV18 Prime
-https://live.dinesh29.com.np/stream/jiotvplus/cnbctv18prime/master.m3u8
-
-#EXTINF:-1 tvg-id="ts204" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBC_Awaaz.png" group-title="Business News",CNBC Awaaz
-https://live.dinesh29.com.np/stream/jiotvplus/cnbcawaaz/master.m3u8
-
-#EXTINF:-1 tvg-id="ts88" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ET_Now.png" group-title="Business News",ET Now
-https://live.dinesh29.com.np/stream/jiotvplus/etnow/master.m3u8
-
-#EXTINF:-1 tvg-id="ts93" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Profit.png" group-title="Business News",NDTV Profit
-https://live.dinesh29.com.np/stream/jiotvplus/ndtvprofit/master.m3u8
-
-#EXTINF:-1 tvg-id="ts168" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="Business News",CNBC TV18
-https://live.dinesh29.com.np/stream/jiotvplus/cnbctv18/master.m3u8
-
-#EXTINF:-1 tvg-id="ts950" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ET_Now_Swadesh.png" group-title="Business News",ET Now Swadesh
-https://live.dinesh29.com.np/stream/jiotvplus/etnowswadesh/master.m3u8
-
 ===========================================================DOORDARSHAN=================================================================================================
 
 #EXTINF:-1 tvg-id="ts336" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_Sahayadri.png" group-title="Doordarshan",DD Sahyadri
@@ -879,7 +885,16 @@ http://ainfo.icu:80/play/live.php?mac=00:1A:79:78:F0:E6&stream=281330&extension=
 
 #EXTINF:-1 tvg-id="ts126" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="Knowledge", EPIC
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/epic/master.m3u8
+
+#EXTINF:-1 tvg-id="ts126" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="Knowledge", EPICON
 https://epiconvh.akamaized.net/live/epic/master.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22fc5baf47ae3b6322bc244206bbb210:db1ee2b8994b91aac65049ef3e493787
+#EXTINF:-1 tvg-logo="https://www.crimeandinvestigation.co.uk/themes/custom/crimeandinvestigation/images/ciuk-logo-white.png" group-title="Knowledge",ASTRO Crime + Investigation
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
 
 ===========================================================LIFESTYLE=================================================================================================
 
@@ -1505,36 +1520,14 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebiharjharkhand/default/manifest.
 
 =======================================================================ASTROTV=======================================================================================
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5ea90a1f3b1e4a0a9b72c8e0f4a9bf31:30899fda5ca4dfb5a4535ce10c4d7341
-#EXTINF:-1 tvg-id="" tvg-logo="https://sund-images.sunnxt.com/194387/640x360_SunMarathi_194387_441db2e2-0fa1-48ca-be59-7f5dd70f66cb.jpg" group-title="ASTROTV",Sun Marathi
-https://livestream9.sunnxt.com/2699d3c42a1944d9bb8e919433a349c2/SunMarathiB_AU_index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09ffaaff477d490abb4516b7e0711d35:759cc157a993e8a76ff4d675e34b5400
-#EXTINF:-1 tvg-id="194389" tvg-logo="https://sund-images.sunnxt.com/194389/640x360_SunNeoHD_194389_5edd34c1-4574-452e-a613-2f4140cd636f.jpg" group-title="ASTROTV",Sun Neo HD
-https://livestream8.sunnxt.com/41b03d5d969e40fe9c8a221c67af6ab8/SunNeoHDB_AU_index.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5
-#EXTINF:-1 tvg-id="ts52" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="ASTROTV",Colors ᴴᴰ
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
-#EXTINF:-1 tvg-id="ts503" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="ASTROTV",Zee Cinema ᴴᴰ
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=22fc5baf47ae3b6322bc244206bbb210:db1ee2b8994b91aac65049ef3e493787
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="ASTROTV",CRIME + INVESTIGATION
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2111/default_ott.mpd
+
+
+
+
 
 =========================================================================SUNNXT=====================================================================================
 
@@ -1727,6 +1720,7 @@ https://livestreampublictv.sunnxt.com/publictv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-language="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png" group-title="SunNxt", 24 News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/24_nim_https/110322/channel24/playlist.m3u8
+
 
 
 
