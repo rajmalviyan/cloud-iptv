@@ -677,9 +677,6 @@ https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg012
 #EXTINF:-1 tvg-id="ts155" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="News",ABP Majha
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-majha/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2022/05/ChatGPT-Image-Apr-22-2025-01_00_57-PM.png" group-title="News",YUPP ABP Majha
-https://keralive.com/yupp/tv.php?c=abp-majha&e=.m3u8|Referer=https://keralive.com/yupp/play.php?watch=abp-majha
-
 #EXTINF:-1 tvg-id="ts155" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="News",Yupp ABP Majha
 https://abplive.vgcdn.net/ptnr-yupptv/title-Majha/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/32dc7692-5fff-4161-83d0-b36132df372e/master.m3u8
 
@@ -1920,6 +1917,7 @@ https://livestreampublictv.sunnxt.com/publictv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-language="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png" group-title="SunNxt", 24 News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/24_nim_https/110322/channel24/playlist.m3u8
+
 
 
 
