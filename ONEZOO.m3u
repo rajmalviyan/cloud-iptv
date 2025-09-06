@@ -88,10 +88,8 @@ https://ssailive.vgcdn.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7
 https://ssailive.vgcdn.net/ptnr-web/title-BBO_Classic/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3e4dbf75-f525-4a9c-9e96-ef3765f4de32/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-14-2025-04_49_53-PM.png" group-title="ONEZOO",B4U Movies
-https://app.hughag.store/api/33d888b898/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-14-2025-04_49_53-PM.png" group-title="ONEZOO",B4U Movies
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+https://app.hughag.store/api/33d888b898/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2020/02/ChatGPT-Image-May-21-2025-09_33_54-AM.png" group-title="ONEZOO",B4U Kadak
 https://cdn-2.pishow.tv/live/227/master.m3u8
@@ -105,26 +103,17 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2023/09/ChatGPT-Image-Apr-14-2025-03_39_47-PM.png" group-title="ONEZOO",Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2023/09/ChatGPT-Image-Apr-14-2025-03_41_56-PM" group-title="ONEZOO",Goldmines 2
+#EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2023/09/ChatGPT-Image-Apr-14-2025-03_41_56-PM.png" group-title="ONEZOO",Goldmines 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2024/07/ChatGPT-Image-Apr-14-2025-05_05_47-PM.png" group-title="ONEZOO",RDC Movies
 #https://janya-rdcmovies.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/230a723f-867d-4fa3-b2d2-a622ba994cd2/main.m3u8
-
-#EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2024/07/ChatGPT-Image-Apr-14-2025-05_05_47-PM.png" group-title="ONEZOO",RDC Movies
-https://runn-rdcmovies.cdn.runn.tv/title-RDC_Movies_New/v1/vglive-sk-288583/main.m3u8
-
-#EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2023/12/ChatGPT-Image-Apr-14-2025-03_38_13-PM.png" group-title="ONEZOO",Bollywood 4U
-https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2024/03/ChatGPT-Image-Apr-14-2025-03_19_13-PM.png" group-title="ONEZOO",Bollywood Masala
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2023/12/ChatGPT-Image-Apr-14-2025-03_33_06-PM.png" group-title="ONEZOO",Desi Play TV
 https://desiplaylive.akamaized.net/ptnr-yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-660691/4cf68f50-0c5e-47a6-96e3-b78797a2b6fe/1.m3u8
-
-#EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2023/12/ChatGPT-Image-Apr-14-2025-03_33_06-PM.png" group-title="ONEZOO",Desi Play TV
-https://keralive.com/yupp/tv.php?c=desi-play-tv&e=.m3u8Referer=https://keralive.com/yupp/play.php?watch=desi-play-tv
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2024/02/ChatGPT-Image-Apr-14-2025-03_17_38-PM.png" group-title="ONEZOO",Green Chillies TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/green-chillies-tv/playlist.m3u8
@@ -137,13 +126,6 @@ https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-10_21_24-AM.png" group-title="ONEZOO",Pocket Films
 https://pktflm.cdn.runn.tv/runntv/stream/p_pktflm/playlist.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eefc4c6db6d961885314bb5c58fd226b:da646d01cc7a852b093854299dbc7b87
-#EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2025/07/ChatGPT-Image-Jul-19-2025-05_30_03-PM.png" group-title="ONEZOO",Filmax
-https://live2.shoq.com.pk/live/eds/FILMAX/DASH/FILMAX.mpd
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-10_21_24-AM.png" group-title="ONEZOO",Pocket Films
 https://liveplay-g.instreamo.jio.com/hls/view-playlist/v2/afd09ad5-b428-4423-8751-1c408c3a2e17/runntv/stream/p_pktflm/playlist.m3u8?api-key=8947ccdd-cef1-400a-9714-aa4837a6ce8c
@@ -187,38 +169,43 @@ https://streams2.sofast.tv/ptnr-yupptv/title-Comedy_Tadka_YUPPTV/v1/master/611d7
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-1-2025-08_57_00-AM.png" group-title="ONEZOO",Chana Jar
 https://yupptv-chanajor.akamaized.net/ptnr-yupptv/title-Chanajor/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b5663d20-93c0-4ea1-9a86-d114a67f75db/main.m3u8
 
-#EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2021/05/ChatGPT-Image-Apr-22-2025-12_42_49-PM.png" group-title="ONEZOO",Maiboli
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/maiboli/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eefc4c6db6d961885314bb5c58fd226b:da646d01cc7a852b093854299dbc7b87
+#EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2025/07/ChatGPT-Image-Jul-19-2025-05_30_03-PM.png" group-title="ONEZOO",Filmax
+https://live2.shoq.com.pk/live/eds/FILMAX/DASH/FILMAX.mpd
+
+#EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2024/07/ChatGPT-Image-Apr-14-2025-05_05_47-PM.png" group-title="ONEZOO",RDC Movies
+https://runn-rdcmovies.cdn.runn.tv/title-RDC_Movies_New/v1/vglive-sk-288583/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2023/12/ChatGPT-Image-Apr-14-2025-03_38_13-PM.png" group-title="ONEZOO",Bollywood 4U
+https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/manifest.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2021/05/ChatGPT-Image-Apr-22-2025-12_42_49-PM.png" group-title="ONEZOO",Maiboli
-https://keralive.com/yupp/tv.php?c=maiboli&e=.m3u8|Refere=https://keralive.com/yupp/play.php?watch=maiboli
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/maiboli/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2021/04/ChatGPT-Image-Apr-22-2025-12_52_36-PM.png" group-title="ONEZOO",9x Jhakaas
 https://cdn-3.pishow.tv/live/6/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2021/03/ChatGPT-Image-Apr-14-2025-04_37_23-PM.png" group-title="ONEZOO",9XM Music
-https://wiselp.wiseplayout.com/9XM/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2021/03/ChatGPT-Image-Apr-14-2025-04_37_23-PM.png" group-title="ONEZOO",9XM Music
+#https://wiselp.wiseplayout.com/9XM/master.m3u8
 https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2021/03/ChatGPT-Image-Apr-14-2025-04_37_23-PM.png" group-title="ONEZOO",9XM USA
 https://keralive.com/yupp-usa/tv.php?c=9xm&e=.m3u8|Referer=https://keralive.com/yupp-usa/play.php?watch=9xm
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2021/03/ChatGPT-Image-Apr-14-2025-04_38_50-PM.png" group-title="ONEZOO",9X Jalwa
-https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2021/03/ChatGPT-Image-Apr-14-2025-04_38_50-PM.png" group-title="ONEZOO",9X Jalwa
+#https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 https://d14c63magvk61v.cloudfront.net/strm/channels/9xjalwa/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2021/03/ChatGPT-Image-Apr-14-2025-04_38_50-PM.png" group-title="ONEZOO",9X Jalwa USA
 https://keralive.com/yupp-usa/tv.php?c=9x-jalwa&e=.m3u8|Referer=https://keralive.com/yupp-usa/play.php?watch=9x-jalwa
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-14-2025-04_50_15-PM.png" group-title="ONEZOO",B4U Music
-https://app.hughag.store/api/60fb3f6a8b/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-14-2025-04_50_15-PM.png" group-title="ONEZOO",B4U Music
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+https://app.hughag.store/api/60fb3f6a8b/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-14-2025-04_04_19-PM.png" group-title="ONEZOO",Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
@@ -227,10 +214,10 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV.png" group-title="ONEZOO",MTV
-https://playyonogames.in/live.php?id=248&format=.m3u8|Referer=https://playyonogames.in/live.php?id=248&format=.m3u8
+https://playyonogames.in/live.php?id=248&format=.m3u8|Referer=https://playyonogames.in
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2024/05/ChatGPT-Image-Jul-12-2025-10_29_35-AM.png" group-title="ONEZOO",MTV ᴴᴰ
-https://playyonogames.in/live.php?id=1145&format=.m3u8|Referer=https://playyonogames.in/watch.php?id=1145
+https://playyonogames.in/live.php?id=1145&format=.m3u8|Referer=https://playyonogames.in
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2023/07/ChatGPT-Image-Apr-14-2025-03_11_02-PM.png" group-title="ONEZOO",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
