@@ -3,8 +3,23 @@
 #EXTINF:-1 tvg-id="ts155" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="ONEZOO",ABP Majha
 https://keralive.com/yupp/tv.php?c=abp-majha&e=.m3u8|Referer=https://keralive.com/yupp/play.php?watch=abp-majha
 
+#EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2021/04/ChatGPT-Image-Apr-22-2025-12_53_57-PM.png" group-title="ONEZOO",Saam TV
+https://keralive.com/yupp/tv.php?c=saam-tv&e=.m3u8|Referer=https://keralive.com/yupp/play.php?watch=saam-tv
+
+#EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2021/04/ChatGPT-Image-Apr-22-2025-12_55_07-PM.png" group-title="ONEZOO",Sahyadri
+https://cdn-3.pishow.tv/live/30/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2021/04/ChatGPT-Image-Apr-22-2025-12_56_29-PM.png" group-title="ONEZOO",TV9 Marathi
+https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-780326/main.m3u8
+
 #EXTINF:-1 tvg-id="738" tvg-logo="https://i.imgur.com/y0VS4QN.png" group-title="ONEZOO",Fakt Marathi
 https://cdn-6.pishow.tv/live/10002/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2021/04/ChatGPT-Image-Apr-22-2025-12_49_18-PM.png" group-title="ONEZOO",Shemaroo Marathi
+https://otttv.co.in/shemaroo/player.php?watch=shemaroo-marathibana|Refere=https://onezoo.net/
+
+#EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2021/04/ChatGPT-Image-Apr-22-2025-12_49_18-PM.png" group-title="ONEZOO",Shemaroo Marathi
+https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="291" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="ONEZOO",SET ᴴᴰ
 https://nxtlive.net/sliv/stream.php?id=0897686&e=.m3u8|Referer=https://nxtlive.net/sliv/play.php?id=
@@ -75,6 +90,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="ts1509" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maiboli.png" group-title="ONEZOO",Maiboli
 https://keralive.com/yupp/tv.php?c=maiboli&e=.m3u8|Refere=https://keralive.com/yupp/play.php?watch=maiboli
 
+#EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2021/04/ChatGPT-Image-Apr-22-2025-12_52_36-PM.png" group-title="ONEZOO",9x Jhakaas
+https://cdn-3.pishow.tv/live/6/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2021/03/ChatGPT-Image-Apr-14-2025-04_37_23-PM-200x300.png" group-title="ONEZOO",9XM Music
 https://wiselp.wiseplayout.com/9XM/master.m3u8
 
@@ -95,7 +113,7 @@ https://keralive.com/yupp-usa/tv.php?c=9x-jalwa&e=.m3u8|Referer=https://keralive
 #https://app.hughag.store/api/60fb3f6a8b/playlist.m3u8
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 
-#EXTINF:-1 tvg-id="250" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-14-2025-04_04_19-PM-200x300.png" group-title="Music",Music India
+#EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-14-2025-04_04_19-PM.png" group-title="ONEZOO",Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
 
 #EXTINF:-1 tvg-id="ts224" tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-14-2025-04_04_32-PM-200x300.png" group-title="ONEZOO",E24
@@ -213,7 +231,7 @@ https://yupptv-chanajor.akamaized.net/ptnr-yupptv/title-Chanajor/v1/master/611d7
 
 ========================================================================Samsung======================================================================================
 
-#EXTINF:-1 tvg-id="ts40" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",& TV ᴴᴰ
+#EXTINF:-1 tvg-id="ts40" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="SamsungTV",& TV ᴴᴰ
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts503" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="SamsungTV",Zee Cinema ᴴᴰ
@@ -228,7 +246,7 @@ https://amg17931-zee-amg17931c8-samsung-ph-6525.playouts.now.amagi.tv/playlist.m
 #https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 https://amg00877-b4unew-amg00877c2-lg-in-5260.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4umovies-lgin/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ts730" tvg-logo="https://i.imgur.com/CKLn0ft.png" group-title="Movies",B4U Kadak
+#EXTINF:-1 tvg-id="ts730" tvg-logo="https://i.imgur.com/CKLn0ft.png" group-title="SamsungTV",B4U Kadak
 #https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
 https://amg00877-b4unew-amg00877c4-lg-in-5452.playouts.now.amagi.tv/playlist/amg00877-b4unetworkeuropefast-b4ukadak-lgin/playlist.m3u8
 
@@ -250,6 +268,9 @@ https://amg02537-skandhamediaser-koreantv-samsungin-ad-1s.amagi.tv/playlist/amg0
 
 #EXTINF:-1 tvg-id="441" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-title="SamsungTV",9x Jhakaas
 https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="441" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-title="SamsungTV",9x Jhakaas
+https://amg01281-amg01281c1-amgplt0173.playout.now3.amagi.tv/playlist/amg01281-amg01281c1-amgplt0173/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts1509" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maiboli.png" group-title="SamsungTV",Maiboli
 https://amg01448-samsungin-maiboliin-samsungin-ve16v.amagi.tv/playlist/amg01448-samsungin-maiboliin-samsungin/playlist.m3u8
