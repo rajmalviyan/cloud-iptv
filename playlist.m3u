@@ -2382,38 +2382,23 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 
 ################################################################# TATA PLAY #####################################################################################
 
-#EXTINF:-1 group-title="Entertainment",Sony HD
+#EXTINF:-1 group-title="TATAPLAY",Sony HD
 http://195.181.169.162:80/SONY_HD/index.mpd?token=test
 
-#EXTINF:-1 group-title="Entertainment",Sony SAB HD
+#EXTINF:-1 group-title="TATAPLAY",Sony SAB HD
 http://195.181.169.162:80/SONY_SAB_HD/index.mpd?token=test
 
-#EXTINF:-1 group-title="Movies",Sony MAX HD
+#EXTINF:-1 group-title="TATAPLAY",Sony MAX HD
 http://195.181.169.162:80/SONY_MAX_HD/index.mpd?token=test
-
-#EXTINF:-1 group-title="TATAPLAY",Sony Sports 3 HD
-http://195.181.169.162:80/TEN_3_HD/index.mpd?token=test
-
-#EXTINF:-1 group-title="TATAPLAY",Sony Sports 1 HD
-http://195.181.169.162:80/TEN_1_HD/index.mpd?token=test
-
-#EXTINF:-1 group-title="TATAPLAY",Sony Sports 2 HD
-http://195.181.169.162:80/TEN_2_HD/index.mpd?token=test
-
-#EXTINF:-1 group-title="Movies",Sony Pix HD English
-http://195.181.169.162:80/SONY_PIX_HD/index.mpd?token=test
-
-#EXTINF:-1 group-title="Knowledge",Sony BBC Earth HD English
-http://195.181.169.162:80/BBC_EARTH_HD/index.mpd?token=test
-
-#EXTINF:-1 group-title="TATAPLAY",ZEE ZEST HD
-http://195.181.169.162:80/LIVING_FOODZ_HD/index.mpd?token=test
-
-#EXTINF:-1 group-title="TATAPLAY", ZEE CAFE HD
-http://195.181.169.162:80/ZEE_CAFE_HD/index.mpd?token=test
 
 #EXTINF:-1 group-title="TATAPLAY", ZEE TV HD
 http://195.181.169.162:80/ZEE_TV_HD/index.mpd?token=test
+
+#EXTINF:-1 group-title="TATAPLAY", &FLIX HD
+http://195.181.169.162:80/AND_FLIX_HD/index.mpd?token=test
+
+#EXTINF:-1 group-title="TATAPLAY", &PRIVE HD
+http://195.181.169.162:80/AND_PRIVE_HD/index.mpd?token=test
 
 #EXTINF:-1 group-title="TATAPLAY", &TV HD
 http://195.181.169.162:80/AND_TV_HD/index.mpd?token=test
@@ -2424,8 +2409,23 @@ http://195.181.169.162:80/AND_PICTURES_HD/index.mpd?token=test
 #EXTINF:-1 group-title="TATAPLAY", ZEE CINEMA HD
 http://195.181.169.162:80/ZEE_CINEMA_HD/index.mpd?token=test
 
-#EXTINF:-1 group-title="TATAPLAY", &FLIX HD
-http://195.181.169.162:80/AND_FLIX_HD/index.mpd?token=test
+#EXTINF:-1 group-title="TATAPLAY", ZEE CAFE HD
+http://195.181.169.162:80/ZEE_CAFE_HD/index.mpd?token=test
 
-#EXTINF:-1 group-title="TATAPLAY", &PRIVE HD
-http://195.181.169.162:80/AND_PRIVE_HD/index.mpd?token=test
+#EXTINF:-1 group-title="TATAPLAY",Sony Pix HD English
+http://195.181.169.162:80/SONY_PIX_HD/index.mpd?token=test
+
+#EXTINF:-1 group-title="TATAPLAY",Sony BBC Earth HD English
+http://195.181.169.162:80/BBC_EARTH_HD/index.mpd?token=test
+
+#EXTINF:-1 group-title="TATAPLAY",ZEE ZEST HD
+http://195.181.169.162:80/LIVING_FOODZ_HD/index.mpd?token=test
+
+#EXTINF:-1 group-title="TATAPLAY",Sony Sports 1 HD
+http://195.181.169.162:80/TEN_1_HD/index.mpd?token=test
+
+#EXTINF:-1 group-title="TATAPLAY",Sony Sports 2 HD
+http://195.181.169.162:80/TEN_2_HD/index.mpd?token=test
+
+#EXTINF:-1 group-title="TATAPLAY",Sony Sports 3 HD
+http://195.181.169.162:80/TEN_3_HD/index.mpd?token=test
