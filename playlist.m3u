@@ -1572,7 +1572,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/eurosporthd/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df20894ec30954d3b28097c138f4cfda:ff9b6292b1cddbd11a046029cb314634
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6
-https://jtvp.8088yyy.workers.dev/?id=1142|Referer=https://m3u.8088y.site/
+https://jtvp.8088yyy.workers.dev/bpk-tv/Star_Sports_1_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
 
 #EXTINF:-1 tvg-id="ts78" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 ᴴᴰ
 https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1/master.m3u8
@@ -1720,18 +1720,12 @@ https://la.drmlive.net/tp/sliv-yay.m3u8
 #EXTINF:-1 tvg-id="1920" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/The_Q_Kahaniyan.png" group-title="Kids",The Q Kahaniyan
 https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-640586/main.m3u8
 
-#EXTINF:-1 tvg-id="1920" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/The_Q_Kahaniyan.png" group-title="Kids",AIRTEL Q Kahaniyan
-https://fd5894469b144a3da0437ead9dce5b5c.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/q-kahaniyan-airtel/main.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.vecteezy.com/system/resources/previews/052/548/183/non_2x/kids-tv-logo-design-free-vector.jpg" group-title="Kids",Kids TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-india-nursery-rhymes-and-baby-songs/master.m3u8
 
 #EXTINF:-1 tvg-id="ts867" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57985-khvdchrs-v2/imageContent-57985-khvdchrs-m2.png" group-title="Kids",Gubbare
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 
-#EXTINF:-1 tvg-id="ts995" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSTAM_Thumbnail-v6/TONSTAM_Thumbnail.png" group-title="Kids",Tata Play Toons+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://tplay-vivek.vercel.app/play.m3u8?id=995
 ===========================================================RELIGIOUS=================================================================================================
 
 #EXTINF:-1 tvg-id="ts38" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aastha.png" group-title="Religious",Aastha HD
@@ -2475,6 +2469,7 @@ https://livestreampublictv.sunnxt.com/publictv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-language="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png" group-title="SunNxt", 24 News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/24_nim_https/110322/channel24/playlist.m3u8
+
 
 
 
