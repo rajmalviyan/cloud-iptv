@@ -100,44 +100,71 @@ https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3
 
 ============================================================================OTTOTV D2h==================================================================================
 
-#EXTINF:-1 group-title="OTTOTV D2H",Sony Pal
-https://otttv.co.in/d2h/livestream/sony-pal/master.m3u8|Referer=https://otttv.co.in
-#EXTINF:-1 group-title="OTTOTV D2H",Sony Marathi
-https://otttv.co.in/d2h/livestream/sony-marathi/master.m3u8|Referer=https://otttv.co.in
-#EXTINF:-1 group-title="OTTOTV D2H",Sony MAX
-https://otttv.co.in/d2h/livestream/sony-max/master.m3u8|Referer=https://otttv.co.in
-#EXTINF:-1 group-title="OTTOTV D2H",Sony MAX HD
-https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8|Referer=https://otttv.co.in
-#EXTINF:-1 group-title="OTTOTV D2H",Sony Max 2
-https://otttv.co.in/d2h/livestream/sony-max-2/master.m3u8|Referer=https://otttv.co.in
-#EXTINF:-1 group-title="OTTOTV D2H",Sony PIX HD
-https://otttv.co.in/d2h/livestream/sony-pix-hd/master.m3u8|Referer=https://otttv.co.in
-#EXTINF:-1 group-title="OTTOTV D2H",Sony BBC Earth HD
-https://otttv.co.in/d2h/livestream/sony-bbc-earth-hd/master.m3u8|Referer=https://otttv.co.in
-#EXTINF:-1 group-title="OTTOTV D2H",Sony Entertainment Television HD (SET HD)
+#EXTINF:-1 tvg-id="ts15" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SONYLIVE",SET ᴴᴰ
 https://otttv.co.in/d2h/livestream/sony-entertainment-television-hd/master.m3u8|Referer=https://otttv.co.in
-#EXTINF:-1 group-title="OTTOTV D2H",Sony SAB HD
+
+#EXTINF:-1 tvg-id="ts48" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="SONYLIVE",Sony SAB ᴴᴰ
 https://otttv.co.in/d2h/livestream/sony-sab/master.m3u8|Referer=https://otttv.co.in
-#EXTINF:-1 group-title="OTTOTV D2H",Sony Sports Ten 1
-https://otttv.co.in/d2h/livestream/sony-ten-1-hd/master.m3u8|Referer=https://otttv.co.in
-#EXTINF:-1 group-title="OTTOTV D2H",Sony Sports Ten 2
-https://otttv.co.in/d2h/livestream/sony-ten-2-hd/master.m3u8|Referer=https://otttv.co.in
-#EXTINF:-1 group-title="OTTOTV D2H",Sony Sports Ten 3
-https://otttv.co.in/d2h/livestream/sony-ten-3-hd/master.m3u8|Referer=https://otttv.co.in
-#EXTINF:-1 group-title="OTTOTV D2H",Sony Sports Ten 5
-https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8|Referer=https://otttv.co.in
-#EXTINF:-1 group-title="OTTOTV D2H",Sony Sports Ten 1 HD
-https://otttv.co.in/d2h/livestream/sony-sports-ten-1-hd/master.m3u8|Referer=https://otttv.co.in
-#EXTINF:-1 group-title="OTTOTV D2H",Sony Sports Ten 2 HD
-https://otttv.co.in/d2h/livestream/sony-sports-ten-2-hd/master.m3u8|Referer=https://otttv.co.in
-#EXTINF:-1 group-title="OTTOTV D2H",Sony Sports Ten 3 HD
-https://otttv.co.in/d2h/livestream/sony-sports-ten-3-hd/master.m3u8|Referer=https://otttv.co.in
-#EXTINF:-1 group-title="OTTOTV D2H",Sony Wah
+
+#EXTINF:-1 tvg-id="ts658" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="SONYLIVE",Sony Marathi
+https://otttv.co.in/d2h/livestream/sony-marathi/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="ts554" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="SONYLIVE",Sony Pal
+https://otttv.co.in/d2h/livestream/sony-pal/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="ts80" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="SONYLIVE",Sony Max ᴴᴰ
+https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="ts132" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="SONYLIVE", Sony Max
+https://otttv.co.in/d2h/livestream/sony-max/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="ts120" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="SONYLIVE", Sony Max 2
+https://otttv.co.in/d2h/livestream/sony-max-2/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="ts56" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="SONYLIVE", Sony Wah
 https://otttv.co.in/d2h/livestream/sony-wah/master.m3u8|Referer=https://otttv.co.in
-#EXTINF:-1 group-title="OTTOTV D2H",Sony Yay
+	
+#EXTINF:-1 tvg-id="ts32" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="SONYLIVE",Sony PIX ᴴᴰ
+https://otttv.co.in/d2h/livestream/sony-pix-hd/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="ts460" tvg-logo="https://www.sonybbcearth.com/images/logo.png" group-title="SONYLIVE", Sony BBC Earth ᴴᴰ
+https://otttv.co.in/d2h/livestream/sony-bbc-earth-hd/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="ts45" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="SONYLIVE",Sony Yay
 https://otttv.co.in/d2h/livestream/sony-yay/master.m3u8|Referer=https://otttv.co.in
-#EXTINF:-1 group-title="OTTOTV D2H",The Q
+
+#EXTINF:-1 tvg-id="1066" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TheQIndia.png" group-title="Entertainment",The Q
 https://otttv.co.in/d2h/livestream/the-q/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="514" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" group-title="OTTOTV D2H", Sony TEN 1
+https://otttv.co.in/d2h/livestream/sony-ten-1-hd/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="ts81" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="OTTOTV D2H", Sony TEN 1 ᴴᴰ
+https://otttv.co.in/d2h/livestream/sony-sports-ten-1-hd/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="523" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" group-title="OTTOTV D2H", Sony TEN 2
+https://otttv.co.in/d2h/livestream/sony-ten-2-hd/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="ts462" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="OTTOTV D2H", Sony TEN 2 ᴴᴰ
+https://otttv.co.in/d2h/livestream/sony-sports-ten-2-hd/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="524" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_3.png" group-title="OTTOTV D2H", Sony TEN 3
+https://otttv.co.in/d2h/livestream/sony-ten-3-hd/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="ts464" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="OTTOTV D2H", Sony TEN 3 ᴴᴰ Hindi
+https://otttv.co.in/d2h/livestream/sony-sports-ten-3-hd/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="1774" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_Tamil.png" group-title="OTTOTV D2H", SONY TEN 4
+https://otttv.co.in/d2h/livestream/sony-ten-4-hd/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="1772" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png" group-title="OTTOTV D2H", SONY TEN 4 ᴴᴰ Hindi
+https://otttv.co.in/d2h/livestream/sony-sports-ten-4-hd/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="525" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="OTTOTV D2H",Sony TEN 5
+https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="ts35" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="OTTOTV D2H",Sony TEN 5 ᴴᴰ
+https://otttv.co.in/d2h/livestream/sony-sports-ten-5-hd/master.m3u8|Referer=https://otttv.co.in
 
 =============================================================================ZEE5======================================================================================
 
@@ -246,45 +273,4 @@ https://z5.8088yyy.workers.dev/0-9-zeecafehd.m3u8|Referer=https://m3u.8088y.site
 https://z5.8088yyy.workers.dev/0-9-348.m3u8|Referer=https://m3u.8088y.site/
 
 ####################################################################    TEST   #############################################################################
-
-
-
-#EXTINF:-1 group-title="TEST",Zee Action
-https://otttv.co.in/d2h/livestream/zee-action/manifest.mpd
-#EXTINF:-1 group-title="TEST",Zee Anmol
-https://otttv.co.in/d2h/livestream/zee-anmol/manifest.mpd
-#EXTINF:-1 ,Zee Bangla
-https://otttv.co.in/d2h/livestream/zee-bangla/manifest.mpd
-#EXTINF:-1 ,Zee Bangla Cinema
-https://otttv.co.in/d2h/livestream/zee-bangla-cinema/manifest.mpd
-#EXTINF:-1 ,Zee Bharat
-https://otttv.co.in/d2h/livestream/zee-hindustan/manifest.mpd
-#EXTINF:-1 ,Zee Bihar Jharkhand
-https://otttv.co.in/d2h/livestream/zee-bihar-jharkhand/manifest.mpd
-#EXTINF:-1 group-title="TEST",Zee Bollywood
-https://otttv.co.in/d2h/livestream/zee-bollywood/manifest.mpd
-#EXTINF:-1 ,Zee Business
-https://otttv.co.in/d2h/livestream/zee-business/manifest.mpd
-#EXTINF:-1 group-title="TEST",Zee Cinema
-https://otttv.co.in/d2h/livestream/zee-cinema/manifest.mpd
-#EXTINF:-1 ,Zee Cinemalu
-https://otttv.co.in/d2h/livestream/zee-cinemalu/manifest.mpd
-#EXTINF:-1 ,Zee Kannada
-https://otttv.co.in/d2h/livestream/zee-kannada/manifest.mpd
-#EXTINF:-1 ,Zee News
-https://otttv.co.in/d2h/livestream/zee-news/manifest.mpd
-#EXTINF:-1 ,Zee Sarthak
-https://otttv.co.in/d2h/livestream/zee-sarthak/manifest.mpd
-#EXTINF:-1 ,Zee Talkies
-https://otttv.co.in/d2h/livestream/zee-talkies/manifest.mpd
-#EXTINF:-1 ,Zee Telugu
-https://otttv.co.in/d2h/livestream/zee-telugu/manifest.mpd
-#EXTINF:-1 ,Zee TV
-https://otttv.co.in/d2h/livestream/zee-tv/manifest.mpd
-#EXTINF:-1 ,Zing
-https://otttv.co.in/d2h/livestream/zing/manifest.mpd
-
-#EXTINF:-1 group-title="TEST",Test6
-https://otttv.co.in/d2h/livestream/sony-max/master.m3u8|Referer=https://otttv.co.in
-
 
