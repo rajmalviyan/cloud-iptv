@@ -1869,6 +1869,40 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 #EXTINF:-1 tvg-id="korean-drama-active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" group-title="JTV+", Korean Drama Active
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 
+
+#EXTINF:-1 tvg-id="ts15" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="JTV+",SET ᴴᴰ
+https://otttv.co.in/d2h/livestream/sony-entertainment-television-hd/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="ts48" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="JTV+",Sony SAB ᴴᴰ
+https://otttv.co.in/d2h/livestream/sony-sab/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="ts658" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="JTV+",Sony Marathi
+https://otttv.co.in/d2h/livestream/sony-marathi/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="ts554" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="JTV+",Sony Pal
+https://otttv.co.in/d2h/livestream/sony-pal/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="ts80" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="JTV+",Sony Max ᴴᴰ
+https://otttv.co.in/d2h/livestream/sony-max-hd/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="ts132" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="JTV+", Sony Max
+https://otttv.co.in/d2h/livestream/sony-max/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="ts120" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="JTV+", Sony Max 2
+https://otttv.co.in/d2h/livestream/sony-max-2/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="ts56" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="JTV+", Sony Wah
+https://otttv.co.in/d2h/livestream/sony-wah/master.m3u8|Referer=https://otttv.co.in
+	
+#EXTINF:-1 tvg-id="ts32" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="JTV+",Sony PIX ᴴᴰ
+https://otttv.co.in/d2h/livestream/sony-pix-hd/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="ts460" tvg-logo="https://www.sonybbcearth.com/images/logo.png" group-title="JTV+", Sony BBC Earth ᴴᴰ
+https://otttv.co.in/d2h/livestream/sony-bbc-earth-hd/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="1066" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TheQIndia.png" group-title="JTV+",The Q
+https://otttv.co.in/d2h/livestream/the-q/master.m3u8|Referer=https://otttv.co.in
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=86edec9e3b7d4042a4d4a1ca14f847ee:9def4315f0004019a3705bcb3cf30ca3
 #EXTINF:-1 tvg-id="zoom2" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/jLvKrs62.png" group-title="JTV+", Zoom
@@ -1883,6 +1917,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=601f58d4b7094d2baf78c85d1d9cb6c9:609e0cc03198455fa36fd2cc3e7f940d
 #EXTINF:-1 tvg-id="discovery-kids" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/RzedYhFG.png" group-title="JTV+", Discovery Kids
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="ts45" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="JTV+",Sony Yay
+https://otttv.co.in/d2h/livestream/sony-yay/master.m3u8|Referer=https://otttv.co.in
 
 #EXTINF:-1 tvg-id="ts287" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="JTV+", Animal Planet ᴴᴰ
 https://jio.drmlive.net/jio/bpk-tv/Animal_Planet_HD_MOB/Fallback/index.m3u8
@@ -1967,6 +2004,27 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeesarthak/default/devil.mpd
 #KODIPROP:inputstream.adaptive.license_key=e1ec6098b5014ac7aae0b37f72d5e85e:c04950f25d8e4107a96e828e7911e53b
 #EXTINF:-1 tvg-id="zee-bihar-jharkhand" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5zkMvEbF.png" group-title="JTV+", Zee Bihar Jharkhand
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebiharjharkhand/default/manifest.mpd
+
+#EXTINF:-1 tvg-id="514" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" group-title="JTV+", Sony TEN 1
+https://otttv.co.in/d2h/livestream/sony-ten-1-hd/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="ts81" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="JTV+", Sony TEN 1 ᴴᴰ
+https://otttv.co.in/d2h/livestream/sony-sports-ten-1-hd/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="523" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" group-title="JTV+", Sony TEN 2
+https://otttv.co.in/d2h/livestream/sony-ten-2-hd/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="ts462" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="JTV+", Sony TEN 2 ᴴᴰ
+https://otttv.co.in/d2h/livestream/sony-sports-ten-2-hd/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="524" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_3.png" group-title="JTV+", Sony TEN 3
+https://otttv.co.in/d2h/livestream/sony-ten-3-hd/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="ts464" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="JTV+", Sony TEN 3 ᴴᴰ Hindi
+https://otttv.co.in/d2h/livestream/sony-sports-ten-3-hd/master.m3u8|Referer=https://otttv.co.in
+
+#EXTINF:-1 tvg-id="525" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="JTV+",Sony TEN 5
+https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8|Referer=https://otttv.co.in
 
 =============================================================================COLORS NETWORK======================================================================================
 
@@ -2406,6 +2464,7 @@ https://livestreampublictv.sunnxt.com/publictv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-language="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png" group-title="SunNxt", 24 News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/24_nim_https/110322/channel24/playlist.m3u8
+
 
 
 
