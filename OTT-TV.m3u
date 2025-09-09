@@ -1,5 +1,71 @@
 #EXTMU
+#EXTM3U url-tvg="https://avkb.short.gy/epg.xml.gz"
 #EXTM3U url-tvg="https://raw.githubusercontent.com/djdoolky76/UDPTV/refs/heads/main/epgs/udptv-epg.xml"
+
+################################################################# TATA PLAY #####################################################################################
+
+#EXTINF:-1 group-title="TATAPLAY",SET HD
+http://195.181.169.162:80/SONY_HD/index.mpd?token=test
+
+#EXTINF:-1 group-title="TATAPLAY",Sony SAB HD
+http://195.181.169.162:80/SONY_SAB_HD/index.mpd?token=test
+
+#EXTINF:-1 group-title="TATAPLAY",Sony MAX HD
+http://195.181.169.162:80/SONY_MAX_HD/index.mpd?token=test
+
+#EXTINF:-1 group-title="TATAPLAY",COLORS HD
+http://195.181.169.162/COLORS_HD/index.m3u8?token=test
+
+#EXTINF:-1 group-title="TATAPLAY", ZEE TV HD
+http://195.181.169.162:80/ZEE_TV_HD/index.mpd?token=test
+
+#EXTINF:-1 group-title="TATAPLAY", &FLIX HD
+http://195.181.169.162:80/AND_FLIX_HD/index.mpd?token=test
+
+#EXTINF:-1 group-title="TATAPLAY", &PRIVE HD
+http://195.181.169.162:80/AND_PRIVE_HD/index.mpd?token=test
+
+#EXTINF:-1 group-title="TATAPLAY", &TV HD
+http://195.181.169.162:80/AND_TV_HD/index.mpd?token=test
+
+#EXTINF:-1 group-title="TATAPLAY", &PICTURES HD
+http://195.181.169.162:80/AND_PICTURES_HD/index.mpd?token=test
+
+#EXTINF:-1 group-title="TATAPLAY", ZEE CINEMA HD
+http://195.181.169.162:80/ZEE_CINEMA_HD/index.mpd?token=test
+
+#EXTINF:-1 group-title="TATAPLAY", ZEE CAFE HD
+http://195.181.169.162:80/ZEE_CAFE_HD/index.mpd?token=test
+
+#EXTINF:-1 group-title="TATAPLAY",SONY PIX HD
+http://195.181.169.162:80/SONY_PIX_HD/index.mpd?token=test
+
+#EXTINF:-1 group-title="TATAPLAY",ANIMAL PLANET HD
+http://89.187.179.14/ANMLPLANET/HD/HIN/index.mpd?token=test
+
+#EXTINF:-1 group-title="TATAPLAY",NATIONAL GEOGRAPHIC HD
+http://89.187.179.14/Nat_Geo_Hin/index.mpd?token=test
+
+#EXTINF:-1 group-title="TATAPLAY",NAT GEO WILD HD
+http://89.187.179.14/NATGEOWILD/INDI/HIN/index.mpd?token=test
+
+#EXTINF:-1 group-title="TATAPLAY",SONY BBC EARTH HD
+http://89.187.179.14:80/SONYEARTH/HD/HIN/index.m3u8?token=test
+
+#EXTINF:-1 group-title="TATAPLAY",Sony BBC Earth HD
+http://195.181.169.162:80/BBC_EARTH_HD/index.mpd?token=test
+
+#EXTINF:-1 group-title="TATAPLAY",ZEE ZEST HD
+http://195.181.169.162:80/LIVING_FOODZ_HD/index.mpd?token=test
+
+#EXTINF:-1 group-title="TATAPLAY",SONY SPORTS TEN 1 HD
+http://195.181.169.162:80/TEN_1_HD/index.mpd?token=test
+
+#EXTINF:-1 group-title="TATAPLAY",SONY SPORTS TEN 2 HD
+http://195.181.169.162:80/TEN_2_HD/index.mpd?token=test
+
+#EXTINF:-1 group-title="TATAPLAY",SONY SPORTS TEN 3 Hindi HD
+http://195.181.169.162:80/TEN_3_HD/index.mpd?token=test
 
 =========================================================================SUNNXT=====================================================================================
 
