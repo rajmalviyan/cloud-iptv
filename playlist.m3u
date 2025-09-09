@@ -1705,8 +1705,11 @@ https://d2netiedy8cz3x.cloudfront.net/out/v1/9bf6fa4ac8d6432cb98da13b121ba3c2/in
 
 =============================================================================JTV+=====================================================================================
 
-#EXTINF:-1 tvg-id="ts1218" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_National.png" group-title="JTV+",DD National
-https://jio.drmlive.net/jio/bpk-tv/DD_National_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="202" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_National.png" group-title="JTV+",DD National
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b1521eed3df5f339451bce846950abd:b32833fe11a251724bc6c0b84cc02449
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
+https://jtvp.8088yyy.workers.dev/bpk-tv/DD_National_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2a8d6c938ea647248f7a10eedc39f097:7d81feb84ed84bd88fdc5ca9de3c16da
@@ -1783,7 +1786,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
 #EXTINF:-1 tvg-id="korean-drama-active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" group-title="JTV+", Korean Drama Active
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 
-
 #EXTINF:-1 tvg-id="ts15" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="JTV+",SET ᴴᴰ
 https://otttv.co.in/d2h/livestream/sony-entertainment-television-hd/master.m3u8|Referer=https://otttv.co.in
 
@@ -1835,30 +1837,69 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
 #EXTINF:-1 tvg-id="ts45" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="JTV+",Sony Yay
 https://otttv.co.in/d2h/livestream/sony-yay/master.m3u8|Referer=https://otttv.co.in
 
-#EXTINF:-1 tvg-id="ts287" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="JTV+", Animal Planet ᴴᴰ
-https://jio.drmlive.net/jio/bpk-tv/Animal_Planet_HD_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="242" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery.png" group-title="JTV+",Discovery
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a77c9893335a5c7da2b32343d0dfff50:26d646a63b8b006dd1317ce69e2132e6
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
+https://jtvp.8088yyy.workers.dev/bpk-tv/Discovery_Channel_Hindi_MOB/WDVLive/index.mpd|Referer=https://m3u.8088y.site/
 
+#EXTINF:-1 tvg-id="463" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="JTV+",Discovery HD World
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce16454b1fc85beab2f807af176046bb:ff67cca83c770daa6dc9c295cc76564f
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
+https://jtvp.8088yyy.workers.dev/bpk-tv/Discovery_HD_World_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
+
+#EXTINF:-1 tvg-id="567" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_English.png" group-title="JTV+",Animal Planet
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=36a58e03204353d8a081ca60edce2fff:fb8bd1208c9055648d83ed963764c783
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
+https://jtvp.8088yyy.workers.dev/bpk-tv/Animal_Planet_Hindi_MOB/WDVLive/index.mpd|Referer=https://m3u.8088y.site/
+
+#EXTINF:-1 tvg-id="286" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="JTV+",Animal Planet ᴴᴰ World
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e5b244dece4589e8cb63c3f78599b8b:d0bf0aea980e46b12a38f8004505e2fe
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
+https://jtvp.8088yyy.workers.dev/bpk-tv/Animal_Planet_HD_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
+
+#EXTINF:-1 tvg-id="568" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="JTV+",Discovery Science
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=456f3924dff05372abec89e09f81ed2b:3362380b48f4029346e33804f35e1137
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-#EXTINF:-1 tvg-id="ts113" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="JTV+",Discovery Science
-https://jiotvmblive.cdn.jio.com/bpk-tv/Discovery_Science_BTS/output/index.mpd
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
+https://jtvp.8088yyy.workers.dev/bpk-tv/Discovery_Science_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5458f45efedb4d6f8aa6ac76c85b621b:dbf8a0a306a64525ba3012fd225370c0
 #EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vIA7TExn.png" group-title="JTV+", Discovery Science
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
 
+#EXTINF:-1 tvg-id="541" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="JTV+",Discovery Turbo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6975ebba1045165a9223a938b9e7974:2f63fb18980f4b851fc222a71ed85bbd
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
+https://jtvp.8088yyy.workers.dev/bpk-tv/Discovery_Turbo_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2828ea6f6a984505b0454da0c03f68b9:5d3b7195086544c2807aa8c1544e7379
 #EXTINF:-1 tvg-id="discovery-investigation" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/mHhlDCiL.png" group-title="JTV+", Discovery Investigation
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd
 
+#EXTINF:-1 tvg-id="527" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ID.png" group-title="JTV+",Investigation Discovery
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da494c4a7a545a0ab48b3f893e1feeeb:59b6b3a2a476a00cabefa77623d0d0c1
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
+https://jtvp.8088yyy.workers.dev/bpk-tv/ID_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
+
+#EXTINF:-1 tvg-id="1471" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_TV18_SD.png" group-title="JTV+",History TV18 SD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc8bda6bd61954d69d7d07a31d1af972:0555191ba0e5e4a58f13ef9fec2adcb1
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
+https://jtvp.8088yyy.workers.dev/bpk-tv/History_TV18_SD_MOB/WDVLive/index.mpd|Referer=https://m3u.8088y.site/
+
+#EXTINF:-1 tvg-id="146" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_HD.png" group-title="JTV+",History TV18 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0172b8cd13ed59349a05aadc58ae11e0:e4ab7836617767a2a6e7aaae17fad2b6
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6 YGX/69.69.69.69
-#EXTINF:-1 tvg-id="146" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_HD.png" group-title="JTV+",History TV18 HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/History_HD_BTS/output/index.mpd
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
+https://jtvp.8088yyy.workers.dev/bpk-tv/History_HD_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
 
 #EXTINF:-1 tvg-id="ts460" tvg-logo="https://www.sonybbcearth.com/images/logo.png" group-title="JTV+", Sony BBC Earth ᴴᴰ
 https://la.drmlive.net/tp/sliv-bbc.m3u8
@@ -2443,4 +2484,5 @@ http://195.181.169.162:80/TEN_2_HD/index.mpd?token=test
 
 #EXTINF:-1 group-title="TATAPLAY",SONY SPORTS TEN 3 Hindi HD
 http://195.181.169.162:80/TEN_3_HD/index.mpd?token=test
+
 
