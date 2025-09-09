@@ -2199,34 +2199,34 @@ https://nxtlive.net/sliv/stream.php?id=0897686&e=.m3u8|Referer=https://nxtlive.n
 https://app.hughag.store/api/bdb9301d44/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2020/01/ChatGPT-Image-May-2-2025-10_12_16-AM.png" group-title="SLIV",Sony SAB ᴴᴰ
-https://nxtlive.net/sliv/stream.php?id=0897678986&e=.m3u8|Referer=https://nxtlive.net
+https://nxtlive.net/sliv/stream.php?id=0897678986|Referer=https://nxtlive.net
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2021/05/ChatGPT-Image-May-2-2025-10_26_33-AM.png" group-title="SLIV",Sony Marathi
-https://nxtlive.net/sliv/stream.php?id=985980256&e=.m3u8|Referer=https://nxtlive.net
+https://nxtlive.net/sliv/stream.php?id=985980256|Referer=https://nxtlive.net
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2020/01/ChatGPT-Image-May-2-2025-10_08_49-AM.png" group-title="SLIV",Sony Pal
-https://nxtlive.net/sliv/stream.php?id=985663255656&e=.m3u8|Referer=https://nxtlive.net
+https://nxtlive.net/sliv/stream.php?id=985663255656|Referer=https://nxtlive.net
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2020/01/ChatGPT-Image-May-2-2025-10_20_00-AM.png" group-title="SLIV",Sony Max ᴴᴰ
-https://nxtlive.net/sliv/stream.php?id=94312380256&e=.m3u8|Referer=https://nxtlive.net
+https://nxtlive.net/sliv/stream.php?id=94312380256|Referer=https://nxtlive.net
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2020/09/ChatGPT-Image-May-2-2025-10_24_52-AM.png" group-title="SLIV", Sony Max
-https://nxtlive.net/sliv/stream.php?id=9456780256&e=.m3u8|Referer=https://nxtlive.net
+https://nxtlive.net/sliv/stream.php?id=9456780256|Referer=https://nxtlive.net
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2020/05/ChatGPT-Image-May-2-2025-10_21_30-AM.png" group-title="SLIV", Sony Max 2
-https://nxtlive.net/sliv/stream.php?id=9489060256&e=.m3u8|Referer=https://nxtlive.net
+https://nxtlive.net/sliv/stream.php?id=9489060256|Referer=https://nxtlive.net
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2020/01/ChatGPT-Image-Jul-2-2025-09_27_44-AM.png" group-title="SLIV", Sony Wah
-https://nxtlive.net/sliv/stream.php?id=0898545986&e=.m3u8|Referer=https://nxtlive.net
+https://nxtlive.net/sliv/stream.php?id=0898545986|Referer=https://nxtlive.net
 	
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2020/02/ChatGPT-Image-May-2-2025-10_15_20-AM.png" group-title="SLIV",Sony PIX ᴴᴰ
-https://nxtlive.net/sliv/stream.php?id=948000056&e=.m3u8|Referer=https://nxtlive.net
+https://nxtlive.net/sliv/stream.php?id=948000056|Referer=https://nxtlive.net
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2020/02/SBBCHD.webp" group-title="SLIV", Sony BBC Earth ᴴᴰ
-https://nxtlive.net/sliv/stream.php?id=943567856&e=.m3u8|Referer=https://nxtlive.net
+https://nxtlive.net/sliv/stream.php?id=943567856|Referer=https://nxtlive.net
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2022/12/ChatGPT-Image-May-2-2025-10_29_18-AM.png" group-title="SLIV",Sony Yay
-https://nxtlive.net/sliv/stream.php?id=0657898986&e=.m3u8|Referer=https://nxtlive.net
+https://nxtlive.net/sliv/stream.php?id=065789898|Referer=https://nxtlive.net
 
 =========================================================================SUNNXT=====================================================================================
 
@@ -2484,5 +2484,3 @@ http://195.181.169.162:80/TEN_2_HD/index.mpd?token=test
 
 #EXTINF:-1 group-title="TATAPLAY",SONY SPORTS TEN 3 Hindi HD
 http://195.181.169.162:80/TEN_3_HD/index.mpd?token=test
-
-
