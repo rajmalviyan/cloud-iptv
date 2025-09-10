@@ -1,6 +1,6 @@
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/test-icon-vector-design-templates_1172029-3113.jpg" group-title="Test",TEST
-https://bd.drmlive.net/toffee/cdn/live/sonysab_hd/playlist.m3u8
+ https://bd.drmlive.net/toffee/cdn/live/slang/sonysab_hd_576/sonysab_hd_576.m3u8
 ======================================================================================================================================================================
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bd.drmlive.net/toffee/cdn/live/zee_cafe_hd/playlist.m3u8
