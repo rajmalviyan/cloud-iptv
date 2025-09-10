@@ -569,11 +569,14 @@ https://keralive.com/yupp-usa/tv.php?c=insync&e=.m3u8|Referer=https://keralive.c
 #EXTINF:-1 tvg-id="ts40" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="SmartTV HD",& TV ᴴᴰ
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ts818" tvg-logo="https://i.imgur.com/UNNcOef.png" group-title="SmartTV HD",Shemaroo TV
-https://cdn-3.pishow.tv/live/230/master.m3u8
+#EXTINF:-1 tvg-id="ts616" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_HD.png" group-title="SmartTV HD",History TV 18 ᴴᴰ
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts126" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="SmartTV HD", EPIC
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/epic/master.m3u8
+
+#EXTINF:-1 tvg-id="ts818" tvg-logo="https://i.imgur.com/UNNcOef.png" group-title="SmartTV HD",Shemaroo TV
+https://cdn-3.pishow.tv/live/230/master.m3u8
 
 #EXTINF:-1 tvg-id="ts54" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TheQIndia.png" group-title="SmartTV HD",The Q
 https://vg-theqlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-306905/main.m3u8
@@ -1057,8 +1060,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mp
 #EXTINF:-1 tvg-id="ts460" tvg-logo="https://www.sonybbcearth.com/images/logo.png" group-title="Knowledge", Sony BBC Earth ᴴᴰ
 http://89.187.179.14:80/SONYEARTH/HD/HIN/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="ts616" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_HD.png" group-title="Knowledge",History TV 18 ᴴᴰ
-https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="146" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_HD.png" group-title="Knowledge",History TV18 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0172b8cd13ed59349a05aadc58ae11e0:e4ab7836617767a2a6e7aaae17fad2b6
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
+https://jtvp.8088yyy.workers.dev/bpk-tv/History_HD_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=053d3a1f8d5e5d759a7cbaa5b9ca7a0d:020e466407e9be52f1884697ef9d9ec9
@@ -1580,12 +1586,6 @@ https://jtvp.8088yyy.workers.dev/bpk-tv/ID_BTS/output/index.mpd|Referer=https://
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
 https://jtvp.8088yyy.workers.dev/bpk-tv/History_TV18_SD_MOB/WDVLive/index.mpd|Referer=https://m3u.8088y.site/
 
-#EXTINF:-1 tvg-id="146" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/History_HD.png" group-title="JTV+",History TV18 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0172b8cd13ed59349a05aadc58ae11e0:e4ab7836617767a2a6e7aaae17fad2b6
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux; Android 13) ExoPlayerLib/2.11.7
-https://jtvp.8088yyy.workers.dev/bpk-tv/History_HD_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
-
 #EXTINF:-1 tvg-id="ts460" tvg-logo="https://www.sonybbcearth.com/images/logo.png" group-title="JTV+", Sony BBC Earth ᴴᴰ
 https://la.drmlive.net/tp/sliv-bbc.m3u8
 
@@ -1832,5 +1832,6 @@ https://nxtlive.net/sliv/stream.php?id=943567856|Referer=https://nxtlive.net
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2022/12/ChatGPT-Image-May-2-2025-10_29_18-AM.png" group-title="SLIV",Sony Yay
 https://nxtlive.net/sliv/stream.php?id=065789898|Referer=https://nxtlive.net
+
 
 
