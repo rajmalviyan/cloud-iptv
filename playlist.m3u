@@ -4,18 +4,10 @@
 ===========================================================MARATHI=================================================================================================
 
 #EXTINF:-1 tvg-id="738" tvg-logo="https://i.imgur.com/y0VS4QN.png" group-title="Marathi",Fakt Marathi
-https://live.dinesh29.com.np/stream/jiotvplus/faktmarathi/master.m3u8
-
-#EXTINF:-1 tvg-id="738" tvg-logo="https://i.imgur.com/y0VS4QN.png" group-title="Marathi",PISHO Fakt Marathi
 https://cdn-6.pishow.tv/live/10002/master.m3u8
 
 #EXTINF:-1 tvg-id="2424" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Marathi.png" group-title="Marathi",Sun Marathi
 https://live.dinesh29.com.np/stream/jiotvplus/sunmarathi/master.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5ea90a1f3b1e4a0a9b72c8e0f4a9bf31:30899fda5ca4dfb5a4535ce10c4d7341
-#EXTINF:-1 tvg-id="2424" tvg-logo="https://sund-images.sunnxt.com/194387/640x360_SunMarathi_194387_441db2e2-0fa1-48ca-be59-7f5dd70f66cb.jpg" group-title="Marathi",ASTRO Sun Marathi
-https://livestream9.sunnxt.com/2699d3c42a1944d9bb8e919433a349c2/SunMarathiB_AU_index.mpd
 
 #EXTINF:-1 tvg-id="1452" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shemaroo_MarathiBana.png" group-title="Marathi",Shemaroo MarathiBana
 https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
@@ -23,8 +15,8 @@ https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u
 #EXTINF:-1 tvg-id="1326" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Marathi_SD.png" group-title="Marathi",Colors Marathi
 https://live.dinesh29.com.np/stream/jiotvplus/colorsmarathisd/master.m3u8
 
-#EXTINF:-1 tvg-id="755" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="Marathi",Colors Marathi ᴴᴰ
-https://live.dinesh29.com.np/stream/jiotvplus/colorsmarathihd/master.m3u8
+#EXTINF:-1 tvg-id="755" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="Colors",Colors Marathi ᴴᴰ
+http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsMarathiHD/JCHLS/index.m3u8
 
 #EXTINF:-1 tvg-id="ts469" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Star_Pravah_2023.png/995px-Star_Pravah_2023.png" group-title="Marathi",Star Pravah
 https://live.dinesh29.com.np/stream/jiotvplus/starpravah/master.m3u8
@@ -42,7 +34,6 @@ https://live.dinesh29.com.np/stream/jiotvplus/starpravahpicturehd/master.m3u8
 https://la.drmlive.net/tp/sliv-marathi.m3u8
 
 #EXTINF:-1 tvg-id="ts251" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi.png" group-title="Marathi",Zee Marathi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://la.drmlive.net/tp/zee-9z5383486.m3u8
 
 #EXTINF:-1 tvg-id="ts501" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" group-title="Marathi",Zee Marathi ᴴᴰ
@@ -1983,8 +1974,7 @@ https://otttv.co.in/d2h/livestream/sony-ten-5-hd/master.m3u8|Referer=https://ott
 
 =============================================================================COLORS NETWORK======================================================================================
 
-#EXTINF:-1 tvg-id="755" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="Colors",Colors Marathi ᴴᴰ
-http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsMarathiHD/JCHLS/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ts52" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Colors", Colors ᴴᴰ
 http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/index.m3u8
@@ -2200,4 +2190,5 @@ https://nxtlive.net/sliv/stream.php?id=943567856|Referer=https://nxtlive.net
 
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2022/12/ChatGPT-Image-May-2-2025-10_29_18-AM.png" group-title="SLIV",Sony Yay
 https://nxtlive.net/sliv/stream.php?id=065789898|Referer=https://nxtlive.net
+
 
