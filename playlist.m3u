@@ -820,27 +820,34 @@ https://jio.drmlive.net/jio/bpk-tv/MTV_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="ts406" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music",MTV ᴴᴰ
 http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/index.m3u8
 
-#EXTINF:-1 tvg-id="ts9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600011UH_20241024T054045SQUARE.png" group-title="Music",Superhit Beats by MTV
-https://jmp2.uk/stvp-IN2600011UH
-
 #EXTINF:-1 tvg-id="ts517" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zing.png" group-title="Music",Zing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://la.drmlive.net/tp/zee-zing.m3u8
 
-#EXTINF:-1 tvg-id="2753" tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/logo_20240322_175611_70.png" group-title="Music",YRF Music
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
+#EXTINF:-1 tvg-id="3074" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/smrfgn.png" group-title="Music",Shemaroo Filmigaane
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
 
 #EXTINF:-1 tvg-id="2065" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Saregama_Music.png" group-title="Music",Saregama Music
 https://live.dinesh29.com.np/stream/jiotvplus/saregamamusic/master.m3u8
 
-#EXTINF:-1 tvg-id="3074" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/smrfgn.png" group-title="Music",Shemaroo Filmigaane
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
+#EXTINF:-1 tvg-id="ts9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/23_144.png" group-title="Music",Syok India Beat
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b4e873bc93eff959ba232e1fa016f10:3e84b173e8997210fd270b7029491a9e
+https://linearjitp-playback.astro.com.my/dash-wv/linear/127/default_ott.mpd
+
+#EXTINF:-1 tvg-id="ts9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2600011UH_20241024T054045SQUARE.png" group-title="Music",Superhit Beats
+https://jmp2.uk/stvp-IN2600011UH
 
 #EXTINF:-1 tvg-id="ts9" tvg-logo="https://yt3.googleusercontent.com/El61G9RkH8EYikPt49ptsPxQMD-Fpdhoy4hJr8ivu5TYcnOuR_dyqvg7EMJlI9SiBPgx5ybWX8I=s160-c-k-c0x00ffffff-no-rj" group-title="Music",Hindi Hits ᴴᴰ
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 #EXTINF:-1 tvg-id="ts9" tvg-logo="https://play-lh.googleusercontent.com/zooER-oa-NqGzAR4HjEUGYBOfAcWvyoWGGIjZn3peR6xveFznWN6LvXCP_5A5zoB7gdE" group-title="Music",Joo Music
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2753" tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/logo_20240322_175611_70.png" group-title="Music",YRF Music
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
 
 #EXTINF:-1 tvg-id="jio-962" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" group-title="Music", Boogle Bollywood
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -2023,6 +2030,7 @@ https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8
 https://d2jso9g61rg1h8.cloudfront.net/index_3.m3u8
 #EXTINF:-1 tvg-id="657" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png"group-title="Zee5" , Zee Business
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+
 
 
 
