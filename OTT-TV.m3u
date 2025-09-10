@@ -43,6 +43,9 @@ http://195.181.169.162:80/SONY_PIX_HD/index.mpd?token=test
 #EXTINF:-1 group-title="TATAPLAY",ANIMAL PLANET HD
 http://89.187.179.14/ANMLPLANET/HD/HIN/index.mpd?token=test
 
+#EXTINF:-1 group-title="TATAPLAY",NATIONAL GEOGRAPHIC
+http://195.181.169.162:80/NAT_GEO_HINDI_HD/index.mpd?token=test
+
 #EXTINF:-1 group-title="TATAPLAY",NATIONAL GEOGRAPHIC HD
 http://89.187.179.14/Nat_Geo_Hin/index.mpd?token=test
 
