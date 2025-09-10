@@ -4,70 +4,67 @@
 
 ################################################################# TATA PLAY #####################################################################################
 
-#EXTINF:-1 group-title="TATAPLAY",SET HD
-http://195.181.169.162:80/SONY_HD/index.mpd?token=test
-
-#EXTINF:-1 group-title="TATAPLAY",Sony SAB HD
-http://195.181.169.162:80/SONY_SAB_HD/index.mpd?token=test
-
-#EXTINF:-1 group-title="TATAPLAY",Sony MAX HD
-http://195.181.169.162:80/SONY_MAX_HD/index.mpd?token=test
-
-#EXTINF:-1 group-title="TATAPLAY",COLORS HD
-http://195.181.169.162/COLORS_HD/index.m3u8?token=test
-
-#EXTINF:-1 group-title="TATAPLAY", ZEE TV HD
-http://195.181.169.162:80/ZEE_TV_HD/index.mpd?token=test
-
-#EXTINF:-1 group-title="TATAPLAY", &FLIX HD
-http://195.181.169.162:80/AND_FLIX_HD/index.mpd?token=test
-
-#EXTINF:-1 group-title="TATAPLAY", &PRIVE HD
-http://195.181.169.162:80/AND_PRIVE_HD/index.mpd?token=test
-
-#EXTINF:-1 group-title="TATAPLAY", &TV HD
+#EXTINF:-1 tvg-id="ts40" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="TATAPLAY",& TV ᴴᴰ
 http://195.181.169.162:80/AND_TV_HD/index.mpd?token=test
 
-#EXTINF:-1 group-title="TATAPLAY", &PICTURES HD
+#EXTINF:-1 tvg-id="291" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="TATAPLAY",SET ᴴᴰ
+http://195.181.169.162:80/SONY_HD/index.mpd?token=test
+
+#EXTINF:-1 tvg-id="471" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="TATAPLAY",Sony SAB ᴴᴰ
+http://195.181.169.162:80/SONY_SAB_HD/index.mpd?token=test
+
+#EXTINF:-1 tvg-id="ts52" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="TATAPLAY", Colors ᴴᴰ
+http://195.181.169.162/COLORS_HD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="TATAPLAY", Zee TV ᴴᴰ
+http://195.181.169.162:80/ZEE_TV_HD/index.mpd?token=test
+
+#EXTINF:-1 tvg-id="ts506" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png" group-title="TATAPLAY", & Flix ᴴᴰ
+http://195.181.169.162:80/AND_FLIX_HD/index.mpd?token=test
+
+#EXTINF:-1 tvg-id="ts530" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png" group-title="TATAPLAY", & Prive ᴴᴰ
+http://195.181.169.162:80/AND_PRIVE_HD/index.mpd?token=test
+
+#EXTINF:-1 tvg-id="ts267" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="TATAPLAY", & Pictures ᴴᴰ
 http://195.181.169.162:80/AND_PICTURES_HD/index.mpd?token=test
 
-#EXTINF:-1 group-title="TATAPLAY", ZEE CINEMA HD
+#EXTINF:-1 tvg-id="476" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="TATAPLAY",Sony Max ᴴᴰ
+http://195.181.169.162:80/SONY_MAX_HD/index.mpd?token=test
+
+#EXTINF:-1 tvg-id="ts503" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="TATAPLAY",Zee Cinema ᴴᴰ
 http://195.181.169.162:80/ZEE_CINEMA_HD/index.mpd?token=test
 
-#EXTINF:-1 group-title="TATAPLAY", ZEE CAFE HD
+#EXTINF:-1 tvg-id="0-9-zeecafehd" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="TATAPLAY", Zee Café ᴴᴰ
 http://195.181.169.162:80/ZEE_CAFE_HD/index.mpd?token=test
 
-#EXTINF:-1 group-title="TATAPLAY",SONY PIX HD
+#EXTINF:-1 tvg-id="ts32" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="TATAPLAY",Sony PIX ᴴᴰ
 http://195.181.169.162:80/SONY_PIX_HD/index.mpd?token=test
 
-#EXTINF:-1 group-title="TATAPLAY",ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="286" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="TATAPLAY",Animal Planet ᴴᴰ World
 http://89.187.179.14/ANMLPLANET/HD/HIN/index.mpd?token=test
 
-#EXTINF:-1 group-title="TATAPLAY",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id="ts137" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/National_Geographic.png" group-title="TATAPLAY",National Geographic
 http://195.181.169.162:80/NAT_GEO_HINDI_HD/index.mpd?token=test
 
-#EXTINF:-1 group-title="TATAPLAY",NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="ts605" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="TATAPLAY",National Geographic ᴴᴰ
 http://89.187.179.14/Nat_Geo_Hin/index.mpd?token=test
 
-#EXTINF:-1 group-title="TATAPLAY",NAT GEO WILD HD
+#EXTINF:-1 tvg-id="ts413" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png" group-title="TATAPLAY",Nat Geo Wild ᴴᴰ
 http://89.187.179.14/NATGEOWILD/INDI/HIN/index.mpd?token=test
 
-#EXTINF:-1 group-title="TATAPLAY",SONY BBC EARTH HD
-http://89.187.179.14:80/SONYEARTH/HD/HIN/index.m3u8?token=test
-
-#EXTINF:-1 group-title="TATAPLAY",Sony BBC Earth HD
+#EXTINF:-1 tvg-id="ts460" tvg-logo="https://www.sonybbcearth.com/images/logo.png" group-title="TATAPLAY", Sony BBC Earth ᴴᴰ
 http://195.181.169.162:80/BBC_EARTH_HD/index.mpd?token=test
 
-#EXTINF:-1 group-title="TATAPLAY",ZEE ZEST HD
+#EXTINF:-1 tvg-id="ts382" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png" group-title="TATAPLAY",Zee Zest ᴴᴰ
 http://195.181.169.162:80/LIVING_FOODZ_HD/index.mpd?token=test
 
-#EXTINF:-1 group-title="TATAPLAY",SONY SPORTS TEN 1 HD
+#EXTINF:-1 tvg-id="ts81" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="TATAPLAY", Sony TEN 1 ᴴᴰ
 http://195.181.169.162:80/TEN_1_HD/index.mpd?token=test
 
-#EXTINF:-1 group-title="TATAPLAY",SONY SPORTS TEN 2 HD
+#EXTINF:-1 tvg-id="ts462" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="TATAPLAY", Sony TEN 2 ᴴᴰ
 http://195.181.169.162:80/TEN_2_HD/index.mpd?token=test
 
-#EXTINF:-1 group-title="TATAPLAY",SONY SPORTS TEN 3 Hindi HD
+#EXTINF:-1 tvg-id="ts464" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="TATAPLAY", Sony TEN 3 ᴴᴰ Hindi
 http://195.181.169.162:80/TEN_3_HD/index.mpd?token=test
 
 ##################################################################   INTERNATIONAL MOVIES   ############################################################################
@@ -208,50 +205,50 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_lifetime.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
-#EXTINF:-1 tvg-id="animaxasia" tvg-logo="https://i.imgur.com/2GJ0VK2.png" group-title="ANIME & CARTOONS",ANIMAX
+#EXTINF:-1 tvg-id="animaxasia" tvg-logo="https://admin.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/06/13/Untitled-1_18.jpg" group-title="ANIME & CARTOONS",ANIMAX
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
-#EXTINF:-1 tvg-id="converge_nick_jr" tvg-logo="" group-title="ANIME & CARTOONS", Nick Jr.
+#EXTINF:-1 tvg-id="converge_nick_jr" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" group-title="ANIME & CARTOONS", Nick Jr.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001215/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="nickjr" tvg-logo="" group-title="ANIME & CARTOONS", Nick Jr
+#EXTINF:-1 tvg-id="nickjr" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png" group-title="ANIME & CARTOONS", Nick Jr
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bab5c11178b646749fbae87962bf5113:0ac679aad3b9d619ac39ad634ec76bc8
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nickjr.mpd
 
-#EXTINF:-1 tvg-id="converge_nickelodeon" tvg-logo="" group-title="ANIME & CARTOONS", Nickelodeon
+#EXTINF:-1 tvg-id="converge_nickelodeon" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" group-title="ANIME & CARTOONS", Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001313/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="nickelodeon" tvg-logo="" group-title="ANIME & CARTOONS", Nickelodeon
+#EXTINF:-1 tvg-id="nickelodeon" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" group-title="ANIME & CARTOONS", Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ce58f37576b416381b6514a809bfd8b:f0fbb758cdeeaddfa3eae538856b4d72
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_nickelodeon.mpd
 
-#EXTINF:-1 tvg-id="converge_cartoon_network" tvg-logo="" group-title="ANIME & CARTOONS", Cartoon Network
+#EXTINF:-1 tvg-id="converge_cartoon_network" tvg-logo="https://www.citypng.com/public/uploads/preview/cartoon-network-cn-logo-hd-png-701751694708568zxoq18qbzl.png" group-title="ANIME & CARTOONS", Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001178/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="cartoon_net_hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="ANIME & CARTOONS", Cartoon Network HD
+#EXTINF:-1 tvg-id="cartoon_net_hd" tvg-logo="https://www.citypng.com/public/uploads/preview/cartoon-network-cn-logo-hd-png-701751694708568zxoq18qbzl.png" group-title="ANIME & CARTOONS", Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
 
-#EXTINF:-1 tvg-id="converge_cartoonito" tvg-logo="" group-title="ANIME & CARTOONS", Cartoonito
+#EXTINF:-1 tvg-id="converge_cartoonito" tvg-logo="https://logos-world.net/wp-content/uploads/2024/09/Cartoonito-Logo-500x281.png" group-title="ANIME & CARTOONS", Cartoonito
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="dreamworks_hd" tvg-logo="https://www.dreamworks-asia.com/share.jpg" group-title="ANIME & CARTOONS", DreamWorks HD
+#EXTINF:-1 tvg-id="dreamworks_hd" tvg-logo="https://toppng.com/uploads/preview/logo-dreamworks-11550710515ldnaniozvz.png" group-title="ANIME & CARTOONS", DreamWorks HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
 
-#EXTINF:-1 tvg-id="moonbug_kids" tvg-logo="" group-title="ANIME & CARTOONS", Moonbug Kids
+#EXTINF:-1 tvg-id="moonbug_kids" tvg-logo="https://astromedia.com.my/wp-content/uploads/2025/03/GenNext-Moonbug.png" group-title="ANIME & CARTOONS", Moonbug Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_moonbug_kids_sd.mpd
@@ -291,107 +288,107 @@ https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 
 #####################################################   INTERNATIONAL NEWS & SPORTS  ############################################################################
 
-#EXTINF:-1 tvg-id="bbcworld_news" tvg-logo="" group-title="INTERNATIONAL NEWS & SPORTS", BBC News
+#EXTINF:-1 tvg-id="bbcworld_news" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/366_144.png" group-title="INTERNATIONAL NEWS & SPORTS", BBC News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f59650be475e4c34a844d4e2062f71f3:119639e849ddee96c4cec2f2b6b09b40
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/bbcworld_news_sd.mpd
 
-#EXTINF:-1 tvg-id="converge_cna" tvg-logo="" group-title="INTERNATIONAL NEWS & SPORTS", CNA
+#EXTINF:-1 tvg-id="converge_cna" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/295_144.png" group-title="INTERNATIONAL NEWS & SPORTS", CNA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001106/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="cnn_hd" tvg-logo="" group-title="INTERNATIONAL NEWS & SPORTS", CNN HD
+#EXTINF:-1 tvg-id="cnn_hd" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png" group-title="INTERNATIONAL NEWS & SPORTS", CNN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=900c43f0e02742dd854148b7a75abbec:da315cca7f2902b4de23199718ed7e90
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cnnhd.mpd
 
-#EXTINF:-1 tvg-id="converge_cnn_international" tvg-logo="" group-title="INTERNATIONAL NEWS & SPORTS", CNN International
+#EXTINF:-1 tvg-id="converge_cnn_international" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/cnn.jpeg" group-title="INTERNATIONAL NEWS & SPORTS", CNN International
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001073/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="converge_france24" tvg-logo="" group-title="INTERNATIONAL NEWS & SPORTS", France24
+#EXTINF:-1 tvg-id="converge_france24" tvg-logo="https://my.ambafrance.org/local/cache-vignettes/L135xH146/6b259d7e7326679f-a0181.png" group-title="INTERNATIONAL NEWS & SPORTS", France24
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001157/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="france24" tvg-logo="" group-title="INTERNATIONAL NEWS & SPORTS", France 24
+#EXTINF:-1 tvg-id="france24" tvg-logo="https://my.ambafrance.org/local/cache-vignettes/L135xH146/6b259d7e7326679f-a0181.png" group-title="INTERNATIONAL NEWS & SPORTS", France 24
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=257f9fdeb39d41bdb226c2ae1fbdaeb6:e80ead0f4f9d6038ab34f332713ceaa5
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_france24.mpd
 
-#EXTINF:-1 tvg-id="converge_fox_news_channel" tvg-logo="" group-title="INTERNATIONAL NEWS & SPORTS", FOX News Channel
+#EXTINF:-1 tvg-id="converge_fox_news_channel" tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/Fox-News-Channel-Logo-700x394.png" group-title="INTERNATIONAL NEWS & SPORTS", FOX News Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001105/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="taptv" tvg-logo="" group-title="INTERNATIONAL NEWS & SPORTS", Tap TV
+#EXTINF:-1 tvg-id="taptv" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/TapTV-Feb-2022-Vid-Thumbnail.jpg" group-title="INTERNATIONAL NEWS & SPORTS", Tap TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6804251e90b4966889b7df94fdc621e:55c3c014f2bd12d6bd62349658f24566
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
 
-#EXTINF:-1 tvg-id="converge_golden_nation_network" tvg-logo="" group-title="INTERNATIONAL NEWS & SPORTS", Golden Nation Network
+#EXTINF:-1 tvg-id="converge_golden_nation_network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/GNN_Logo_2025.png" group-title="INTERNATIONAL NEWS & SPORTS", Golden Nation Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001234/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="converge_wion" tvg-logo="" group-title="INTERNATIONAL NEWS & SPORTS", WION
+#EXTINF:-1 tvg-id="converge_wion" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wion.png" group-title="INTERNATIONAL NEWS & SPORTS", WION
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001265/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="converge_one_sports" tvg-logo="" group-title="INTERNATIONAL NEWS & SPORTS", One Sports
+#EXTINF:-1 tvg-id="converge_one_sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/1200px-One_Sports_logo.svg.png" group-title="INTERNATIONAL NEWS & SPORTS", One Sports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001083/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="onesports" tvg-logo="" group-title="INTERNATIONAL NEWS & SPORTS", One Sports HD
+#EXTINF:-1 tvg-id="onesports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/1200px-One_Sports_logo.svg.png" group-title="INTERNATIONAL NEWS & SPORTS", One Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
 
-#EXTINF:-1 tvg-id="onesportsplus_hd" tvg-logo="" group-title="INTERNATIONAL NEWS & SPORTS", One Sports+
+#EXTINF:-1 tvg-id="onesportsplus_hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/1200px-One_Sports_logo.svg.png" group-title="INTERNATIONAL NEWS & SPORTS", One Sports+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 
-#EXTINF:-1 tvg-id="converge_spotv" tvg-logo="" group-title="INTERNATIONAL NEWS & SPORTS", SPOTV
+#EXTINF:-1 tvg-id="converge_spotv" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png" group-title="INTERNATIONAL NEWS & SPORTS", SPOTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001133/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="SPOTV_HD" tvg-logo="" group-title="INTERNATIONAL NEWS & SPORTS", SPOTV HD
+#EXTINF:-1 tvg-id="SPOTV_HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png" group-title="INTERNATIONAL NEWS & SPORTS", SPOTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 
-#EXTINF:-1 tvg-id="converge_spotv_2" tvg-logo="" group-title="INTERNATIONAL NEWS & SPORTS", SPOTV 2
+#EXTINF:-1 tvg-id="converge_spotv_2" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/SPOTV2_IVP_LAND_1280x720.jpg" group-title="INTERNATIONAL NEWS & SPORTS", SPOTV 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001200/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="SPOTV_HD2" tvg-logo="" group-title="INTERNATIONAL NEWS & SPORTS", SPOTV 2 HD
+#EXTINF:-1 tvg-id="SPOTV_HD2" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/resizedImages/SPOTV2_IVP_LAND_1280x720.jpg" group-title="INTERNATIONAL NEWS & SPORTS", SPOTV 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
-#EXTINF:-1 tvg-id="converge_premier_sports" tvg-logo="" group-title="INTERNATIONAL NEWS & SPORTS", Premier Sports
+#EXTINF:-1 tvg-id="converge_premier_sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png" group-title="INTERNATIONAL NEWS & SPORTS", Premier Sports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001135/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="converge_premier_sports_2" tvg-logo="" group-title="INTERNATIONAL NEWS & SPORTS", Premier Sports 2
+#EXTINF:-1 tvg-id="converge_premier_sports_2" tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1641949301_premier-sports-2.png" group-title="INTERNATIONAL NEWS & SPORTS", Premier Sports 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001204/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="tap_sports" tvg-logo="" group-title="INTERNATIONAL NEWS & SPORTS", Tap Sports
+#EXTINF:-1 tvg-id="tap_sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="INTERNATIONAL NEWS & SPORTS", Tap Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
-#EXTINF:-1 tvg-id="converge_tap_sports" tvg-logo="" group-title="INTERNATIONAL NEWS & SPORTS", TAP Sports
+#EXTINF:-1 tvg-id="converge_tap_sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="INTERNATIONAL NEWS & SPORTS", TAP Sports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001151/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
