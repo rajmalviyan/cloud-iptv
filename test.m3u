@@ -1,5 +1,4 @@
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bd.drmlive.net
+
 #EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/test-icon-vector-design-templates_1172029-3113.jpg" group-title="Test",TEST
 https://bd.drmlive.net/toffee/cdn/live/sonysab_hd/playlist.m3u8
 ======================================================================================================================================================================
