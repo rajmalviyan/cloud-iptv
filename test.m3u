@@ -1,4 +1,4 @@
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://img.freepik.com/premium-vector/test-icon-vector-design-templates_1172029-3113.jpg" group-title="Test",TEST
  https://bd.drmlive.net/toffee/cdn/live/slang/sonysab_hd_576/sonysab_hd_576.m3u8
 ======================================================================================================================================================================
