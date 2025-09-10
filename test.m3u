@@ -1,7 +1,12 @@
-#EXTINF:-1 tvg-id="1396" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Entertainment",SET
+#EXTINF:-1 tvg-id="1396" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="TEST",SET
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=AEN/opS+AyitTqcCh1Bl5I=:AEN/opS+AyitTqcCh1Bl5I=
 https://bd.drmlive.net/toffee/cdn/live/sonyentertainmnt_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1396" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="TEST",TEN CRICKET
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=AEN/opS+AyitTqcCh1Bl5I=:AEN/opS+AyitTqcCh1Bl5I=
+https://bd.drmlive.net/toffee/cdn/live/ten_cricket/playlist.m3u8
 ======================================================================================================================================================================
 
 
