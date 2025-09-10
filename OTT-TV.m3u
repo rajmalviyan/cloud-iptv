@@ -87,119 +87,119 @@ http://161.49.17.2:6610/001/2/ch00000090990000001162/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001065/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="converge_kbs_korea" tvg-logo="" group-title="INTERNATIONAL MOVIES", HBO Family
+#EXTINF:-1 tvg-id="converge_kbs_korea" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="INTERNATIONAL MOVIES", HBO Family
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001246/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="hits_hd" tvg-logo="" group-title="INTERNATIONAL MOVIES",Hits
+#EXTINF:-1 tvg-id="hits_hd" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/hits.jpeg" group-title="INTERNATIONAL MOVIES",Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
 
-#EXTINF:-1 tvg-id="hits_movies" tvg-logo="" group-title="INTERNATIONAL MOVIES",HITS Movies
+#EXTINF:-1 tvg-id="hits_movies" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/hitsmovie2.jpeg" group-title="INTERNATIONAL MOVIES",HITS Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f56b57b32d7e4b2cb21748c0b56761a7:3df06a89aa01b32655a77d93e09e266f
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_hitsmovies.mpd
 
-#EXTINF:-1 tvg-id="cg_hitsnow" tvg-logo="" group-title="INTERNATIONAL MOVIES",HITS Now
+#EXTINF:-1 tvg-id="cg_hitsnow" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/01/hitsnow.png" group-title="INTERNATIONAL MOVIES",HITS Now
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14439a1b7afc4527bb0ebc51cf11cbc1:92b0287c7042f271b266cc11ab7541f1
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hitsnow.mpd
 
-#EXTINF:-1 tvg-id="warnertv_hd" tvg-logo="" group-title="INTERNATIONAL MOVIES", Warner TV HD
+#EXTINF:-1 tvg-id="warnertv_hd" tvg-logo="https://s.yimg.com/os/en_US/Entertainment/Variety/warner-tv-logo.jpg" group-title="INTERNATIONAL MOVIES", Warner TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
 
-#EXTINF:-1 tvg-id="converge_warner_tv" tvg-logo="" group-title="INTERNATIONAL MOVIES", Warner TV
+#EXTINF:-1 tvg-id="converge_warner_tv" tvg-logo="https://s.yimg.com/os/en_US/Entertainment/Variety/warner-tv-logo.jpg" group-title="INTERNATIONAL MOVIES", Warner TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001096/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="tapactionflix_hd" tvg-logo="" group-title="INTERNATIONAL MOVIES", Tap Action Flix HD
+#EXTINF:-1 tvg-id="tapactionflix_hd" tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1636945412_tap-action.png" group-title="INTERNATIONAL MOVIES", Tap Action Flix HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 
-#EXTINF:-1 tvg-id="tapmovies_hd" tvg-logo="" group-title="INTERNATIONAL MOVIES", Tap Movies HD
+#EXTINF:-1 tvg-id="tapmovies_hd" tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1637025861_tap-movies.png" group-title="INTERNATIONAL MOVIES", Tap Movies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
 
 ######################################################  INFOTAINMENT, LIFESTYLE & FASHION  ##########################################################################
 
-#EXTINF:-1 tvg-id="converge_discovery_channel" tvg-logo="" group-title="INFOTAINMENT, LIFESTYLE & FASHION", Discovery Channel
+#EXTINF:-1 tvg-id="converge_discovery_channel" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="INFOTAINMENT, LIFESTYLE & FASHION", Discovery Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001194/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="discovery" tvg-logo="" group-title="INFOTAINMENT, LIFESTYLE & FASHION", Discovery Channel
+#EXTINF:-1 tvg-id="discovery" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="INFOTAINMENT, LIFESTYLE & FASHION", Discovery Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_discovery.mpd
 
-#EXTINF:-1 tvg-id="converge_animal_planet" tvg-logo="" group-title="INFOTAINMENT, LIFESTYLE & FASHION", Animal Planet
+#EXTINF:-1 tvg-id="converge_animal_planet" tvg-logo="https://standfirst-designweek-production.imgix.net/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg" group-title="INFOTAINMENT, LIFESTYLE & FASHION", Animal Planet
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001335/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="animal_planet" tvg-logo="" group-title="INFOTAINMENT, LIFESTYLE & FASHION", Animal Planet
+#EXTINF:-1 tvg-id="animal_planet" tvg-logo="https://standfirst-designweek-production.imgix.net/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg" group-title="INFOTAINMENT, LIFESTYLE & FASHION", Animal Planet
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=436b69f987924fcbbc06d40a69c2799a:c63d5b0d7e52335b61aeba4f6537d54d
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_animal_planet_sd.mpd
 
-#EXTINF:-1 tvg-id="bbcearth_hd" tvg-logo="" group-title="INFOTAINMENT, LIFESTYLE & FASHION", BBC Earth HD
+#EXTINF:-1 tvg-id="bbcearth_hd" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/BBCEarth.png" group-title="INFOTAINMENT, LIFESTYLE & FASHION", BBC Earth
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd
 
-#EXTINF:-1 tvg-id="converge_history" tvg-logo="" group-title="INFOTAINMENT, LIFESTYLE & FASHION", History
+#EXTINF:-1 tvg-id="converge_history" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/history.png" group-title="INFOTAINMENT, LIFESTYLE & FASHION", History
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001074/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="history_hd" tvg-logo="" group-title="INFOTAINMENT, LIFESTYLE & FASHION", History HD
+#EXTINF:-1 tvg-id="history_hd" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/history.png" group-title="INFOTAINMENT, LIFESTYLE & FASHION", History
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
 
-#EXTINF:-1 tvg-id="travel_channel" tvg-logo="" group-title="INFOTAINMENT, LIFESTYLE & FASHION", Travel Channel
+#EXTINF:-1 tvg-id="travel_channel" tvg-logo="https://toppng.com/uploads/preview/travel-channel-logo-11550718752u5c7cq9bau.png" group-title="INFOTAINMENT, LIFESTYLE & FASHION", Travel Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3047fc13d454dacb6db4207ee79d3d3:bdbd38748f51fc26932e96c9a2020839
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/travel_channel_sd.mpd
 
-#EXTINF:-1 tvg-id="converge_global_trekker" tvg-logo="" group-title="INFOTAINMENT, LIFESTYLE & FASHION", Global Trekker
+#EXTINF:-1 tvg-id="converge_global_trekker" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/global-trekker2.png" group-title="INFOTAINMENT, LIFESTYLE & FASHION", Global Trekker
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001203/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="tap_edge" tvg-logo="" group-title="INFOTAINMENT, LIFESTYLE & FASHION", Global Trekker
+#EXTINF:-1 tvg-id="tap_edge" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/global-trekker2.png" group-title="INFOTAINMENT, LIFESTYLE & FASHION", Global Trekker
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4553f7e8011f411fb625cefc39274300:98f2f1d153367e84b5d559dc9dfb9a35
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_tapedge.mpd
 
-#EXTINF:-1 tvg-id="converge_tlc" tvg-logo="" group-title="INFOTAINMENT, LIFESTYLE & FASHION", TLC
+#EXTINF:-1 tvg-id="converge_tlc" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png" group-title="INFOTAINMENT, LIFESTYLE & FASHION", TLC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001181/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="converge_dw" tvg-logo="" group-title="INFOTAINMENT, LIFESTYLE & FASHION", DW
+#EXTINF:-1 tvg-id="converge_dw" tvg-logo="https://admin.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2015/09/18/unnamed.jpg" group-title="INFOTAINMENT, LIFESTYLE & FASHION", DW
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001166/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="converge_fashion_tv" tvg-logo="" group-title="INFOTAINMENT, LIFESTYLE & FASHION", Fashion TV
+#EXTINF:-1 tvg-id="converge_fashion_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Fashion_TV_logo_2017.svg/300px-Fashion_TV_logo_2017.svg.png" group-title="INFOTAINMENT, LIFESTYLE & FASHION", Fashion TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001102/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="foodnetwork_hd" tvg-logo="" group-title="INFOTAINMENT, LIFESTYLE & FASHION", Food Network HD
+#EXTINF:-1 tvg-id="foodnetwork_hd" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png" group-title="INFOTAINMENT, LIFESTYLE & FASHION", Food Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7299ea0af8945479cd2f287ee7d530e:b8ae7679cf18e7261303313b18ba7a14
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_foodnetwork_hd1.mpd
 
-#EXTINF:-1 tvg-id="lifetime" tvg-logo="" group-title="INFOTAINMENT, LIFESTYLE & FASHION", Lifetime
+#EXTINF:-1 tvg-id="lifetime" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/447_144.png" group-title="INFOTAINMENT, LIFESTYLE & FASHION", Lifetime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cf861d26e7834166807c324d57df5119:64a81e30f6e5b7547e3516bbf8c647d0
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_lifetime.mpd
