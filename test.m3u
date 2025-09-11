@@ -1,8 +1,7 @@
-#EXTINF:-1 tvg-id="1396" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="TEST",TEST
-https://bd.drmlive.net/toffee/cdn/live/animalplanet__hd/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="1396" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="TEST",TEST
-https://bd.drmlive.net/toffee/cdn/live/animal_planet__hd/playlist.m3u8
+http://bd.drmlive.net/toffee/cdn/live/slang/discoveryscience_hd_320/discoveryscience_hd_320.m3u8
 
 #EXTINF:-1 tvg-id="1396" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="TEST",TEST
 https://bd.drmlive.net/toffee/cdn/live/discoveryscience_hd/playlist.m3u8
