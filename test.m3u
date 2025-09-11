@@ -1,10 +1,8 @@
 
 
 #EXTINF:-1 tvg-id="1396" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="TEST",TEST
-http://bd.drmlive.net/toffee/cdn/live/slang/discoveryscience_hd_320/discoveryscience_hd_320.m3u8
+https://app.hughag.store/api/bdb9301d44/chunks/c3b33c0e7c9779fc32cebe5ed9a9dc9f0e428e0465b4d8bc358e0b0a5b12d6689fbef93811352daeebdf4761b634b4529f57814a943840496946cdf3a91cc7fd4ed0e6a2e8f9e06badc0b1db9495d4a4461b34ac4de3b8cfa6bc8178e693551fb8ca5e51e7beb39e9bbf318b75aca16891aae6e4e910743746de2794f3a7a30f.m3u8
 
 #EXTINF:-1 tvg-id="1396" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="TEST",TEST
 https://bd.drmlive.net/toffee/cdn/live/discoveryscience_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1396" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="TEST",TEST
-https://bd.drmlive.net/toffee/cdn/live/discovery_science_hd/playlist.m3u8
