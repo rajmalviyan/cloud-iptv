@@ -670,7 +670,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 
 #EXTINF:-1 tvg-id="ts217" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Marathi.png" group-title="Music",Sangeet Marathi
-https://live.dinesh29.com.np/stream/jiotvplus/sangeetmarathi/master.m3u8
+https://jmp2.uk/stvp-INBD4700016S7
 
 #EXTINF:-1 tvg-id="ts1509" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maiboli.png" group-title="Music",Maiboli
 https://sablive-ddpb.akamaized.net/maiboli/playlist.m3u8
@@ -685,7 +685,7 @@ https://keralive.com/yupp-usa/tv.php?c=9xm|Referer=https://keralive.com
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
 
 #EXTINF:-1 tvg-id="440" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Music",9X Jalwa YUPPTV
-https://keralive.com/yupp-usa/tv.php?c=9x-jalwa&e=.m3u8|Referer=https://keralive.com/yupp-usa/play.php?watch=9x-jalwa
+https://keralive.com/yupp-usa/tv.php?c=9x-jalwa|Referer=https://keralive.com
 
 #EXTINF:-1 tvg-id="ts9" tvg-logo="https://i.imgur.com/KSxPLJA.png" group-title="Music",B4U Music
 https://amg00877-b4unew-amg00877c3-lg-in-5261.playouts.now.amagi.tv/playlist.m3u8
@@ -697,7 +697,7 @@ https://app.hughag.store/api/60fb3f6a8b/playlist.m3u8
 https://sablive-ddpb.akamaized.net/mastii/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ts17" tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/logo_20231219_215430_68.png" group-title="Music",Mastiii YUPPTV
-https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
+https://sabliveyupp.akamaized.net/mastii/playlist.m3u8
 
 #EXTINF:-1 tvg-id="250" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music",Music India
 https://jmp2.uk/stvp-INBD4700015M0
@@ -1942,6 +1942,7 @@ https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8
 https://d2jso9g61rg1h8.cloudfront.net/index_3.m3u8
 #EXTINF:-1 tvg-id="657" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png"group-title="Zee5" , Zee Business
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+
 
 
 
