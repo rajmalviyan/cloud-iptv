@@ -1158,13 +1158,13 @@ https://jtvp.8088yyy.workers.dev/bpk-tv/History_HD_BTS/output/index.mpd|Referer=
 #KODIPROP:inputstream.adaptive.license_key=053d3a1f8d5e5d759a7cbaa5b9ca7a0d:020e466407e9be52f1884697ef9d9ec9
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 #EXTINF:-1 tvg-id="ts137" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/National_Geographic.png" group-title="Knowledge",National Geographic
-https://jiotvmblive.cdn.jio.com/bpk-tv/National_Geographic_BTS/output/index.mpd
+https://jtvp.8088yyy.workers.dev/bpk-tv/National_Geographic_BTS/output/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b006dd7965e5777a7fa33dd636c2e5d:179f796bdf11b750bebd469a3aeae1d0
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6 YGX/69.69.69.69
 #EXTINF:-1 tvg-id="ts605" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/National_Geographic_HD.png" group-title="Knowledge",National Geographic ᴴᴰ
-https://jiotvmblive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/output/index.mpd
+https://jtvp.8088yyy.workers.dev/bpk-tv/National_Geographic_HD_BTS/output/index.mpd
 
 #EXTINF:-1 tvg-id="ts184" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nat_Geo_Wild.png" group-title="Knowledge",Nat Geo Wild
 https://live.dinesh29.com.np/stream/jiotvplus/natgeowild/master.m3u8
@@ -1936,6 +1936,7 @@ https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8
 https://d2jso9g61rg1h8.cloudfront.net/index_3.m3u8
 #EXTINF:-1 tvg-id="657" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png"group-title="Zee5" , Zee Business
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+
 
 
 
