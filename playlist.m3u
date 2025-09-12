@@ -1296,10 +1296,10 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2e
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6
 https://jtvp.8088yyy.workers.dev/bpk-tv/DD_Sports_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=AEN/opS+AyitTqcCh1Bl5I=:AEN/opS+AyitTqcCh1Bl5I=
 #EXTINF:-1 tvg-id="1396" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Sports",TEN CRICKET
-https://bd.drmlive.net/toffee/cdn/live/ten_cricket/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
+https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="ts812" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="Sports",Eurosport ᴴᴰ
 https://live.dinesh29.com.np/stream/jiotvplus/eurosporthd/master.m3u8
@@ -1947,6 +1947,7 @@ https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8
 https://d2jso9g61rg1h8.cloudfront.net/index_3.m3u8
 #EXTINF:-1 tvg-id="657" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png"group-title="Zee5" , Zee Business
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+
 
 
 
