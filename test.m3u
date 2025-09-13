@@ -8,3 +8,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia2/default/main.mpd
 
 #EXTINF:-1 tvg-id="music-india" tvg-name="Music India" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/fjeoiu.png" tvg-chno="music-india" group-title="Music",Music India
 https://otttv.co.in/d2h/player.php?id=music-india|Referer=https://onezoo.net
+
+
+#EXTINF:-1 tvg-id="music-india" tvg-name="Music India" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/fjeoiu.png" tvg-chno="music-india" group-title="Music",Music India
+#KODIPROP:inputstream.adaptive.license_type=clearkey  
+#KODIPROP:inputstream.adaptive.license_key=e874f3a7e5de42fca2b2a93b318fa52e:a77f240d277c47a5a0bc934072c4d7da"
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Musicindia2/default/main.mpd
+
