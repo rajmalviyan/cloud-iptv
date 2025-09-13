@@ -886,9 +886,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="ts139" tvg-logo="https://a.jsrdn.com/hls/23111/9xm/logo_20240607_163326_70.png" group-title="SmartTV HD",9XM
 https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/master.m3u8
 
-#EXTINF:-1 tvg-id="ts139" tvg-logo="https://a.jsrdn.com/hls/23111/9xm/logo_20240607_163326_70.png" group-title="SmartTV HD",9XM YUPPTV
-https://keralive.com/yupp-usa/tv.php?c=9xm|Referer=https://keralive.com
-
 #EXTINF:-1 tvg-id="440" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="SmartTV HD",9X Jalwa
 https://amg01281-amg01281c3-amgplt0173.playout.now3.amagi.tv/playlist/amg01281-amg01281c3-amgplt0173/playlist.m3u8
 
