@@ -773,17 +773,11 @@ https://keralive.com/yupp-usa/tv.php?c=insync|Referer=https://keralive.com
 #EXTINF:-1 tvg-id="ts155" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="News",ABP Majha
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-majha/master.m3u8
 
-#EXTINF:-1 tvg-id="ts155" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="News",ABP Majha YUPPTV
-https://abplive.vgcdn.net/ptnr-yupptv/title-Majha/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/32dc7692-5fff-4161-83d0-b36132df372e/master.m3u8
-
 #EXTINF:-1 tvg-id="ts1343" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NDTV_Marathi.png" group-title="News",NDTV Marathi
 https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
 
 #EXTINF:-1 tvg-id="ts97" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Maharashtra.png" group-title="News",TV9 Marathi
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv9-marathi/main.m3u8
-
-#EXTINF:-1 tvg-id="ts97" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TV9_Maharashtra.png" group-title="News",TV9 Marathi YUPPTV
-https://vg-tv9yupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-780326/main.m3u8
 
 #EXTINF:-1 tvg-id="ts546" tvg-logo="https://i.imgur.com/SNsjJjt.png" group-title="News",Saam TV
 https://live.dinesh29.com.np/stream/jiotvplus/saamtv/master.m3u8
@@ -801,7 +795,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/in
 https://live.dinesh29.com.np/stream/jiotvplus/lokshahinews/master.m3u8
 
 #EXTINF:-1 tvg-id="ts233" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jai_Maharashtra.png" group-title="News", Jai Maharashtra
-https://keralive.com/yupp/tv.php?c=jai-maharashtra|Referer=https://keralive.com
+https://live.dinesh29.com.np/stream/jiotvplus/jaimaharashtra/master.m3u8
 
 #EXTINF:-1 tvg-id="1151" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rangamanch.png" group-title="News",Rangamanch
 https://amigofx.com:1936/rangmanch/rangmanch/playlist.m3u8
@@ -1052,9 +1046,6 @@ https://cdn-6.pishow.tv/live/9/master.m3u8
 
 #EXTINF:-1 tvg-id="528" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_India.png" group-title="Doordarshan",DD India
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
-
-#EXTINF:-1 tvg-id="528" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_India.png" group-title="Doordarshan",DD India YUPPTV
-https://keralive.com/yupp/tv.php?c=dd-india|Referer=https://keralive.com
 
 #EXTINF:-1 tvg-id="ts316" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DD_bharati.png" group-title="Doordarshan",DD Bharati
 https://cdn-1.pishow.tv/live/10/master.m3u8
@@ -1945,6 +1936,7 @@ https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8
 https://d2jso9g61rg1h8.cloudfront.net/index_3.m3u8
 #EXTINF:-1 tvg-id="657" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png"group-title="Zee5" , Zee Business
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+
 
 
 
