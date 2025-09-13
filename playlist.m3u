@@ -302,7 +302,10 @@ https://la.drmlive.net/tp/zee-176.m3u8
 #EXTINF:-1 tvg-id="ts7" tvg-logo="https://media.istockphoto.com/id/1253945862/vector/sale2.jpg?s=612x612&w=0&k=20&c=VTvCdHZZXQJjtMKvAMU0x7bdoQAhnIYkvFft4Af2aUM=" group-title="Movies", Bollywood Cinema
 https://live20.bozztv.com/giatvplayout7/giatv-209593/index.m3u8
 
-#EXTINF:-1 tvg-id="ts7" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2021/01/Utsav-Gold.jpg" group-title="Movies",Utsav Gold
+#EXTINF:-1 tvg-id="" tvg-logo="https://onezoo.net/wp-content/uploads/2025/09/ChatGPT-Image-Sep-8-2025-09_53_44-PM-1.jpg" group-title="Movies",Big Star Bollywood
+https://amigofx.com:1936/bigstarmovie/bigstarmovie/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ts7" tvg-logo="https://image.roku.com/developer_channels/prod/9ed3faf6a5383562493914972671ac07e43794f1c9a4dc5a576328207393d1d8.png" group-title="Movies",Bollywood Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 
 #EXTINF:-1 tvg-id="ts1050" tvg-logo="https://the-media-ant.mo.cloudinary.net/medias/61e549419a097e44b3cfb289/1642421802122/Abzy-movies%20logo%201_logo.jpg" group-title="Movies", ABZY Movies
@@ -1941,6 +1944,7 @@ https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8
 https://d2jso9g61rg1h8.cloudfront.net/index_3.m3u8
 #EXTINF:-1 tvg-id="657" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png"group-title="Zee5" , Zee Business
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+
 
 
 
