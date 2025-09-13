@@ -314,6 +314,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://ewzodqjjsrn.exactdn.com/wp-content/uploads/2023/08/ChatGPT-Image-Sep-4-2025-08_21_25-AM-1.jpg" group-title="Movies",Shemaroo Josh
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://onezoo.net/wp-content/uploads/2025/09/ChatGPT-Image-Sep-8-2025-09_58_41-PM-1.jpg" group-title="Movies",Hitz Entertainment
+https://amigofx.com:1936/hitzentertainment/hitzentertainment/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ts7" tvg-logo="https://image.roku.com/developer_channels/prod/9ed3faf6a5383562493914972671ac07e43794f1c9a4dc5a576328207393d1d8.png" group-title="Movies",Bollywood Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 
@@ -716,6 +719,9 @@ https://jio.drmlive.net/jio/bpk-tv/MTV_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="ts406" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music",MTV ᴴᴰ
 http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/M_Tunes_HD.jpeg" group-title="Music",M Tunes ᴴᴰ
+https://ca1.buximedia.com/itv/indian/index.m3u8
 
 #EXTINF:-1 tvg-id="ts517" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zing.png" group-title="Music",Zing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -1944,6 +1950,7 @@ https://d3vmwjy7v49lo5.cloudfront.net/index_4.m3u8
 https://d2jso9g61rg1h8.cloudfront.net/index_3.m3u8
 #EXTINF:-1 tvg-id="657" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png"group-title="Zee5" , Zee Business
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+
 
 
 
