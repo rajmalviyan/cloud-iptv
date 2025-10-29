@@ -9,7 +9,7 @@ CHANNEL_LOGO = "https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.
 def runServers():
 
     # Create a single combined playlist file with EPG URL
-    with open("docs/combined_playlist.m3u", "w", encoding='utf-8-sig') as file:
+    with open("combined_playlist.m3u", "w", encoding='utf-8-sig') as file:
         file.write("#EXTM3U x-tvg-url=\"https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz\"\n")
 
     # Process each server and append to the combined playlist
